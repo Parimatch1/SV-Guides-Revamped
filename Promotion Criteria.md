@@ -137,7 +137,7 @@ Below elaborates on crucial information that should be known prior to promoting 
 ---
 
 # **Promotion Log Format**
-Your Username: Username, Username, Username
+```Your Username: Username, Username, Username
 Your Rank: Rank, Rank, Rank
 Their Username: 
 Old Rank - New Rank: Old Rank --> New Rank
@@ -200,6 +200,6 @@ X Suspension [X+ Months Ago]
 X Termination [X+ Months Ago]
 X Blacklist [X+ Months Ago]
 
-Approved By:
+Approved By:```
 
 **Created by Legoking12501. Reviewed by Legoking12501 Governor Administration.**

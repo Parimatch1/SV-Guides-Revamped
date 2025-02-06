@@ -90,8 +90,6 @@ You should have a notepad in-game to keep track of information while hosting. Us
 > `Callback: XX:##`
 > `Passer Name [CD/Rank or Old Rank-New Rank]`
 
----
-
 ### **Calls**
 
 **Supervisor:** h There's a Shift being hosted in the session room, come and attend to show activity and possibly receive a promotion! [1/3]

@@ -1,6 +1,10 @@
 # **Stateview Correctional Facility**
 **Certified/Elevated High Rank & EoTW/EoTM Overview**
 
+![|720x7](upload://dKMei7dM4sB9JlFMy9V7oxqKAb "short line")
+
+Below outlines the rewards and requirements of the Certified High Rank, Elevated High Rank, Employee of the Week, and Employee of the Month roles.
+
 ---
 
 # **Certified High Rank**

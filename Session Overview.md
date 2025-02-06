@@ -64,7 +64,10 @@ Stateview inspections are designed to go over a wide catalogue of basic and adva
 
 # **Spectator Information**
 
-* Community Advisory Council with EHR, Prison Commissioner+, Respected Inmate, and Certified High Rank can spectate without permission.
+* Community Advisory Council with EHR can spectate without permission.
+* Prison Commissioner+ can spectate without permission. 
+* Respected Inmate can spectate without permission.
+* Certified High Rank can spectate without permission.
 * GA Head Administrator+ can spectate shifts and trainings without permission.
 * GA Game Administrator+ can spectate shifts without permission.
 * OC can spectate shifts and trainings with the host's permission.

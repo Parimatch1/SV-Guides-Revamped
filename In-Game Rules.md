@@ -31,6 +31,7 @@ The Stateview In-Game Rules & Moderation Policies outline the steps necessary fo
 * You must log on Bloxcord and in Intel with your department unless you are punishing independently as an FD+.  
   * Example: Tool abuse (First Infraction) || SVGA.  
 * If logged on Bloxcord under a department, the punishment is no longer under the authority of IA but instead that department's high command.
+* Reverted punishments that are not invalid still count towards the infraction count and the punishment infraction count.
 
 ---
 

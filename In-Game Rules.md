@@ -13,9 +13,11 @@ The Stateview In-Game Rules & Moderation Policies outline the steps necessary fo
 * Certain Support Agency members can revert punishments issued by Support Agency if they have a valid reason.  
 * Board of Governors+ can revert punishments not issued under a department if they have a valid reason. A report to the intelligence agency is also mandatory.
 * Community Advisory Council+ can issue blacklists. However, Board of Governors+ permission is required to issue a blacklist.
-* Chief of Staff+ can modify punishments if they have a valid reason.
-* Chief of Staff+ can make punishments unappealable if they have a valid reason.
-* Chief of Staff+ can make punishments reason and/or proof classified if they have a valid reason.
+* Chief of Staff+ and the Intelligence Agency can modify punishments if they have a valid reason.
+* Chief of Staff+ and the Intelligence Agency can make punishments unappealable if they have a valid reason.
+* Chief of Staff+ and the Intelligence Agency can classify the reason and/or proof for a punishment if they have a valid reason.
+* All ranks are required to log punishments. However, Chief of Staff+ are exempt from the proof requirement. Note that not adding proof may make appealing the violation easier.
+* Mutes, Staff Warnings, Tool Bans, Game Bans, Rank Locks, Modcall Bans, Suspensions, Demotions, and Terminations can be appealed.
 * In the event that you do not have the authority to impose a punishment on a user, contact a user who does or create a report.
 * Modified punishments do count towards that type of infraction [Chat Mute, Tool Ban, Game Ban, Etc.].  
   * Example: This means if someone gets a modified ban of 7 days and it is their first ban, the second ban should still be 3 days.

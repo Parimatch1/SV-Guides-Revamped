@@ -128,7 +128,7 @@ Server ID:
 # **Start**
 ### **Calls**
 
-**Supervisor:** m There's a Mandatory Inspection being hosted in the session room, come and attend to show activity and possibly receive a promotion! [1/3]
+**Host:** m There's a Mandatory Inspection being hosted in the session room, come and attend to show activity and possibly receive a promotion! [1/3]
 
 > `[Any CAC+ should start bringing and teaming those on the inmate team who are CAO+. This is a mandatory session for everyone in the server (under CAC) to attend.]`
 

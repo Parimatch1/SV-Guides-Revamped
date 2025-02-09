@@ -57,9 +57,7 @@ Every month, the Community Management Team will grant the hardest working user o
 This role's color can be customized to the recipient's liking.
 
 ### **EoTW/EoTM Benifits**
-* Host/Co-Host unlimited times per day.  
 * Fully excused from the following week's session and minute quota.  
-* Fully excused from the following week's department quota for all departments the user is in.  
-* Permission to spectate any session without the host's permission.
+* Fully excused from the following week's department quota for all departments the user is in.
 
 **Created by Legoking12501. Reviewed by Legoking12501 Governor Administration.**

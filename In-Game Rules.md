@@ -35,6 +35,7 @@ The Stateview In-Game Rules & Moderation Policies outline the steps necessary fo
   * Example: Tool abuse (First Infraction) || SVGA.  
 * If logged on Bloxcord under a department, the punishment is no longer under the authority of IA but instead that department's high command.
 * Reverted punishments that are not invalid still count towards the infraction count and the punishment infraction count.
+* Users who break rules are allowed to know the reason and length of their punishment. They can also see the proof related to it.
 
 ---
 

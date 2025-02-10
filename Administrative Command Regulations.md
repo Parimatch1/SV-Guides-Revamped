@@ -81,9 +81,10 @@ If you forget to provide reasoning for a command do as below:
 ---
 
 # **Command Directory**
-* Red (:x:) commands are blacklisted.
+* Red (:x:) commands are blacklisted and should not be used at all.
 * Blue (:ballot_box_with_check:) commands are permitted on inmate or criminal teams (unless used to abuse).
 
+### **Everyone/Gamepass Admin Commands**
 |Command|Permission Level|Description|
 | --- | --- | --- |
 |:ballot_box_with_check: cmds|Everyone|Displays a list of commands.|
@@ -122,3 +123,70 @@ If you forget to provide reasoning for a command do as below:
 |:x: pitch [integer] [reason]|Gamepass|Changes the pitch of the music.|
 |:x: stopsound [reason]|Gamepass|Stops the currently playing music.|
 |:x: !awardcape [username]|Gamepass|Gives the specified user an admin cape.|
+
+### **HR Admin Commands**
+|Command|Permission Level|Description|
+| --- | --- | --- |
+|h [message]|HR|Displays a server wide message on the top of everyones screen.|
+|srlock|HR|Toggles the session room door.|
+|punish [username]|HR|Displays the in-game punishment panel.|
+|kick [username]|HR|Displays the in-game punishment panel.|
+|ban [username]|HR|Displays the in-game punishment panel.|
+|unban [username] [reason]|HR|Unbans the specified user from the server.|
+|infractions [username]|HR|Displays the specified users infraction history.|
+|:x: createserver [name] [reason]|HR|Creates a private server.|
+|:x: deleteserver [name] [reason]|HR|Deletes a private server.|
+|:x: toreserved [name] [reason]|HR|Teleports you to a private server.|
+
+### **HR+ Admin Commands**
+|Command|Permission Level|Description|
+| --- | --- | --- |
+|warp [warp]|HR+|Warps you to the specified area.|
+|to [username] [reason]|HR+|Teleports you to the specified user.|
+|bring [username] [reason]|HR+|Brings the specified user to your location.|
+|team [username] [team] [reason]|HR+|Teams the specified user to the specified team.|
+|adminduty|HR+|Gives you the admin outfit.|
+|adminoffduty|HR+|Removes the admin outfit.|
+|tp [user1] [user2] [reason]|HR+|Teleports user1 to user2.|
+|:x: gban [username]|HR+|Displays the in-game punishment panel. Game bans should be done on Bloxcord.|
+|:x: rankbl [username] [reason]|HR+|Blacklists a user from all ranking services. This should be done with rank locks on Bloxcord.|
+|:x: unrankbl [username] [reason]|HR+|Unblacklists a user from all ranking services. This should be done with reverting rank locks on Bloxcord.|
+|:x: volume [integer] [reason]|HR+|Changes the music volume.|
+|:x: time [integer] [reason]|HR+|Sets the day/light cycle to the specified time.|
+|:x: removetools [username] [reason]|HR+|Removes the specified users tools.|
+|:x: clearstargergear [username] [reason]|HR+|Clears the specified users startergear.|
+
+### **SHR Admin Commands**
+|Command|Permission Level|Description|
+| --- | --- | --- |
+|god [username] [reason]|SHR|Makes the specified user immune to all damage.|
+|ungod [username] [reason]|SHR|Makes the specified user vulnerable to damage.|
+|m [message]|SHR|Displays a server wide message on the middle of everyones screen.|
+|sm [message]|SHR|Displays a server wide message on the middle of everyones screen.|
+|give [username] [tool] [reason]|SHR|Gives the specified user the specified tool.|
+|:ballot_box_with_check: heal [username] [reason]|HAX|Fully regenerates the specified users health.|
+|:ballot_box_with_check: tools|SHR|Displays a list of giveable tools.|
+|:x: name [username] [name]|SHR|Puts a nametag with the text above the users head.|
+|:x: startergear [username] [tool] [reason]|SHR|Permanently gives the specified user the specified tool.|
+|:x: ff [username] [reason]|SHR|Creates a forcefield around the specified user.|
+|:x: unff [username] [reason]|SHR|Removes the forcefield from the specified user.|
+|:x: countdown [integer] [reason]|SHR|Begins a server wide countdown.|
+|:x: slock|SHR|Locks the server so only users with moderator+ permissions can join.|
+|:x: unslock|SHR|Unlocks the server so everyone can join.|
+|:x: mod [username] [reason]|SHR|Gives a user mod commands.|
+|:x: admin [username] [reason]|SHR|Gives a user admin commands.|
+|:x: superadmin [username] [reason]|SHR|Gives a user superadmin commands.|
+|:x: shutdown [reason]|SHR|Shutsdown the current server.|
+|:x: place [username] [gameid]|SHR|Places the specified user into the specified game.|
+|:x: vol [integer] [reason]|SHR|Changes the music volume.|
+|:x: setreverb [reverb] [reason]|SHR|Changes the servers sound reverb to the specified reverb.|
+
+### **HAX Admin Commands**
+|Command|Permission Level|Description|
+| --- | --- | --- |
+|:x: jail [username] [reason]|HAX|Jails the specified user.|
+|:x: unjail [username] [reason]|HAX|Unjails the specified user.|
+|:x: change [username] [stat] [value]|HAX|Changes the specified leaderstat for the specified user.|
+|:x: crash [username] [reason]|HAX|Crashes the specified users roblox.|
+
+**Created by Legoking12501. Reviewed by Legoking12501 Governor Administration.**

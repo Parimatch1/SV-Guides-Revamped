@@ -164,7 +164,7 @@ If you forget to provide reasoning for a command do as below:
 |m [message]|SHR|Displays a server wide message on the middle of everyones screen.|
 |sm [message]|SHR|Displays a server wide message on the middle of everyones screen.|
 |give [username] [tool] [reason]|SHR|Gives the specified user the specified tool.|
-|:ballot_box_with_check: heal [username] [reason]|HAX|Fully regenerates the specified users health.|
+|:ballot_box_with_check: heal [username] [reason]|SHR|Fully regenerates the specified users health.|
 |:ballot_box_with_check: tools|SHR|Displays a list of giveable tools.|
 |:x: name [username] [name]|SHR|Puts a nametag with the text above the users head.|
 |:x: startergear [username] [tool] [reason]|SHR|Permanently gives the specified user the specified tool.|

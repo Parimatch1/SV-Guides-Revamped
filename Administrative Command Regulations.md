@@ -38,7 +38,7 @@ Users who have acquired administrative privileges through the Gamepass level are
 ---
 
 ### **Chief of Staff+ Regulation Exemptions**
-Individuals holding the rank of Chief of Staff or higher are exempt from all administrative regulations. This exemption is valid as long as their actions; 
+Individuals holding the rank of Chief of Staff or higher are exempt from all administrative regulations. This exemption is valid as long as their actions:
 * Do not cause significant disruption to the Roleplay experience across the server.
 * Are backed by adequate reasoning and justification.
 

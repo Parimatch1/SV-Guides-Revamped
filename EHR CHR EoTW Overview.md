@@ -47,7 +47,7 @@ Elevated High Rank can also be granted for 1 week by the Community Management Te
 
 ---
 
-# **Employee of the Week/Month**
+# **Employee of the Week**
 ### **Employee of the Week Information**
 Every week, the Community Management Team will grant the hardest working user of that week the "Employee of the Week" role.  
 This role's color can be customized to the recipient's liking.
@@ -55,5 +55,7 @@ This role's color can be customized to the recipient's liking.
 ### **EoTW Benifits**
 * Fully excused from the following week's session and minute quota.  
 * Fully excused from the following week's department quota for all departments the user is in.
+* Allowed to bypass the hosting and co-hosting limit.
+* Allowed to spectate any session without prior approval.
 
 **Created by Legoking12501. Reviewed by Legoking12501 Governor Administration.**

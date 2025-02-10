@@ -1,9 +1,9 @@
 # **Stateview Correctional Facility**
-**Certified/Elevated High Rank & EoTW/EoTM Overview**
+**Certified/Elevated High Rank & EoTW Overview**
 
 ![|720x7](upload://dKMei7dM4sB9JlFMy9V7oxqKAb "short line")
 
-Below outlines the rewards and requirements of the Certified High Rank, Elevated High Rank, Employee of the Week, and Employee of the Month roles.
+Below outlines the rewards and requirements of the Certified High Rank, Elevated High Rank, and Employee of the Week roles.
 
 ---
 
@@ -52,11 +52,7 @@ Elevated High Rank can also be granted for 1 week by the Community Management Te
 Every week, the Community Management Team will grant the hardest working user of that week the "Employee of the Week" role.  
 This role's color can be customized to the recipient's liking.
 
-### **Employee of the Month Information**
-Every month, the Community Management Team will grant the hardest working user of that month the "Employee of the Month" role.  
-This role's color can be customized to the recipient's liking.
-
-### **EoTW/EoTM Benifits**
+### **EoTW Benifits**
 * Fully excused from the following week's session and minute quota.  
 * Fully excused from the following week's department quota for all departments the user is in.
 

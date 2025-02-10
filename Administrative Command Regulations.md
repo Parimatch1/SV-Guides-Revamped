@@ -86,8 +86,6 @@ If you forget to provide reasoning for a command do as below:
 
 |Command|Permission Level|Description|
 | --- | --- | --- |
-|:ballot_box_with_check: COMMAND|Gamepass|DESC.|
-
 |:ballot_box_with_check: cmds|Everyone|Displays a list of commands.|
 |:ballot_box_with_check: modcall [reason]|Everyone|Calls a moderator to your server. 10 minute cooldown.|
 |:ballot_box_with_check: !joinserver [serverid]|Everyone|Teleports you to the specified server.|

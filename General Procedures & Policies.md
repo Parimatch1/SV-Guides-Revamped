@@ -41,5 +41,20 @@ The following reforms outline the new ranks that reformed members will receive:
 > Chief of Staff-Chairman of the Board --> Chief of Staff or Board of Governors
 > Community Advisory Council-Board of Governors --> Community Advisory Council or Facility Director
 > Chairperson-Facility Director --> Superintendent
+> 
+> Members can be issued a staff warning instead of being fully reformed.
 
-Members can be staff warned instead of being fully reformed.
+The following factors listed below are what will be considered during the reform process:
+> In-Game Activity
+> Discord Activity
+> Respect and Maturity
+> Organizational Impact
+> Community Rating
+
+### Rank Purchases and Quota Excusal
+
+Members who have purchased ranks or any form of quota excusal will still be subject to reforms when they occur. Forms of quota excusal will be taken into account during the reform process.
+
+### Reform Appeals
+
+You have the chance to appeal your reform within 72 hours of notice. Appeals must be well-thought-out and provide supporting evidence to show that you meet enough factors to not be reformed.

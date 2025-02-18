@@ -82,7 +82,7 @@ Resignation Rank Information:
 > *Only Chief of Staff+ Can Grant Respected Inmate*
 > *Chairman of the Board+ can bypass these former staff limits.*
 
-**Respected Inmate Removal Limits** *[If any of the following requirements are met, respected inmate should be removed from that user]*
+### **Respected Inmate Removal Limits** *[If any of the following requirements are met, respected inmate should be removed from that user]*
 > 1. The player was demoted, suspended, or otherwise punished which resulted in the loss of rank.
 > 2. The player has intentionally participated in break rules, corruption, abuse of power, alternative account trolling, racism, exploiting, or any further Roblox ToS or Major Rule Violation.
 > 3. The player has demonstrated consistent disrespect, harassment, bullying, or similar of Stateview's members.

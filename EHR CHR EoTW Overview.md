@@ -58,4 +58,6 @@ This role's color can be customized to the recipient's liking.
 * Allowed to bypass the hosting and co-hosting limit.
 * Allowed to spectate any session without prior approval.
 
+---
+
 **Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration.**

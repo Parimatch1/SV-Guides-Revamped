@@ -355,7 +355,7 @@ AFK Farming: The helper will demonstrate AFK farming.
 
 ---
 
-**Cooldowns**
+# **Cooldowns**
 * Cadet Officer: 2 Days
 * Corrections Officer: 2 Days
 * Emergency Response Team: 3 Days
@@ -366,10 +366,10 @@ AFK Farming: The helper will demonstrate AFK farming.
 
 ---
 
-# Post Session
+# **Post Session**
 * The host should end the session on Bloxcord.
 * The supervisor should DM the host their grade.
 * The host should log the training in [training-logs](https://discord.com/channels/752736840615854082/752736841739796491).
 * The supervisor should log any promotions in [promotion-logs](https://discord.com/channels/752736840615854082/752736841739796496).
 
-**Created by Legoking12501. Reviewed by Legoking12501 Governor Administration.**
+**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration.**

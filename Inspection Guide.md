@@ -484,4 +484,6 @@ Server ID:
 * The host should log the inspection in [inspection-logs](https://discord.com/channels/752736840615854082/752736841739796493).
 * The supervisor should log any promotions in [promotion-logs](https://discord.com/channels/752736840615854082/752736841739796496).
 
+---
+
 **Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration.**

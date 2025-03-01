@@ -111,7 +111,7 @@ In this group, you should discuss who is doing what. You can use the following f
 **Times**
 > Start at [Timestamp]
 > Announce at [Timestamp, 30 Minutes Before Start]
-> - I will be hosting an inspection [Timestamp]. DM @[Co-Host User] with questions and for spectator permissions. No more sessions may be hosted at this point.
+> - `I will be hosting an inspection [Timestamp]. DM @[Co-Host User] with questions and for spectator permissions. No more sessions may be hosted at this point.`
 Server ID: 
 
 
@@ -291,7 +291,7 @@ Server ID:
 **User Doing Questions:** h 3 questions will be posted on radio channel 3 one at a time. You are expected to reply to the question within the private message you have been sent. Each question will be posted multiple times.
 
 ### **Questions**
-> `[You can do your own]`
+> `[You can do your own questions]`
 * Where should inmates be placed in a lockdown drill?
 * What should stafff do during a blackout drill?
 * What is the patrol team responsible for?
@@ -466,7 +466,7 @@ Server ID:
 
 ---
 
-**Cooldowns**
+# **Cooldowns**
 * Cadet Officer: 2 Days
 * Corrections Officer: 2 Days
 * Emergency Response Team: 3 Days
@@ -479,9 +479,9 @@ Server ID:
 
 ---
 
-# Post Session
+# **Post Session**
 * The host should end the session on Bloxcord.
 * The host should log the inspection in [inspection-logs](https://discord.com/channels/752736840615854082/752736841739796493).
 * The supervisor should log any promotions in [promotion-logs](https://discord.com/channels/752736840615854082/752736841739796496).
 
-**Created by Legoking12501. Reviewed by Legoking12501 Governor Administration.**
+**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration.**

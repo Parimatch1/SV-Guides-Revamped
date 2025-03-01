@@ -36,11 +36,11 @@ Stateview upholds a commitment to the utmost professionalism for our staff, depa
 
 ---
 
-# Organization Information and Procedures
+# **Organization Information and Procedures**
 
 ---
 
-# I - Reform Strategy & Initiatives
+# **I - Reform Strategy & Initiatives**
 
 * Reforms are designed to uphold the activity, maturity, and professionalism standards of our high ranking users. In order to uphold these values we have decided to introduce a reform initiative policy. This policy aims to ensure these expectations are met and to reform members who do not meet our standards.
 
@@ -58,7 +58,7 @@ The following factors listed below are what will be considered during the reform
 > Organizational Impact
 > Community Rating
 
-### Additional Information
+### **Additional Information**
 * Members who have purchased ranks or any form of quota excusal will still be subject to reforms when they occur. Forms of quota excusal will be taken into account during the reform process.
 * You have the chance to appeal your reform within 72 hours of notice. Appeals must be well-thought-out and provide supporting evidence to show that you meet enough factors to not be reformed.
 
@@ -66,19 +66,19 @@ The following factors listed below are what will be considered during the reform
 
 * For users who wish to honorably conclude their time as a high rank in Stateview have the option to resign. The user resigning must meet all the requirements below or else they will be denied resignation until all requirements are met.
 
-# II - Resignation and Reinstatement Procedures
+# **II - Resignation and Reinstatement Procedures**
 
-Resignation Rank Information:
+**Resignation Rank Information:**
 > Chairperson+ can resign to Superintendent or Low Security Inmate
 > Prison Commissioner+ can resign to Respected Inmate.
 
-### Resignation Limits *[If any of the following requirements are met, the resignation should be denied]*
+**Resignation Limits** *[If any of the following requirements are met, the resignation should be denied]*
 > 1. Attempting to resign within 30 days of resigning.
 > 2. Attempting to resign to avoid pending punishment.
 > 3. Attempting to resign when the player's rank does not have any quotas or other activity-based requirements.
 > *Branch Diversity Team+ can bypass these resignation limits.*
 
-### Respected Inmate Limits *[If any of the following requirements are met, respected inmate should be denied]*
+**Respected Inmate Limits** *[If any of the following requirements are met, respected inmate should be denied]*
 > 1. The player did not earn any PC+ rank without purchase or board choice.
 > 2. The player is not ranked at or above Prison Commissioner.
 > 3. The player is not respected by the community.
@@ -87,7 +87,7 @@ Resignation Rank Information:
 > *Only Chief of Staff+ Can Grant respected inmate*
 > *Chairman of the Board+ can bypass these respected inmate limits.*
 
-### Respected Inmate Removal Limits *[If any of the following requirements are met, respected inmate should be removed from that user]*
+**Respected Inmate Removal Limits** *[If any of the following requirements are met, respected inmate should be removed from that user]*
 > 1. The player was demoted, suspended, or otherwise punished which resulted in the loss of rank.
 > 2. The player has intentionally participated in break rules, corruption, abuse of power, alternative account trolling, racism, exploiting, or any further Roblox ToS or Major Rule Violation.
 > 3. The player has demonstrated consistent disrespect, harassment, bullying, or similar against Stateview's members.
@@ -95,7 +95,7 @@ Resignation Rank Information:
 > 5. A Chief of Staff+ has deemed the player ineffective in carrying out their duties when they were a Chairperson+.
 > 6. A Chairman of the Board+ has deemed the player undeserving of the respected inmate position.
 
-### Reinstatement Limits *[If any of the following requirements are met, the reinstatement should be denied]*
+**Reinstatement Limits** *[If any of the following requirements are met, the reinstatement should be denied]*
 > 1. The player failed to complete 50+ active in-game hours in the last 7 days (50/168 Hours)
 > 2. The player currently holds (or has held since their last resignation) a staff rank higher than or equal to Chairperson.
 > 3. The player resigned less than 60 days ago.
@@ -109,20 +109,20 @@ Resignation Rank Information:
 
 ---
 
-# III - Leave of Absence Polices
-### Leave of Absence Regulations and Basic Information
+# **III - Leave of Absence Polices**
+**Leave of Absence Regulations and Basic Information**
 * Users ranked Chairperson+ may submit a Leave of Absence (LOA) request [here](https://discord.com/channels/696544612810096681/914632815503630346) if they wish to take a break from their duties.
 * LOA must last at least 7 days and no more then 21 days.
 * The length of your last LOA will be your cooldown. For example if you take a 7 day LOA, you can not take another LOA for 7 days.
 * Users who submit a LOA request on or before Thursday will be fully exempt from quota.
 * If your LOA concludes after Thursday you will be excused from quota for that week.
 
-### Leave of Absence Rules and Information
+**Leave of Absence Rules and Information**
 * Users are expected to provide full honesty as to why they are taking LOA.
 * You can request to have the user handling the LOA request DM you to obtain the reason.
 * Users are prohibited from joining any staff teams in Stateview during their LOA.
 
-### Leave of Absence Rule Violation
+### **Leave of Absence Rule Violation**
 
 Definition: Violation of any of the outlined "Leave of Absence Rules and Information".
 
@@ -132,25 +132,25 @@ Definition: Violation of any of the outlined "Leave of Absence Rules and Informa
 
 ---
 
-# IV - Forced Leave Procedures & Polices
+# **IV - Forced Leave Procedures & Polices**
 * In an attempt to ensure the health and saftey of our high ranks we have decided to implement Forced Leave. Forced Leave will require the player to suspend all activity in Stateview in an attempt to improve their overall health and well-being. Forced Leave is imposed against a user if they have demonstrated unsafe, addictive, or other unwell behavior.
 * Users ranked Chief of Staff+ and certain Community Management members have the authority to impose Forced Leave against a user.
 
-### Minor Forced Leave
+**Minor Forced Leave**
 * Users are not allowed to play Stateview for any amount of time.
 * Users are not allowed to participate in any Stateview related events.
 * Users are not allowed to act as a High Rank or Departmental Member.
 * Minor Forced Leave can last between 7-14 days.
 * Users are permitted to send 20 messages total across the stateview main and intel servers per day.
 
-### Major Forced Leave
+**Major Forced Leave**
 * Users are not allowed to play Stateview for any amount of time.
 * Users are not allowed to participate in any Stateview related events.
 * Users are not allowed to act as a High Rank or Departmental Member.
 * Minor Forced Leave can last between 7-21 days.
 * Users are permitted to send 20 messages total across the stateview main and intel servers per day.
 
-### Forced Leave Policy Violation
+### **Forced Leave Policy Violation**
 
 Definition: Violation of any of the outlined forced leave policies while being subject to forced leave.
 
@@ -159,7 +159,7 @@ Definition: Violation of any of the outlined forced leave policies while being s
 
 ---
 
-# V - Organization Departements & Programs
+# **V - Organization Departements & Programs**
 * Stateview has many departments with diverse duties, these departments serve as the backbone of our community. Departments are resposible for overseeing all operations within Stateview and ensuring all actions are compliant to existing guidelines. Each department plays a unique and vitial role within Stateview.
 
 > 1. **Stateview Executive Committee**
@@ -192,13 +192,13 @@ Definition: Violation of any of the outlined forced leave policies while being s
 
 ---
 
-# Organization Regulations & Policies
+# **Organization Regulations & Policies**
 
 ---
 
-# I - Organization Anti-Corruption Policy
+# **I - Organization Anti-Corruption Policy**
 
-Acts of Corruption
+**Acts of Corruption:**
 * **Abuse of Power:** Using authority to unjustly punish or favor individuals.
 * **Personal Matters:** Making decisions based on personal biases rather than objective criteria.
 * **Bias Reports:** Reporting someone with the intention to harm based on personal feelings.
@@ -214,7 +214,7 @@ Acts of Corruption
 
 ---
 
-# II - Sobriety and Professional Conduct Policy
+# **II - Sobriety and Professional Conduct Policy**
 
 * Participating in Stateview in anyway while under the influence of drgus, alcohol, or any substance(s) that can impact a users ability to execute their duties properly is in no way tolerated.
 
@@ -225,7 +225,7 @@ Acts of Corruption
 
 ---
 
-# III - High Rank Disrespect Policy
+# **III - High Rank Disrespect Policy**
 
 * As a high rank in Stateview showing respect is absolutely required. As a high rank you are a reflection of Stateview as a whole and are expected to act as such. Showing respect is crucial for creating a positive environment within Stateview.
 
@@ -237,7 +237,7 @@ Acts of Corruption
 
 ---
 
-# IV - Adherence to Chain of Command Policy
+# **IV - Adherence to Chain of Command Policy**
 
 * Users are expected to go in order from lowest rank to highest rank when they have an issue/inquiry. They should begin at the lowest rank that can assist them and move up rank by rank.
 
@@ -246,7 +246,7 @@ Acts of Corruption
 
 ---
 
-# V - Illegal or Unlawful Activities
+# **V - Illegal or Unlawful Activities**
 
 * Committing any acts that are illegal under the United States Federal Law is strictly prohibited.
 
@@ -255,8 +255,9 @@ Acts of Corruption
 
 ---
 
-# VI - Leaking Classified Material
+# **VI - Leaking Classified Material**
 
+**Types of Leaking:**
 * **Leaking of Intel Server Logs:** You may not leak any logs from the administration server, except for promotions, sessions, rank locks, and blacklist logs. You may only share the punished person’s reason and proof if requested.
 * **Leaking of Classified Department Material:** Sharing any classified department material, as defined by the department high command, is strictly prohibited.
 * **Leaking of Messages by SHR+:** You may not leak any messages by SHR+ that are explicitly requested not to be leaked.
@@ -269,7 +270,7 @@ Acts of Corruption
 
 ---
 
-# VII - Failure to be in Main and/or Administration Server(s)
+# **VII - Failure to be in Main and/or Administration Server(s)**
 
 * *Note: Users ranked Community Advisory Council+ and the Support Agency are authorized to punish under this rule.*
 
@@ -280,7 +281,7 @@ Acts of Corruption
 
 ---
 
-# VIII - Failure to Report Major Rule Breakers
+# **VIII - Failure to Report Major Rule Breakers**
 
 * If you observe a user violating rules in a major way you have an obligation to either report it or punish the user yourself. Failure to do either will result in punishment.
 
@@ -289,7 +290,7 @@ Acts of Corruption
 
 ---
 
-# IX - Threatening to Resign
+# **IX - Threatening to Resign**
 
 * Issuing a threat to resign if a certain condition is met is not allowed. For example saying something like "if SirYeet gets CAC I will resign".
 
@@ -299,7 +300,7 @@ Acts of Corruption
 
 ---
 
-# X - Threating to Violate Regulations/Abuse Authority
+# **X - Threating to Violate Regulations/Abuse Authority**
 
 * As a player or high rank threatening to violate any outlined regulations is strictly prohibited. Threatening to misuse any permissions you withhold is also not allowed.
 
@@ -310,7 +311,7 @@ Acts of Corruption
 
 ---
 
-# XI - Over/Under Punishment
+# **XI - Over/Under Punishment**
 
 * Issuing punishments that are deemed to be to harsh or to weak are not allowed. This includes modifying punishments without proper permission.
 
@@ -319,7 +320,7 @@ Acts of Corruption
 
 ---
 
-# XII - Failure to Log Punishments or Rank Modifications
+# **XII - Failure to Log Punishments or Rank Modifications**
 
 * Failing to log punishments (demotions, tool bans, etc) in our administration server is not allowed. Users have 1 hour to log a punishment they issue.
 
@@ -328,7 +329,7 @@ Acts of Corruption
 
 ---
 
-# XIII - Invalid Punishments
+# **XIII - Invalid Punishments**
 
 * Issuing punishments with a lack of proof, no proof, or invalid proof is not allowed. Issuing promotions that violate cooldowns are not allowed (Chief of Staff+ bypass, Max W-SI). Any other forms of invalid punishing is not allowed.
 
@@ -337,7 +338,7 @@ Acts of Corruption
 
 ---
 
-# XIV - Underage Chairperson+
+# **XIV - Underage Chairperson+**
 
 * All users ranked Chairperson+ are required to be at least 13 years of age.
 
@@ -346,7 +347,7 @@ Acts of Corruption
 
 ---
 
-# XV - Bypassing Demotion/Termination
+# **XV - Bypassing Demotion/Termination**
 
 * Claiming gamepasses or any other invalid form of getting your rank back to bypass a ranking punishment is not allowed.
 
@@ -355,7 +356,7 @@ Acts of Corruption
 
 ---
 
-# XVI - Side Chatting in Administration Logs
+# **XVI - Side Chatting in Administration Logs**
 
 * Side Chatting in any administration logging channel is not allowed.
 
@@ -364,7 +365,7 @@ Acts of Corruption
 
 ---
 
-# XVII - Deleting Administration Logs
+# **XVII - Deleting Administration Logs**
 
 * Deleting any logs in the administration server is not allowed. This does not include deleting sidechatting. If you relog within 5 minutes the deletion is excused.
 
@@ -375,7 +376,7 @@ Acts of Corruption
 
 ---
 
-# XVIII - Violation of Contact Blacklist
+# **XVIII - Violation of Contact Blacklist**
 
 * Communication with users who are contact blacklisted is not allowed. This only applies if the phrase "Contact Blacklist" and their username can be found in the same message. Otherwise the contact blacklist is considered invalid.
 
@@ -386,7 +387,7 @@ Acts of Corruption
 
 ---
 
-XIX - Failure to Meet Session Expectations/Regulations
+# **XIX - Failure to Meet Session Expectations/Regulations**
 
 * Users are expected to comply with all session regulations. This includes hosts, co-hosts, helpers, supervisors, and spectators. This includes things like logging sessions and following expectations.
 

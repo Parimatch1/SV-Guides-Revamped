@@ -189,4 +189,4 @@ If you forget to provide reasoning for a command do as below:
 |:x: change [username] [stat] [value]|HAX|Changes the specified leaderstat for the specified user.|
 |:x: crash [username] [reason]|HAX|Crashes the specified users roblox.|
 
-**Created by Legoking12501. Reviewed by Legoking12501 Governor Administration.**
+**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration.**

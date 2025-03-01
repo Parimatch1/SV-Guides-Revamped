@@ -41,7 +41,7 @@ The Stateview In-Game Rules & Moderation Policies outline the steps necessary fo
   * Example: Tool Abuse (First Infraction) || SVGA.  
 * If logged on Bloxcord under a department, the punishment is no longer under the authority of IA but instead that department's high command.
 * Reverted punishments that are not invalid still count towards the infraction count and the punishment infraction count.
-* Users who break rules are allowed to know the reason and length of their punishment. They can also see the proof related to their punishment so long it does not contain material they do not have access to.
+* Users who break rules are allowed to know the reason and length of their punishment. They can also see the proof related to their punishment so long it does not contain classified material they do not have access to.
 * In the event of a raid against Stateview, users ranked Prison Commissioner+ have the authority to blacklist the raider without permission regardless of the raider's rank or departmental status. Community Advisory Council+ can revert all invalid punishments that were issued due to the raid and add a comment noting that the punishments were from a raid.
 
 ---

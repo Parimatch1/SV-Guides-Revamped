@@ -32,7 +32,7 @@ Stateview upholds a commitment to the utmost professionalism for our staff, depa
   * Example: Bypassing LOA (First Infraction) || SVCM.
 * If logged on Bloxcord under a department, the punishment is no longer under the authority of IA but instead that department's high command.
 * Reverted punishments that are not invalid still count towards the infraction count and the punishment infraction count.
-* Users who break rules are allowed to know the reason and length of their punishment. They can also see the proof related to it.
+* Users who break rules are allowed to know the reason and length of their punishment. They can also see the proof related to their punishment so long it does not contain material they do not have access to.
 
 ---
 

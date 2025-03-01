@@ -14,7 +14,7 @@ Below elaborates on crucial information that should be known upon receiving admi
 |[2] High Rank|Facility Director|
 |[3] High Rank+|Community Advisory Council - Prison Commissioner|
 |[4] Super High Rank|Board of Governors - Branch Diversity Team, Game Administration|
-|[5] HAX|WantBDT Purchase|
+|[5] HAX|Special Grant|
 |[6] Creator|Chairman of the Board - Stateview Leadership|
 
 ---

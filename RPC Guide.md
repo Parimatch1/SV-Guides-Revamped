@@ -318,7 +318,7 @@ The Stateview Riot Protocol Guide outlines the steps necessary for setting up, c
 
 ---
 
-**Cooldowns**
+# **Cooldowns**
 * Cadet Officer: 2 Days
 * Corrections Officer: 2 Days
 * Emergency Response Team: 3 Days
@@ -329,9 +329,9 @@ The Stateview Riot Protocol Guide outlines the steps necessary for setting up, c
 
 ---
 
-# Post Session
+# **Post Session**
 * The host should end the session on Bloxcord.
 * The host should log the riot protocol in [riot-protocol-logs](https://discord.com/channels/752736840615854082/827298368429621309).
 * The supervisor should log any promotions in [promotion-logs](https://discord.com/channels/752736840615854082/752736841739796496).
 
-**Created by Legoking12501. Reviewed by Legoking12501 Governor Administration.**
+**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration.**

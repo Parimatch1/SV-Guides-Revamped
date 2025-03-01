@@ -1,5 +1,5 @@
 # **Stateview Correctional Facility**
-**Shift Guideline**
+**Shift Guidelines**
 
 ![|720x7](upload://dKMei7dM4sB9JlFMy9V7oxqKAb "short line")
 
@@ -65,20 +65,6 @@ The Stateview Shift Guide outlines the steps necessary for setting up, conductin
 
 ---
 
-# **Pre-Session**
-* Find a supervisor who is Facility Director+; Facility Director+ are exempt from this requirement.  
-* Find a ranker who is Community Advisory Council+ or a Facility Director with EHR. Community Advisory Council+ and Facility Directors with EHR are exempt from this requirement.  
-* Once you have a supervisor and a ranker, find a server to host in. Ensure there are no other sessions in that server.  
-* Send the Server ID of your server to any co-host or supervisor you may have. You can obtain the Server ID by typing `!serverid` in the in-game chat.
-* Create the session on **[Bloxcord's (BCs) Sessions Tab](https://app.bloxcord.net/organizations/6f42b034cbfbe2a7a4b4814c15ac3acf/sessions)**:
-  * Select "Host"; this can only be done between XX:20–XX:40 and XX:50–XX:10.
-  * Choose the session type you want to host—in this case, a Shift.
-  * Select your supervisor. Facility Director+ are exempt from having a supervisor.
-  * Add your co-host. You can include one at any point before locking the session.
-  * Click "Create Session".
- 
----
-
 # **Start**
 ### **Notepad**
 
@@ -89,6 +75,8 @@ You should have a notepad in-game to keep track of information while hosting. Us
 > `Drill: XX:##-XX:##`
 > `Callback: XX:##`
 > `Passer Name [CD/Rank or Old Rank-New Rank]`
+
+---
 
 ### **Calls**
 
@@ -317,7 +305,7 @@ You should have a notepad in-game to keep track of information while hosting. Us
 
 ---
 
-**Cooldowns**
+# **Cooldowns**
 * Cadet Officer: 2 Days
 * Corrections Officer: 2 Days
 * Emergency Response Team: 3 Days
@@ -327,10 +315,10 @@ You should have a notepad in-game to keep track of information while hosting. Us
 
 ---
 
-# Post Session
+# **Post Session**
 * The host should end the session on Bloxcord.
 * The supervisor should DM the host their grade.
 * The host should log the shift in [shift-logs](https://discord.com/channels/752736840615854082/752736841739796494).
 * The ranker should log any promotions in [promotion-logs](https://discord.com/channels/752736840615854082/752736841739796496).
 
-**Created by Legoking12501. Reviewed by Legoking12501 Governor Administration.**
+**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration.**

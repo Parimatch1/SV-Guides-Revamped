@@ -36,7 +36,7 @@ Below elaborates on crucial information that should be known prior to promoting 
 **Minimum Recommend Statistics**
 * **Co-Hosts:** 15-20
 * **Helpers:** 18-20
-* **Hardest Workers:** 15-17
+* **Hardest Workers:** 17-20
 * **Patrol Logs:** 15-17
 * **Monthly In-Game Minutes:** 1500+
 * **Level:** 150+
@@ -107,6 +107,9 @@ Below elaborates on crucial information that should be known prior to promoting 
 * **Grammar:** 90%+
 * **Messages in Main:** 3000+
 * **Departments:** 1-4
+* **Intel Logs:** 400+
+* **HR Promotions (By You):** 1
+* **HR Promotions (Participated In, Not By You):** 2-4
 
 **Requirements**
 * Chief of Staff+ approval is required.
@@ -129,10 +132,32 @@ Below elaborates on crucial information that should be known prior to promoting 
 * **Grammar:** 95%+
 * **Messages in Main:** 5000+
 * **Departments:** 2-5
+* **Intel Logs:** 700+
+* **HR Promotions (By You):** 2-4
+* **HR Promotions (Participated In, Not By You):** 4-7
 
 **Requirements**
 * Branch Diversity Team+ approval is required.
 * 5+ agreements (including the BDT+ approval) by Chief of Staff+ are required.
+
+---
+
+# **Board of Governors-Chief of Staff+ Promotion Information**
+* At this point promotions are much more then just statistics. Although these are still a factor things like community engagement, departments, departmental activity, consistency, high trust, maturity, and more become a much larger factor.
+* **Board of Governors-Chief of Staff - Requirements**
+  * Chairman of the Board+ approval is required.
+  * 5+ agreements (including the CMoTB+ approval) by Branch Diversity Team+ are required.
+* **Chief of Staff-Branch Diversity Team - Requirements**
+  * Chairman of the Board+ approval is required.
+  * 5+ agreements (including the CMoTB+ approval) by Branch Diversity Team+ are required.
+* **Branch Diversity Team-Chairman of the Board - Requirements**
+  * Stateview Leadership approval is required.
+  * A majority vote by Chairman of the Board+ is required.
+* **Chairman of the Board-Chief Executive Officer - Requirements**
+  * A majority vote by Stateview Leadership is required.
+* **Chief Executive Officer-Stateview Leadership - Requirements**
+  * SIRJIMM_Y and Watercoolings approval is required.
+  * A majority vote by Stateview Leadership is required.
 
 ---
 
@@ -202,4 +227,4 @@ X Blacklist [X+ Months Ago]
 
 Approved By:```
 
-**Created by Legoking12501. Reviewed by Legoking12501 Governor Administration.**
+**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration.**

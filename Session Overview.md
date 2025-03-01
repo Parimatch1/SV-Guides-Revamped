@@ -47,6 +47,14 @@ Stateview inspections are designed to go over a wide catalogue of basic and adva
 
 ---
 
+# **Certified High Rank Examination**
+
+Guidelines Classified
+
+Stateview chr exams are designed to go over a wide catalogue of advanced skills that are important for high ranking users to know. These sessions review and test attendees on a wide range of scenarios in targeted for high ranks.
+
+---
+
 # **General Session Information**
 
 * The use of VC without PTS counts as speaking outside of PTS.
@@ -57,7 +65,7 @@ Stateview inspections are designed to go over a wide catalogue of basic and adva
 * Users ranked Branch Diversity Team+ and Community Management immune users are exempt from all session regulations and restrictions besides:
   * You cannot host during an ongoing inspection or Certified High Rank examination.
   * You can only host between XX:20–XX:40 and XX:50–XX:10.
-* Cooldowns are based off the users last session promotion.
+* Cooldowns are based off the users rank they got from their last session promotion.
 * Users cannot be promoted if they were not in the session picture.
 
 ---
@@ -68,6 +76,7 @@ Stateview inspections are designed to go over a wide catalogue of basic and adva
 * Prison Commissioner+ can spectate without permission. 
 * Respected Inmate can spectate without permission.
 * Certified High Rank can spectate without permission.
+* GA Certified Administrator can spectate shifts and trainings without permission.
 * GA Head Administrator+ can spectate shifts and trainings without permission.
 * GA Game Administrator+ can spectate shifts without permission.
 * OC can spectate shifts and trainings with the host's permission.
@@ -80,4 +89,4 @@ Stateview inspections are designed to go over a wide catalogue of basic and adva
 * You are expected to help deal with disturbers.
 * You must leave if ordered by the host, regardless of rank.
 
-**Created by Legoking12501. Reviewed by Legoking12501 Governor Administration.**
+**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration.**

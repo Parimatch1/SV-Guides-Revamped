@@ -121,8 +121,6 @@ The Stateview Advanced Training Guide outlines the steps necessary for setting u
 
 ---
 
----
-
 # **Questions**
 `If the Co-Host, or another Co-Host is doing this section, say the following:`
 * **Host/Co-Host:** The Co-Host will now take over for this section.
@@ -196,6 +194,10 @@ What would you do if you see an abuser ingame?
 **Speaker:** srlock room clearing.
 
 **Speaker:** Lets move!
+
+> `[Start the "Room Clearing" phase on Bloxcord]`
+> `[Wait for max yard to be cleared]`
+> `[End the "Room Clearing" phase on Bloxcord]`
 
 ---
 

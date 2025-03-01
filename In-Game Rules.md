@@ -293,4 +293,6 @@ Definition: Massive, purposeful misuse of a users permissions within Stateview C
 ## **Team Bans**
 Automatically determined by the in-game punishment panel.
 
+---
+
 **Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration.**

@@ -394,4 +394,6 @@ Definition: Violation of any of the outlined forced leave policies while being s
 **Proper Enforcement for Violation**
 > **[1]:** Chief of Staff+ **or** Community Management Discretionary Infraction
 
+---
+
 **Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration.**

@@ -51,7 +51,7 @@ Each rank has certain permissions and abilities that outline what they can do, w
 
 Users can be granted the "authority" of a rank. Which means you would not get the rank in the group, but would still obtain some of it's qualities.
 
-**Some qualities include:**
+### **Some qualities include:**
 * Associated Discord Role
 * Hosting Permissions
 * Co-Hosting Permissions
@@ -61,7 +61,7 @@ Users can be granted the "authority" of a rank. Which means you would not get th
 * Punishments
 * Granting Approval
 
-**And Does Not Include:**
+### **And Does Not Include:**
 * Quota
 * Promotions
   * Example: If a FD with CMoTB authority got promoted, they would get promoted FD-CAC and not CMoTB-CEO.
@@ -72,11 +72,11 @@ Users can be granted the "authority" of a rank. Which means you would not get th
   * You may ask whoever granted your authority (or someone similar to who granted it) to revoke your authority. Similar to a resignation but with no restrictions and for authorities instead.
 * Anything Not Listed In The Including Section
 
-**Extra Information:**
+### **Extra Information:**
 * You cannot punish users with a higher authority than your authority.
 * You cannot punish users with a higher rank than your authority.
 * You can punish users with a rank lower than your authority.
-* Governor Administration is considered an authority.
+* Governor Administration is considered an authority. However, users with this authority are fully excused from quota.
 
 ---
 

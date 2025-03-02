@@ -50,6 +50,7 @@ Each rank has certain permissions and abilities that outline what they can do, w
 # **Authority Information**
 
 Users can be granted the "authority" of a rank. Which means you would not get the rank in the group, but would still obtain some of it's qualities.
+
 **Some qualities include:**
 * Associated Discord Role
 * Hosting Permissions

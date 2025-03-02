@@ -34,6 +34,7 @@ The Stateview Rank Structure Overview outline important information and regulati
 |(HR) Board of Governors|12|N/A|1 Supervision Point/Week|100 Minutes|
 |(Leadership/SHR) Chief of Staff|10|N/A|N/A|75 Minutes|
 |(Leadership/SHR) Branch Diversity Team|5|N/A|N/A|N/A|
+|(Leadership/SHR) Governor Administration|N/A|N/A|N/A|N/A|
 |(Leadership/SHR) Chairman of the Board|2|N/A|N/A|N/A|
 |(Executive) Chief Executive Officer|1|N/A|N/A|N/A|
 |(Executive) Stateview Leadership|N/A|N/A|N/A|N/A|
@@ -48,15 +49,18 @@ Each rank has certain permissions and abilities that outline what they can do, w
 
 # **Authority Information**
 
-Users can be granted the "authority" of a rank. Which means you would not get the rank in the group, but would still obtain some of it's qualities, including:
+Users can be granted the "authority" of a rank. Which means you would not get the rank in the group, but would still obtain some of it's qualities.
+**Some qualities include:**
 * Associated Discord Role
 * Hosting Permissions
 * Co-Hosting Permissions
 * Helper Permissions
 * Supervisor Permissions
+* Promotions
+* Punishments
 * Granting Approval
 
-And Does Not Include:
+**And Does Not Include:**
 * Quota
 * Promotions
   * Example: If a FD with CMoTB authority got promoted, they would get promoted FD-CAC and not CMoTB-CEO.
@@ -66,6 +70,12 @@ And Does Not Include:
   * Example: PC+ is required to get RI. So if a FD has PC authority they would not be eligble to resign to RI.
   * You may ask whoever granted your authority (or someone similar to who granted it) to revoke your authority. Similar to a resignation but with no restrictions and for authorities instead.
 * Anything Not Listed In The Including Section
+
+**Extra Information:**
+* You cannot punish users with a higher authority than your authority.
+* You cannot punish users with a higher rank than your authority.
+* You can punish users with a rank lower than your authority.
+* Governor Administration is considered an authority.
 
 ---
 

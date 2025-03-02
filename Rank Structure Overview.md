@@ -19,18 +19,18 @@ The Stateview Rank Structure Overview outline important information and regulati
 ### **Table With Each Ranks Information**
 |Rank|Limit|Cooldown|Quota|Minute Requirements|
 | --- | --- | --- | --- | --- |
-|(LR) Cadet Officer|N/A|2 days|N/A|N/A|
-|(LR) Corrections Officer|N/A|2 days|N/A|N/A|
-|(LR) Emergency Response Team|N/A|3 days|N/A|N/A|
-|(LR) Commander|N/A|3 days|N/A|N/A|
-|(LR) Prison Inspector|N/A|5 days|N/A|N/A|
-|(LR) Deputy Warden|N/A|5 days|N/A|N/A|
-|(LR) Warden|N/A|1 week|N/A|N/A|
-|(MR) Superintendent|N/A|1 week|N/A|N/A|
-|(MR) Chairperson|200|1 week|1 Session Point/Week|80 Minutes|
-|(MR) Facility Director|115|2 weeks|2 Session Points/Week|110 Minutes|
-|(HR) Community Advisory Council|30|3 weeks|2 Supervision Points/Week|150 Minutes|
-|(HR) Prison Commissioner|22|4 weeks|1 Supervision Point/Week|125 Minutes|
+|(LR) Cadet Officer|N/A|2 Days|N/A|N/A|
+|(LR) Corrections Officer|N/A|2 Days|N/A|N/A|
+|(LR) Emergency Response Team|N/A|3 Days|N/A|N/A|
+|(LR) Commander|N/A|3 Days|N/A|N/A|
+|(LR) Prison Inspector|N/A|5 Days|N/A|N/A|
+|(LR) Deputy Warden|N/A|5 Days|N/A|N/A|
+|(LR) Warden|N/A|1 Week|N/A|N/A|
+|(MR) Superintendent|N/A|1 Week|N/A|N/A|
+|(MR) Chairperson|200|2 Weeks|1 Session Point/Week|80 Minutes|
+|(MR) Facility Director|115|2 Weeks|2 Session Points/Week|110 Minutes|
+|(HR) Community Advisory Council|30|4 Weeks|2 Supervision Points/Week|150 Minutes|
+|(HR) Prison Commissioner|22|6 Weeks|1 Supervision Point/Week|125 Minutes|
 |(HR) Board of Governors|12|N/A|1 Supervision Point/Week|100 Minutes|
 |(Leadership/SHR) Chief of Staff|10|N/A|N/A|75 Minutes|
 |(Leadership/SHR) Branch Diversity Team|5|N/A|N/A|N/A|

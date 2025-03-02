@@ -9,8 +9,8 @@ The Stateview In-Game Rules & Moderation Policies outline the steps necessary fo
 
 # **Moderation Information**
 * Game Administrators, Support Agents, and Facility Director+ have the authority to punish users for the rules in this guide.  
-* Certain Game Administration members can revert punishments issued by Game Administration if they have a valid reason.  
-* Certain Support Agency members can revert punishments issued by Support Agency if they have a valid reason.  
+* The Game Administration Management+ can revert punishments issued by Game Administration if they have a valid reason.  
+* The Support Agency High Command+ can revert punishments issued by Support Agency if they have a valid reason.  
 * Chief of Staff+ can revert punishments not issued under a department if they have a valid reason. A report to the intelligence agency is also mandatory.
 * Community Advisory Council+ can issue blacklists. However, Board of Governors+ permission is required to issue a blacklist.
 * Community Advisory Council+ can demote, suspend, and terminate users. However, Prison Commissioner+ permission is required to issue these punishments.

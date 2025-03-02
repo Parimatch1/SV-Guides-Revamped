@@ -46,4 +46,4 @@ Each rank has certain permissions and abilities that outline what they can do, w
 
 ---
 
-Created by MrAttire9 & Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration. 
+**Created by MrAttire9 & Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration.**

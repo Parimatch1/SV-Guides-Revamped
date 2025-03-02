@@ -58,7 +58,7 @@ Users can be granted the "authority" of a rank. Which means you would not get th
 * Helper Permissions
 * Supervisor Permissions
 * Issuing Promotions
-* Punishments (Modifying/Types/Approval/Etc)
+* Punishments (Modifying/Types/Approval/Approving/Etc)
 * Granting Approval
 
 ### **And Does Not Include:**

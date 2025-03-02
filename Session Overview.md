@@ -91,4 +91,4 @@ Stateview chr exams are designed to go over a wide catalogue of advanced skills 
 
 ---
 
-**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration (MrAttire9 & Legoking12501).**
+**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration (Legoking12501 & MrAttire9).**

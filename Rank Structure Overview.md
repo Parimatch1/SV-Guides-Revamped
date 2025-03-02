@@ -8,7 +8,7 @@ The Stateview Rank Structure Overview outline important information and regulati
 ---
 
 # **Rank Limits**
-* Rank Limits is the numerical restriction on ranks. For example, if Facility Director has a rank limit of 50, only up to 50 users can have the Facility Director rank. Rank Limits do not consider users who have purchased their rank.
+* Rank Limits is the numerical restriction on ranks. For example, if Facility Director has a rank limit of 50, only up to 50 users can have the Facility Director rank. Rank Limits do not consider users who have purchased their rank or authorities.
 
 # **Rank Cooldowns**
 * Cooldowns are the time a user must wait between session promotions. For example, if a user got Deputy Warden-Warden from a session 6 days ago, but the Warden cooldown is 7 days, that user has one day left of cooldown.

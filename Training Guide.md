@@ -374,4 +374,4 @@ AFK Farming: The helper will demonstrate AFK farming.
 
 ---
 
-**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration.**
+**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration (MrAttire9 & Legoking12501).**

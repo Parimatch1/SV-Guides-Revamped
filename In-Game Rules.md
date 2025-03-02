@@ -13,6 +13,7 @@ The Stateview In-Game Rules & Moderation Policies outline the steps necessary fo
 * Certain Support Agency members can revert punishments issued by Support Agency if they have a valid reason.  
 * Board of Governors+ can revert punishments not issued under a department if they have a valid reason. A report to the intelligence agency is also mandatory.
 * Community Advisory Council+ can issue blacklists. However, Board of Governors+ permission is required to issue a blacklist.
+* Community Advisory Council+ can demote, suspend, and terminate users. However, Prison Commissioner+ permission is required to issue these punishments.
 * Chief of Staff+ can modify punishments if they have a valid reason. Modification factors include:
   * The impact on Stateview's daily operation.
   * The surrounding circumstances of the incident.

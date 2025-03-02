@@ -323,4 +323,4 @@ You should have a notepad in-game to keep track of information while hosting. Us
 
 ---
 
-**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration.**
+**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration (MrAttire9 & Legoking12501).**

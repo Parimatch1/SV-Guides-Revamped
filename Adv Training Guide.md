@@ -289,4 +289,4 @@ What would you do if you see an abuser ingame?
 
 ---
 
-**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration.**
+**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration (Legoking12501 & MrAttire9).**

@@ -396,4 +396,4 @@ Definition: Violation of any of the outlined forced leave policies while being s
 
 ---
 
-**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration.**
+**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration (Legoking12501 & MrAttire9).**

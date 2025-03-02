@@ -46,4 +46,27 @@ Each rank has certain permissions and abilities that outline what they can do, w
 
 ---
 
+# **Authority Information**
+
+Users can be granted the "authority" of a rank. Which means you would not get the rank in the group, but would still obtain some of it's qualities, including:
+* Associated Discord Role
+* Hosting Permissions
+* Co-Hosting Permissions
+* Helper Permissions
+* Supervisor Permissions
+* Granting Approval
+
+And Does Not Include:
+* Quota
+* Promotions
+  * Example: If a FD with CMoTB authority got promoted, they would get promoted FD-CAC and not CMoTB-CEO.
+* Statistics 
+  * Example: FD+ can host trainings, so if a CP has FD authority any training hosts could not be considered in promotions, along with other statistics their actual rank could not obtain.
+* Resigning
+  * Example: PC+ is required to get RI. So if a FD has PC authority they would not be eligble to resign to RI.
+  * You may ask whoever granted your authority (or someone similar to who granted it) to revoke your authority. Similar to a resignation but with no restrictions and for authorities instead.
+* Anything Not Listed In The Including Section
+
+---
+
 **Created by MrAttire9 & Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration.**

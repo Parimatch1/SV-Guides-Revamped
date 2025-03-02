@@ -80,4 +80,4 @@ Users can be granted the "authority" of a rank. Which means you would not get th
 
 ---
 
-**Created by MrAttire9 & Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration.**
+**Created by MrAttire9. Reviewed/Revised by Legoking12501 Governor Administration (Legoking12501 & MrAttire9).**

@@ -336,4 +336,4 @@ The Stateview Riot Protocol Guide outlines the steps necessary for setting up, c
 
 ---
 
-**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration.**
+**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration (MrAttire9 & Legoking12501).**

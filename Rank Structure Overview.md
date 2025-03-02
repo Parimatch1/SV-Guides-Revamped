@@ -27,15 +27,15 @@ The Stateview Rank Structure Overview outline important information and regulati
 |(LR) Deputy Warden|N/A|5 Days|N/A|N/A|
 |(LR) Warden|N/A|1 Week|N/A|N/A|
 |(MR) Superintendent|N/A|1 Week|N/A|N/A|
-|(MR) Chairperson|200|2 Weeks|1 Session Point/Week|80 Minutes|
-|(MR) Facility Director|115|2 Weeks|2 Session Points/Week|110 Minutes|
-|(HR) Community Advisory Council|30|4 Weeks|2 Supervision Points/Week|150 Minutes|
+|(MR) Chairperson|150|2 Weeks|1 Session Point/Week|80 Minutes|
+|(MR) Facility Director|90|2 Weeks|2 Session Points/Week|110 Minutes|
+|(HR) Community Advisory Council|28|4 Weeks|2 Supervision Points/Week|150 Minutes|
 |(HR) Prison Commissioner|22|6 Weeks|1 Supervision Point/Week|125 Minutes|
 |(HR) Board of Governors|12|N/A|1 Supervision Point/Week|100 Minutes|
 |(Leadership/SHR) Chief of Staff|10|N/A|N/A|75 Minutes|
 |(Leadership/SHR) Branch Diversity Team|5|N/A|N/A|N/A|
-|(Leadership/SHR) Chairman of the Board|N/A|N/A|N/A|N/A|
-|(Executive) Chief Executive Officer|N/A|N/A|N/A|N/A|
+|(Leadership/SHR) Chairman of the Board|2|N/A|N/A|N/A|
+|(Executive) Chief Executive Officer|1|N/A|N/A|N/A|
 |(Executive) Stateview Leadership|N/A|N/A|N/A|N/A|
 
 ---

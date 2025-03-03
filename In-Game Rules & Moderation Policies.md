@@ -23,7 +23,7 @@ The Stateview In-Game Rules & Moderation Policies outline the steps necessary fo
   * The broader context in which the alleged incidents occurred.
 * Chief of Staff+ can make punishments unappealable if they have a valid reason.
 * Chief of Staff+ can classify the reason and/or proof for a punishment if they have a valid reason.
-* All ranks and departments are required to log punishments. However, Chief of Staff+ are exempt from the proof requirement. Note that not adding proof may make appealing the violation easier.
+* All ranks and departments are required to log punishments. However, Chief of Staff+ and Game Administration  Operations Executive+ (When Logging Under SVGA) are exempt from the proof requirement. Note that not adding proof may make appealing the violation easier.
 * Mutes, Staff Warnings, Tool Bans, Game Bans [Excluding 5 Minute Ones], Rank Locks, Modcall Bans, Suspensions, Demotions, and Terminations can be appealed.
 * In the event that you do not have the authority to impose a punishment on a user, contact a user who does or create a report.
 * Modified punishments do count towards that type of infraction [Chat Mute, Tool Ban, Game Ban, Etc.].  

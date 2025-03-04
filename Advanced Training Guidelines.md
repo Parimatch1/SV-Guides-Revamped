@@ -117,7 +117,7 @@ The Stateview Advanced Training Guide outlines the steps necessary for setting u
 
 **Host:** VI - Trolling in any form is unacceptable! Grammar must be used throughout this training. Trolling or not using grammar will result in a strike or instant removal of this training.
 
-**Host:** This advanced training will consist of three sections- Questions, Room Clearing, and Taser Accuracy.
+**Host:** This advanced training will consist of three sections- Questions, Room Clearing, and 1v1s.
 
 ---
 

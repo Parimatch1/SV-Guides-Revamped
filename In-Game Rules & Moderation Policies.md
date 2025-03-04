@@ -254,6 +254,15 @@ Definition: Massive, purposeful misuse of a users permissions within Stateview C
 > **Proper Enforcement**
 > **[1]:** Blacklist
 
+# **24. Admin Abuse**
+
+Definition: Misuse of in-game administrator commands. Examples being using 'to' or 'bring' without proper reason.
+
+> **Proper Enforcement**
+> **[1]:** Staff Warning
+> **[2]:** 1-3 Day Suspension
+> **[3]:** 3-7 Day Suspension **or** Demotion
+
 ---
 
 # **Punishment Infractions**

@@ -184,10 +184,9 @@ The Stateview Training Guide outlines the steps necessary for setting up, conduc
 > `[In one message, state 2 questions in radio channel 2]`
 
 ### **Questions and Answers**
-What is Lethal Force used for?
+* What is Lethal Force used for?
   * Lethal force is used for the purpose of neutralizing armed threats.
-
-What are handcuffs used for?
+* What are handcuffs used for?
   * Handcuffs are used for the purpose of transporting inmates and arresting criminals.
 
 What is a taser used for?

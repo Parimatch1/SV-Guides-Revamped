@@ -201,41 +201,40 @@ What would you do if you see an abuser ingame?
 
 ---
 
-# **Taser Accuracy**
+# **1v1s**
 `If the Co-Host, or another Co-Host is doing this section, say the following:`
 * **Host/Co-Host:** The Co-Host will now take over for this section.
 `If the Host is doing this section, say the following:`
 * **Co-Host:** The Host will now take over for this section.
 
-**Speaker:** Please create a single file line and follow me to the yard.
-
 **Speaker:** h There is a session ongoing outside of the session room. Raiding it will result in punishment.
 
-**Speaker:** We are now moving onto the accuracy phase! In this phase, we will be testing you on your precision, aiming skills, listening skills and your accuracy!
+**Speaker:** We are now moving onto the 1v1s phase! In this phase you and a fellow attendee will be using glock-19s to 1v1 eachother.
 
-**Speaker:** Your task here is simple, you will be called up one by one and your aim is to taze the moving target! You have three tries to hit the target. Please remain in a straight line until you are called up.
+**Speaker:** Your task here is simple, you will be called up pair by pair to 1v1 eachother.
 
-**Speaker:** If it is not your turn, your tools must stay away. If you equip any tools, we may assume you are trying to cheat, and you may be dismissed.
+**Speaker:** On radio channel 2 I will say "READY!", "SET!", then "GO!". Once I say "GO!" the 1v1 can begin.
 
-**Speaker:** Once complete you will go STS on the other white line by the yard gate.
+**Speaker:** I will place you in a specific spot before your 1v1 begins. Do not move from this spot until you are told to begin.
+
+**Speaker:** Once complete you will go STS on the fence beside the SFL.
 
 **Speaker:** Understood? Yes/No, [Rank].
 
-`[Split the line of attendees in half down the middle]`
+**Speaker:** You may pair up with someone if you wish. If you want to pair with someone stand next to them in the line. Then we will begin the 1v1s once everyone is paired.
 
-> `[The supervisor should team the helpers to inmates]`
-> `[One helper will stand by the basketball hoop, and another by the other hoop]`
-> `[Helpers will call up attendees one by one to stand at the middle of the court. They will have 3 tries to tase the helper.]`
-> `[The helper should constantly move left and right. They cannot sprint or jump.]`
-> `[When an attendee is done with accuracy, they should go STS by the yard gate]`
-> `[Start the "Accuracy" phase on Bloxcord]`
+> `[Pair up those without a partner]`
+> `[If there is an uneven amount of attendees a session admin or spectator can step in to 1v1]`
 
-**Instructor:** Come up!
-**Instructor:** Ready!
-**Instructor:** Aim!
-**Instructor:** Fire!
+> `[Place pairs diagonally from eachother in the grass part of the max yard]`
+> `[Start the "1v1s" phase on Bloxcord]`
 
-> `[End the "Accuracy" phase on Bloxcord after the last attendee is done]`
+**Instructor:** READY!
+**Instructor:** AIM!!
+**Instructor:** FIRE!
+
+> `[After saying "FIRE!", team an attendee in the pair to inmate so they can damage eachother. They do not need to be refreshed but should be teamed back after their turn is complete.]`
+> `[End the "1v1s" phase on Bloxcord after the last pair is done]`
 
 ---
 

@@ -65,6 +65,20 @@ The Stateview Shift Guide outlines the steps necessary for setting up, conductin
 
 ---
 
+# **Pre-Session**
+* Find a supervisor who is Facility Director+; Facility Director+ are exempt from this requirement.  
+* Find a ranker who is Community Advisory Council+ or a Facility Director with EHR. Community Advisory Council+ and Facility Directors with EHR are exempt from this requirement.  
+* Once you have a supervisor and a ranker, find a server to host in. Ensure there are no other sessions in that server.  
+* Send the Server ID of your server to any co-host or supervisor you may have. You can obtain the Server ID by typing `!serverid` in the in-game chat.
+* Create the session on **[Bloxcord's (BCs) Sessions Tab](https://app.bloxcord.net/organizations/6f42b034cbfbe2a7a4b4814c15ac3acf/sessions)**:
+  * Select "Host"; this can only be done between XX:20–XX:40 and XX:50–XX:10.
+  * Choose the session type you want to host—in this case, a Shift.
+  * Select your supervisor. Facility Director+ are exempt from having a supervisor.
+  * Add your co-host. You can include one at any point before locking the session.
+  * Click "Create Session".
+
+---
+
 # **Start**
 ### **Notepad**
 

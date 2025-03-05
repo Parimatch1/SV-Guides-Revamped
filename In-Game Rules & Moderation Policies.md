@@ -27,11 +27,17 @@ The Stateview In-Game Rules & Moderation Policies outline the steps necessary fo
   * If the previous punishment a user recieved for a certain rule is either reverted for being invalid or clearly invalid you are expected to treat it as invalid.
   * Invalid punishments should be reported to the Intelligence Agency once noticed if they are not yet reverted.
   * Example: This means if someone gets an unmodified punishment of a tool ban for a tool abuse first infraction, you would ignore that punishment and issue the proper punishment for tool abuse first infraction.
+* Kicks, Server Bans, and Team Bans should be logged on Bloxcord as a comment.  
+  * Example: Team banned for Tool Abuse (Fourth Infraction)
+* You must log on Bloxcord and in Intel with your department unless you are punishing independently as an FD+.  
+  * Example: Tool Abuse (First Infraction) || SVGA
+* If logged on Bloxcord under a department, the punishment is no longer under the authority of IA but instead that department's high command.
 * All ranks and departments are required to log punishments. However, Chief of Staff+ and Game Administration Operations Executive+ (When Logging Under SVGA) are exempt from the proof requirement. Note that not adding proof may make appealing the violation easier.
   * Proof is required for blacklists.
 * Chief of Staff+ can make punishments unappealable if they have a valid reason.
 * Branch Diversity Team+ can classify the reason and/or proof for a punishment if they have a valid reason.
 * If a user is demoted, suspended, or terminated, a rank-lock for the same length must be issued.
+* For terminations, a permanent suspension must be issued instead of manually ranking to SSI.
 * Rank Locks only prevent rank claiming but do not prevent session promotions.
 * LTAP punishments do not count towards a user's game ban infractions.
 * In the event that you do not have the authority to issue a punishment on a user, contact a user who does or create a report.
@@ -41,6 +47,7 @@ The Stateview In-Game Rules & Moderation Policies outline the steps necessary fo
 * Users are allowed to share the type, reason, and length of their punishment unless told otherwise.
 * Community Advisory Council+ can issue blacklists. However, Board of Governors+ permission is required to issue a blacklist.
 * Community Advisory Council+ can demote, suspend, and terminate users. However, Prison Commissioner+ permission is required to issue these punishments.
+* In the event of a raid against Stateview, 3+ users ranked Prison Commissioner+ have the authority to blacklist the raider without permission regardless of the raider's rank or departmental status. Community Advisory Council+ can revert all invalid punishments that were issued due to the raid and add a comment noting that the punishments were from a raid.
 
 ---
 

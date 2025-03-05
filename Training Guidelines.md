@@ -185,17 +185,17 @@ The Stateview Training Guide outlines the steps necessary for setting up, conduc
 
 ### **Questions and Answers**
 What is Lethal Force used for?
-* Lethal force is used for the purpose of neutralizing armed threats.
+  * Lethal force is used for the purpose of neutralizing armed threats.
 What are handcuffs used for?
-* Handcuffs are used for the purpose of transporting inmates and arresting criminals.
+  * Handcuffs are used for the purpose of transporting inmates and arresting criminals.
 What is a taser used for?
-* Tasers are used for the purpose of stunning inmates/criminals for a temporary amount of time.
+  * Tasers are used for the purpose of stunning inmates/criminals for a temporary amount of time.
 What is a reason to use the modcall system?
-* The modcall system should be used to call a moderator on rule breakers.
+  * The modcall system should be used to call a moderator on rule breakers.
 What would you do if you see someone breaking Roblox ToS?
-* If someone is breaking roblox ToS you should either modcall, create a report ticket, or notify a high rank.
+  * If someone is breaking roblox ToS you should either modcall, create a report ticket, or notify a high rank.
 What would you do if you see an abuser ingame?
-* If you see an abuser you should either modcall, create a report ticket, or notify a high rank.
+  * If you see an abuser you should either modcall, create a report ticket, or notify a high rank.
 
 > `[Start the "Questions" phase on Bloxcord]`
 

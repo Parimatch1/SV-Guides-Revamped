@@ -68,7 +68,7 @@ The Stateview Training Guide outlines the steps necessary for setting up, conduc
   * Select "Host"; this can only be done between XX:20–XX:40 and XX:50–XX:10.
   * Choose the session type you want to host—in this case, a Training.
   * Select your supervisor. Community Advisory Council+ and Facility Directors with EHR are exempt from having a supervisor.
-  * Add your co-host(s) and helper(s). You can include one at any point before locking the session.
+  * Add your co-host(s) and helper(s). You can include one at any point before starting the session.
   * Click "Create Session".
  
 ---

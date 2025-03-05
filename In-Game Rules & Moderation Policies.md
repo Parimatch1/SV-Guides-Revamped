@@ -7,11 +7,11 @@ The Stateview In-Game Rules & Moderation Policies outline the steps necessary fo
 
 ---
 
-# **Moderation Information**
-* Game Administrators, Support Agents, and Facility Director+ have the authority to punish users for the rules in this guide.  
-* The Game Administration Management+ can revert punishments issued by Game Administration if they have a valid reason.  
-* The Support Agency High Command+ can revert punishments issued by Support Agency if they have a valid reason.  
-* Chief of Staff+ can revert punishments not issued under a department if they have a valid reason. A report to the intelligence agency is also mandatory.
+# **Enforcement Information**
+* Game Administrators, Support Agents, and Facility Director+ have the authority to punish users for the rules in this guide.
+* Game Administration Management+ can revert punishments issued by Game Administration if they have a valid reason.
+* Support Agency High Command+ can revert punishments issued by Support Agency if they have a valid reason.
+* Chief of Staff+ can revert punishments not issued under a department if they have a valid reason. A report to the intelligence agency is also mandatory if the punishment is invalid.
 * Community Advisory Council+ can issue blacklists. However, Board of Governors+ permission is required to issue a blacklist.
 * Community Advisory Council+ can demote, suspend, and terminate users. However, Prison Commissioner+ permission is required to issue these punishments.
 * Chief of Staff+ can modify punishments if they have a valid reason. Modification factors include:
@@ -22,29 +22,31 @@ The Stateview In-Game Rules & Moderation Policies outline the steps necessary fo
   * The relationships between the parties involved.
   * The broader context in which the alleged incidents occurred.
 * Chief of Staff+ can make punishments unappealable if they have a valid reason.
-* Chief of Staff+ can classify the reason and/or proof for a punishment if they have a valid reason.
-* All ranks and departments are required to log punishments. However, Chief of Staff+ and Game Administration  Operations Executive+ (When Logging Under SVGA) are exempt from the proof requirement. Note that not adding proof may make appealing the violation easier.
+* Branch Diversity Team+ can classify the reason and/or proof for a punishment if they have a valid reason.
+* All ranks and departments are required to log punishments. However, Chief of Staff+ and Game Administration Operations Executive+ (When Logging Under SVGA) are exempt from the proof requirement. Note that not adding proof may make appealing the violation easier.
   * Proof is required for blacklists.
-* Mutes, Staff Warnings, Tool Bans, Game Bans [Excluding 5 Minute Ones], Rank Locks, Modcall Bans, Suspensions, Demotions, and Terminations can be appealed.
-* In the event that you do not have the authority to impose a punishment on a user, contact a user who does or create a report.
+* Verbal Warnings, Kicks, Server Bans, and 5 Minute Game Bans can not be appealed.
+* In the event that you do not have the authority to issue a punishment on a user, contact a user who does or create a report.
 * Modified punishments do count towards that type of infraction [Chat Mute, Tool Ban, Game Ban, Etc.].  
-  * Example: This means if someone gets a modified ban of 7 days and it is their first ban, the second ban should still be 3 days.
+  * Example: If someone gets a modified ban of 7 days and it is their first ban, the second ban should still be 3 days.
+* Modified punishments do count towards that rules infraction count.  
+  * Example: If someone gets a modified tool ban for first infraction tool abuse, the next tool abuse punishment would be their second infraction and be punished with the second infraction punishment.
 * Improper/Invalid punishments do not count towards normal infractions or infraction types [Chat Mute, Tool Ban, Game Ban, Etc.].  
-  * Even if the punishment is not yet reverted, this still applies. However, you are not required to ensure past punishments are correct, just as long as your punishment is correct based on the last correct punishment.
-  * Invalid punishments should be reported to the Intelligence Agency once noticed if they are not reverted.
-  * Example: This means if someone gets an unmodified punishment of a server ban for a tool abuse first infraction, you would ignore that punishment and issue a verbal warning for a tool abuse first infraction.
+  * If the previous punishment a user recieved for a certain rule is either reverted for being invalid or clearly invalid you are expected to treat it as invalid.
+  * Invalid punishments should be reported to the Intelligence Agency once noticed if they are not yet reverted.
+  * Example: This means if someone gets an unmodified punishment of a tool ban for a tool abuse first infraction, you would ignore that punishment and issue the proper punishment for tool abuse first infraction.
 * LTAP punishments do not count towards a user's game ban infractions.
-* If a user is demoted, suspended, or terminated, a rank-lock for the same length must be issued.  
-* For terminations, a permanent suspension must be issued instead of manually ranking to SSI.  
-* Rank locks only prevent rank claiming but do not prevent session promotions.
-* Kicks, server bans, and team bans should be logged on Bloxcord as a comment.  
-  * Example: Team banned for tool abuse (Fourth Infraction).  
+* If a user is demoted, suspended, or terminated, a rank-lock for the same length must be issued.
+* For terminations, a permanent suspension must be issued instead of manually ranking to SSI.
+* Rank Locks only prevent rank claiming but do not prevent session promotions.
+* Kicks, Server Bans, and Team Bans should be logged on Bloxcord as a comment.  
+  * Example: Team banned for Tool Abuse (Fourth Infraction)
 * You must log on Bloxcord and in Intel with your department unless you are punishing independently as an FD+.  
-  * Example: Tool Abuse (First Infraction) || SVGA.  
+  * Example: Tool Abuse (First Infraction) || SVGA
 * If logged on Bloxcord under a department, the punishment is no longer under the authority of IA but instead that department's high command.
 * Reverted punishments that are not invalid still count towards the infraction count and the punishment infraction count.
-* Users who recieve punishments are allowed to know the reason and length of their punishment. They can also see the proof related to their punishment so long it does not contain classified material they do not have access to.
-* Users are allowed to leak the type, reason, and length of their punishment unless told otherwise.
+* Users who recieve punishments are allowed to know the reason and length of their punishment. They can also see the proof related to their punishment so long it does not contain classified material.
+* Users are allowed to share the type, reason, and length of their punishment unless told otherwise.
 * In the event of a raid against Stateview, 3+ users ranked Prison Commissioner+ have the authority to blacklist the raider without permission regardless of the raider's rank or departmental status. Community Advisory Council+ can revert all invalid punishments that were issued due to the raid and add a comment noting that the punishments were from a raid.
 
 ---

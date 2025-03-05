@@ -209,7 +209,7 @@ What would you do if you see an abuser ingame?
 
 **Speaker:** h There is a session ongoing outside of the session room. Raiding it will result in punishment.
 
-**Speaker:** We are now moving onto the 1v1s phase! In this phase you and a fellow attendee will be using glock-19s to 1v1 eachother.
+**Speaker:** We are now moving onto the 1v1s phase! In this phase you and a fellow attendee will be using glock-17s to 1v1 eachother.
 
 **Speaker:** Your task here is simple, you will be called up pair by pair to 1v1 eachother.
 

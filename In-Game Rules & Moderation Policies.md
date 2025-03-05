@@ -9,9 +9,8 @@ The Stateview In-Game Rules & Moderation Policies outline the steps necessary fo
 
 # **Enforcement Information**
 * Game Administrators, Support Agents, and Facility Director+ have the authority to punish users for the rules in this guide.
-
-* Game Administration Management+ can revert punishments issued by Game Administration if they have a valid reason.
-* Support Agency High Command+ can revert punishments issued by Support Agency if they have a valid reason.
+* Invalid punishments issued by Game Administration should be reported to Game Administration Management.
+* Invalid punishments issued by Support Agency should be reported to Support Agency High Command.
 * Chief of Staff+ can revert punishments not issued under a department if they have a valid reason. A report to the intelligence agency is also mandatory if the punishment is invalid.
 * Reverted punishments that are not invalid still count towards the infraction count and the punishment infraction count.
 * Chief of Staff+ can modify punishments if they have a valid reason. Modification factors include:

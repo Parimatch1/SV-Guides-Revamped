@@ -242,6 +242,8 @@ The Stateview Modified Training Guide outlines the steps necessary for setting u
 `If the Host is doing this section, say the following:`
 * **Co-Host:** The Host will now take over for this section.
 
+**Speaker:** h There is a session ongoing outside of the session room. Raiding it will result in punishment.
+
 **Speaker:** We are now moving onto the 1v1s phase! In this phase you and a fellow attendee will be using glock-17s to 1v1 eachother.
 
 **Speaker:** Your task here is simple, you will be called up pair by pair to 1v1 eachother.
@@ -253,14 +255,6 @@ The Stateview Modified Training Guide outlines the steps necessary for setting u
 **Speaker:** Once complete you will go STS on concrete part just before the grass.
 
 **Speaker:** Understood? Yes/No, [Rank].
-
-**Speaker:** Follow me in a single file line to the Maximum Security Yard. If you die on the way meet us there. Do not close doors unless you are the last person.
-
-**Speaker:** h There is a session ongoing outside of the session room. Raiding it will result in punishment.
-
-**Speaker:** srlock .
-
-> `[Take the attendees to the Max Yard]`
 
 **Speaker:** You may pair up with someone if you wish. If you want to pair with someone stand next to them in the line. Then we will begin the 1v1s once everyone is paired.
 

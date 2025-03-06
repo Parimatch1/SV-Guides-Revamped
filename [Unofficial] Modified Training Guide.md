@@ -201,6 +201,41 @@ The Stateview Modified Training Guide outlines the steps necessary for setting u
 
 ---
 
+# **Room Clearing**
+`If the Co-Host, or another Co-Host is doing this section, say the following:`
+* **Host/Co-Host:** The Co-Host will now take over for this section.
+`If the Host is doing this section, say the following:`
+* **Co-Host:** The Host will now take over for this section.
+
+**Speaker:** We are now moving on to room clearing. In this phase, I’ll be testing you on your clearing skills and facility knowledge.
+
+**Speaker:** Please create a single file line behind me at the door. Once you are in the line do not move as I still have more instructions to give.
+
+> `[Head over to the door and have attendees line up behind you]`
+> `[Once the line is made move to the side of the line so everyone can see your messages]`
+
+**Speaker:** We will be in 2 lines and we will clear the facility. We will start by going through the max cells.
+
+**Speaker:** From there we will go past the showers, into the cell block, upstairs and to the high command offices, then finish by going to the max yard.
+
+**Speaker:** The person at the back of the line is expected to watch the back for any inmates or criminals. All inmates and criminals are kill on site.
+
+**Speaker:** At each door, whether open or closed, we will stop and go beside it while staying in our two lines. Do not close doors unless you are the last person going through.
+
+**Speaker:** In the event you die please meet with us at the max security yard.
+
+**Speaker:** My co-host will now split you into 2 lines. One one the left side of the session room door and one on the right.
+
+> `[Equally split the attendees into 2 groups and place them on both sides of the door]`
+
+**Speaker:** srlock room clearing.
+
+**Speaker:** Lets move!
+
+> `[Wait for max yard to be cleared]`
+
+---
+
 # **1v1s**
 `If the Co-Host, or another Co-Host is doing this section, say the following:`
 * **Host/Co-Host:** The Co-Host will now take over for this section.
@@ -215,7 +250,7 @@ The Stateview Modified Training Guide outlines the steps necessary for setting u
 
 **Speaker:** I will place you in a specific spot before your 1v1 begins. Do not move from this spot until you are told to begin.
 
-**Speaker:** We will conduct this phase in the Maximum Security Yard. Once complete you will go STS on the fence beside the SFL.
+**Speaker:** Once complete you will go STS on concrete part just before the grass.
 
 **Speaker:** Understood? Yes/No, [Rank].
 
@@ -239,40 +274,6 @@ The Stateview Modified Training Guide outlines the steps necessary for setting u
 **Instructor:** FIRE!
 
 > `[After saying "FIRE!", team an attendee in the pair to inmate so they can damage eachother. They do not need to be refreshed but should be teamed back after their turn is complete.]`
-
----
-
-# **Taser Accuracy**
-`If the Co-Host, or another Co-Host is doing this section, say the following:`
-* **Host/Co-Host:** The Co-Host will now take over for this section.
-`If the Host is doing this section, say the following:`
-* **Co-Host:** The Host will now take over for this section.
-
-**Speaker:** We are now moving onto the taser accuracy phase! In this phase, we will be testing you on your precision, aiming skills, listening skills and your accuracy!
-
-**Speaker:** Your task here is simple, you will be called up one by one and your aim is to taze the moving target! You have 3 tries to hit the target. Please remain in a straight line until you are called up.
-
-**Speaker:** If it is not your turn, your tools must stay away. If you equip any tools, we may assume you are trying to cheat, and you may be dismissed.
-
-**Speaker:** Once complete you will go STS on concrete part just before the grass.
-
-**Speaker:** Understood? Yes/No, [Rank].
-
-`[Split the line of attendees in half down the middle]`
-
-> `[The supervisor should team the helpers to inmates]`
-> `[One helper will stand by the basketball hoop, and another by the other hoop]`
-> `[Helpers will call up attendees one by one to stand at the middle of the court. They will have 3 tries to tase the helper.]`
-> `[The helper should constantly move left and right. They cannot sprint or jump.]`
-> `[When an attendee is done with accuracy, they should go STS by the yard gate]`
-> `[Start the "Accuracy" phase on Bloxcord]`
-
-**Instructor:** Come up!
-**Instructor:** Ready!
-**Instructor:** Aim!
-**Instructor:** Fire!
-
-> `[End the "Accuracy" phase on Bloxcord after the last attendee is done]`
 
 ---
 

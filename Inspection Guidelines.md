@@ -404,7 +404,7 @@ Server ID:
 
 **Speaker:** We are now moving onto the accuracy phase! In this phase, we will be testing you on your precision, aiming skills, listening skills and your accuracy!
 
-**Speaker:** Your task here is simple, you will be called up one by one and your aim is to taze the moving target! You have three tries to hit the target. Please remain in a straight line until you are called up.
+**Speaker:** Your task here is simple, you will be called up one by one and your aim is to taze the moving target! You have 3 tries to hit the target. Please remain in a straight line until you are called up.
 
 **Speaker:** If it is not your turn, your tools must stay away. If you equip any tools, we may assume you are trying to cheat, and you may be dismissed.
 

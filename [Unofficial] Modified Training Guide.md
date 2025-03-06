@@ -216,13 +216,13 @@ The Stateview Modified Training Guide outlines the steps necessary for setting u
 
 **Speaker:** We will be in 2 lines and we will clear the facility. We will start by going through the max cells.
 
-**Speaker:** From there we will go downstairs, past the showers, into the cell block, upstairs and to the high command offices, then finish by going to the max yard.
+**Speaker:** From there we will go downstairs, past the showers, then finish by going to the max yard.
 
 **Speaker:** The person at the back of the line is expected to watch the back for any inmates or criminals. All inmates and criminals are kill on site.
 
 **Speaker:** At each door, whether open or closed, we will stop and go beside it while staying in our two lines. Do not close doors unless you are the last person going through.
 
-**Speaker:** In the event you die please meet with us at the max security yard.
+**Speaker:** In the event you die please rejoin us at the max security yard.
 
 **Speaker:** My co-host will now split you into 2 lines. One one the left side of the session room door and one on the right.
 

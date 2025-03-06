@@ -216,7 +216,7 @@ The Stateview Modified Training Guide outlines the steps necessary for setting u
 
 **Speaker:** We will be in 2 lines and we will clear the facility. We will start by going through the max cells.
 
-**Speaker:** From there we will go past the showers, into the cell block, upstairs and to the high command offices, then finish by going to the max yard.
+**Speaker:** From there we will go downstairs, past the showers, into the cell block, upstairs and to the high command offices, then finish by going to the max yard.
 
 **Speaker:** The person at the back of the line is expected to watch the back for any inmates or criminals. All inmates and criminals are kill on site.
 

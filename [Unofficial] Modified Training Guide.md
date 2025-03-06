@@ -242,7 +242,7 @@ The Stateview Modified Training Guide outlines the steps necessary for setting u
 `If the Host is doing this section, say the following:`
 * **Co-Host:** The Host will now take over for this section.
 
-**Speaker:** h There is a session ongoing outside of the session room. Raiding it will result in punishment.
+**Speaker:** h There is a session currently ongoing outside of the session room. Raiding it will result in punishment.
 
 **Speaker:** We are now moving onto the 1v1s phase! In this phase you and a fellow attendee will be using glock-17s to 1v1 eachother.
 

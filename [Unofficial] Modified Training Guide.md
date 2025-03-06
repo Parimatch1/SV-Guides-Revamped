@@ -11,7 +11,7 @@ The Stateview Modified Training Guide outlines the steps necessary for setting u
 
 **Host Information**
 * Community Advisory Council+ with Elevated High Rank *[No Supervisor]*
-* Chief of Staff+
+* Chief of Staff+ *[No Supervisor]*
 * 1 Host
 
 **Co-Host Information**

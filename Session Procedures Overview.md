@@ -51,22 +51,22 @@ Stateview inspections are designed to go over a wide catalogue of basic and adva
 
 Guidelines Classified
 
-Stateview chr exams are designed to go over a wide catalogue of advanced skills that are important for high ranking users to know. These sessions review and test attendees on a wide range of scenarios in targeted for high ranks.
+Stateview CHR Exams are designed to go over a wide catalogue of advanced skills that are important for high ranking users to know. These sessions review and test attendees on a wide range of scenarios in targeted for high ranks.
 
 ---
 
 # **General Session Information**
 
-* The use of VC without PTS counts as speaking outside of PTS.
-* If you are exempt from the supervisor requirement when hosting, you are not permitted to have a supervisor.
-* You cannot host during an ongoing inspection or Certified High Rank examination.
-* You can host up to 2 times a day. You can co-host up to 2 times a day. These limits reset at midnight in your local timezone. You can supervise/help unlimited times a day.
-* Chief of Staff+ can allow users to host modified sessions. This must not be abused.
-* Users ranked Branch Diversity Team+ and Community Management immune users are exempt from all session regulations and restrictions besides:
-  * You cannot host during an ongoing inspection or Certified High Rank examination.
-  * You can only host between XX:20–XX:40 and XX:50–XX:10.
-* Cooldowns are based off the users rank they got from their last session promotion.
-* Users cannot be promoted if they were not in the session picture.
+* If you are exempt from the supervisor requirement when hosting, you are not permitted to have a supervisor.  
+* You cannot host during an ongoing inspection or Certified High Rank examination.  
+* You can host up to 2 times a day. You can co-host up to 2 times a day. These limits reset at midnight in your local timezone. You can supervise and help an unlimited number of times a day.  
+* Chief of Staff+ can allow users to host modified sessions. This must not be abused.  
+* Users ranked Branch Diversity Team+ and Community Management Immune Users are exempt from all session regulations and restrictions besides:  
+  * You cannot host during an ongoing inspection or Certified High Rank examination.  
+  * You can only host between XX:20–XX:40 and XX:50–XX:10.  
+* Cooldowns are based on the user's rank they received from their last session promotion.  
+* Users cannot be promoted if they were not in the session picture.  
+* The use of VC and emojis without PTS counts as speaking outside of PTS. The use of commands is not considered speaking outside of PTS unless abused.
 
 ---
 

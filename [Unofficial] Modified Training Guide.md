@@ -99,21 +99,22 @@ The Stateview Modified Training Guide outlines the steps necessary for setting u
 
 **Co-Host:** Hey! I’m `[Nickname]`, your co-host, and I’ll be assisting in today’s modified training.
 
-**Host:** Before we begin, let’s go over a few rules to help you succeed in this modified training!
+**Host:** 
+Before we begin, let’s go over a few rules to help you succeed in this modified training!
 
-**Host:** I - Do not say PTS (Permission To Speak) while I am speaking. PTS is active unless stated otherwise. Talking/Using VC without permission will result in a strike.
+I - Do not say PTS (Permission To Speak) while I am speaking. PTS is active unless stated otherwise. Talking/Using VC without permission will result in a strike.
 
-**Host:** II - Remain STS (Shoulder to Shoulder) at all times. Ask for permission before going AFK (Away From Keyboard).
+II - Remain STS (Shoulder to Shoulder) at all times. Ask for permission before going AFK (Away From Keyboard).
 
-**Host:** III - Follow all orders given to you by a Superintendent+ or Co-Host unless they ask you to break the rules. You must call me, my Co-Host, and Helpers by our ranks at all times.
+III - Follow all orders given to you by a Superintendent+ or Co-Host unless they ask you to break the rules. You must call me, my Co-Host, and Helpers by our ranks at all times.
 
-**Host:** IV - If there is any problem, come to me, my Co-Host, my Helpers, or any other Superintendent+ for assistance.
+IV - If there is any problem, come to me, my Co-Host, my Helpers, or any other Superintendent+ for assistance.
 
-**Host:** V - You must be respectful to everyone at all times. Not following this will result in removal from the modified training.
+V - You must be respectful to everyone at all times. Not following this will result in removal from the modified training.
 
-**Host:** VI - Trolling in any form is unacceptable! Grammar must be used throughout this modified training. Trolling or not using grammar will result in a strike or instant removal of this modified training.
+VI - Trolling in any form is unacceptable! Grammar must be used throughout this modified training. Trolling or not using grammar will result in a strike or instant removal of this modified training.
 
-**Host:** This modified training will consist of four sections- 2 unmodified, and 2 modified.
+This modified training will consist of four sections- 2 unmodified, and 2 modified.
 
 ---
 
@@ -123,29 +124,30 @@ The Stateview Modified Training Guide outlines the steps necessary for setting u
 `If the Host is doing this section, say the following:`
 * **Co-Host:** The Host will now take over for this section.
 
-**Speaker:** To start off the session, we’ll be doing faces.
+**Speaker:** 
+To start off the session, we’ll be doing faces.
 
-**Speaker:** In this phase, we will be testing your reaction time and listening skills!
+In this phase, we will be testing your reaction time and listening skills!
 
-**Speaker:** Please listen carefully as I will only explain each face once. DO NOT actually do the faces at this point.
+Please listen carefully as I will only explain each face once. DO NOT actually do the faces at this point.
 
-**Speaker:** Left Face - Turn left 90 degrees from the current position.
+Left Face - Turn left 90 degrees from the current position.
 
-**Speaker:** Right Face - Turn right 90 degrees from the current position.
+Right Face - Turn right 90 degrees from the current position.
 
-**Speaker:** Center Face - Turn to normal position. (Position from the beginning or face the Host/Co-Host)
+Center Face - Turn to normal position. (Position from the beginning or face the Host/Co-Host)
 
-**Speaker:** About Face - Turn 180 degrees from the current position.
+About Face - Turn 180 degrees from the current position.
 
-**Speaker:** Control Face - Face the Host/Co-Host at all times. (Host/Co-Host should be in the middle of your screen at all times)
+Control Face - Face the Host/Co-Host at all times. (Host/Co-Host should be in the middle of your screen at all times)
 
-**Speaker:** Please note: Only the center face breaks control face, any other face will not.
+Please note: Only the center face breaks control face, any other face will not.
 
-**Speaker:** Everybody please switch to radio channel 2. This can be done by clicking the "1" in the top right of the radio. Do not switch off of this radio channel for the remainder of the session. 
+Everybody please switch to radio channel 2. This can be done by clicking the "1" in the top right of the radio. Do not switch off of this radio channel for the remainder of the session. 
 
-**Speaker:** Is everybody on radio channel 2? Yes/No, [Rank].
+Is everybody on radio channel 2? Yes/No, [Rank].
 
-**Speaker:** We will now begin the elimination round. If you do a face incorrectly or to slow you will be sat. Do not stand up.
+We will now begin the elimination round. If you do a face incorrectly or to slow you will be sat. Do not stand up.
 
 > `[You may not do troll faces.]`
 > - `[You cannot say "Turn" instead of "Face."]`
@@ -218,23 +220,24 @@ The Stateview Modified Training Guide outlines the steps necessary for setting u
 > `[Equally split the attendees into 2 groups and place them on both sides of the door]`
 > `[Once the lines are made move to the center of the lines so everyone can see your messages]`
 
-**Speaker:** We will be in 2 lines and we will clear the facility. We will start by going through the max cells.
+**Speaker:** 
+We will be in 2 lines and we will clear the facility. We will start by going through the max cells.
 
-**Speaker:** From there we will go downstairs, past the showers, then finish by going to the max yard.
+From there we will go downstairs, past the showers, then finish by going to the max yard.
 
-**Speaker:** The person at the back of the line is expected to watch the back for any inmates or criminals. All inmates and criminals are kill on site.
+The person at the back of the line is expected to watch the back for any inmates or criminals. All inmates and criminals are kill on site.
 
-**Speaker:** At each door, whether open or closed, we will stop and go beside it while staying in our two lines. Do not close doors unless you are the last person going through.
+At each door, whether open or closed, we will stop and go beside it while staying in our two lines. Do not close doors unless you are the last person going through.
 
-**Speaker:** In the event you die please rejoin us at the maximum security yard.
+In the event you die please rejoin us at the maximum security yard.
 
-**Speaker:** Any questions? Yes/No, [Rank].
+Any questions? Yes/No, [Rank].
 
-**Speaker:** srlock room clearing.
+srlock room clearing.
 
-**Speaker:** Guns out!
+Guns out!
 
-**Speaker:** BREACH!
+BREACH!
 
 > `[Wait for max yard to be cleared]`
 
@@ -246,21 +249,22 @@ The Stateview Modified Training Guide outlines the steps necessary for setting u
 `If the Host is doing this section, say the following:`
 * **Co-Host:** The Host will now take over for this section.
 
-**Speaker:** h There is a session currently ongoing outside of the session room. Raiding it will result in punishment.
+**Speaker:** 
+h There is a session currently ongoing outside of the session room. Raiding it will result in punishment.
 
-**Speaker:** We are now moving onto the 1v1s phase! In this phase you and a fellow attendee will be using glock-17s to 1v1 eachother.
+We are now moving onto the 1v1s phase! In this phase you and a fellow attendee will be using glock-17s to 1v1 eachother.
 
-**Speaker:** Your task here is simple, you will be called up pair by pair to 1v1 eachother.
+Your task here is simple, you will be called up pair by pair to 1v1 eachother.
 
-**Speaker:** On radio channel 2 I will say "READY!", "SET!", then "GO!". Once I say "GO!" the 1v1 can begin.
+On radio channel 2 I will say "READY!", "SET!", then "GO!". Once I say "GO!" the 1v1 can begin.
 
-**Speaker:** I will place you in a specific spot before your 1v1 begins. Do not move from this spot until you are told to begin.
+I will place you in a specific spot before your 1v1 begins. Do not move from this spot until you are told to begin.
 
-**Speaker:** Once complete you will go STS on concrete part just before the grass.
+Once complete you will go STS on concrete part just before the grass.
 
-**Speaker:** Understood? Yes/No, [Rank].
+Understood? Yes/No, [Rank].
 
-**Speaker:** You may pair up with someone if you wish. If you want to pair with someone stand next to them in the line. Then we will begin the 1v1s once everyone is paired.
+You may pair up with someone if you wish. If you want to pair with someone stand next to them in the line. Then we will begin the 1v1s once everyone is paired.
 
 > `[Pair up those without a partner]`
 > `[If there is an uneven amount of attendees a session admin or spectator can step in to 1v1]`

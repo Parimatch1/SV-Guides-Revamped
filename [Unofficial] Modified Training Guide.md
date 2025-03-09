@@ -215,6 +215,7 @@ The Stateview Modified Training Guide outlines the steps necessary for setting u
 
 **Speaker:** I will now split you into 2 lines. One one the left side of the session room door and one on the right.
 
+> `[Equally split the attendees into 2 groups and place them on both sides of the door]`
 > `[Once the lines are made move to the center of the lines so everyone can see your messages]`
 
 **Speaker:** We will be in 2 lines and we will clear the facility. We will start by going through the max cells.
@@ -229,11 +230,11 @@ The Stateview Modified Training Guide outlines the steps necessary for setting u
 
 **Speaker:** Any questions? Yes/No, [Rank].
 
-> `[Equally split the attendees into 2 groups and place them on both sides of the door]`
-
 **Speaker:** srlock room clearing.
 
-**Speaker:** Lets move!
+**Speaker:** Guns out!
+
+**Speaker:** BREACH!
 
 > `[Wait for max yard to be cleared]`
 

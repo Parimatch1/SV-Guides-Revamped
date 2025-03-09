@@ -175,10 +175,10 @@ What would you do if you see an abuser ingame?
 **Speaker:** Please create a single file line behind me at the door. Once you are in the line do not move as I still have more instructions to give.
 
 > `[Head over to the door and have attendees line up behind you]`
-> `[Equally split the attendees into 2 groups and place them on both sides of the door]`
 
 **Speaker:** I will now split you into 2 lines. One one the left side of the session room door and one on the right.
 
+> `[Equally split the attendees into 2 groups and place them on both sides of the door]`
 > `[Once the lines are made move to the center of the lines so everyone can see your messages]`
 
 **Speaker:** We will be in 2 lines and we will clear the facility. We will start by going through the max cells.

@@ -195,7 +195,9 @@ What would you do if you see an abuser ingame?
 
 **Speaker:** srlock room clearing.
 
-**Speaker:** Lets move!
+**Speaker:** Guns out!
+
+**Speaker:** BREACH!
 
 > `[Start the "Room Clearing" phase on Bloxcord]`
 > `[Wait for max yard to be cleared]`

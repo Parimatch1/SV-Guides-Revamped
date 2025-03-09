@@ -114,7 +114,7 @@ V - You must be respectful to everyone at all times. Not following this will res
 
 VI - Trolling in any form is unacceptable! Grammar must be used throughout this modified training. Trolling or not using grammar will result in a strike or instant removal of this modified training.
 
-This modified training will consist of four sections- 2 unmodified, and 2 modified.
+This modified training will consist of four sections- the first 2 will be unmodified, and the last 2 will be modified.
 
 ---
 

@@ -216,7 +216,7 @@ Definition: Violation of any of the outlined forced leave policies while being s
 
 # **II - Sobriety and Professional Conduct Policy**
 
-* Participating in Stateview in anyway while under the influence of drgus, alcohol, or any substance(s) that can impact a users ability to execute their duties properly is in no way tolerated.
+Definition: Participating in Stateview in any form while under the influence of drgus, alcohol, or any substance(s) that can impact a users ability to execute their duties properly.
 
 **Proper Enforcement for Violation**
 > **[1]:** 15-30 Day Suspension **or** Termination
@@ -227,7 +227,7 @@ Definition: Violation of any of the outlined forced leave policies while being s
 
 # **III - High Rank Disrespect Policy**
 
-* As a high rank in Stateview showing respect is absolutely required. As a high rank you are a reflection of Stateview as a whole and are expected to act as such. Showing respect is crucial for creating a positive environment within Stateview.
+Definition: Disrespecting other users while being a high rank. High ranks are a reflection of Stateview and are expected to show respect.
 
 **Proper Enforcement for Violation**
 > **[1]:** Staff Warning
@@ -239,7 +239,7 @@ Definition: Violation of any of the outlined forced leave policies while being s
 
 # **IV - Adherence to Chain of Command Policy**
 
-* Users are expected to go in order from lowest rank to highest rank when they have an issue/inquiry. They should begin at the lowest rank that can assist them and move up rank by rank.
+Definition: Failure to go in order from lowest rank to highest rank when you have an issue/inquiry. You should begin at the lowest rank that can assist you and move up rank by rank.
 
 **Proper Enforcement for Violation**
 > **[1]:** Staff Warning
@@ -248,7 +248,7 @@ Definition: Violation of any of the outlined forced leave policies while being s
 
 # **V - Illegal or Unlawful Activities**
 
-* Committing any acts that are illegal under the United States Federal Law is strictly prohibited.
+Definition: Committing any acts that are illegal under the United States Federal Law.
 
 **Proper Enforcement for Violation**
 > **[1]:** Blacklist **or** Unappealable Blacklist **or** Unappealable Contact Blacklist
@@ -393,6 +393,26 @@ Definition: Violation of any of the outlined forced leave policies while being s
 
 **Proper Enforcement for Violation**
 > **[1]:** Chief of Staff+ **or** Community Management Discretionary Infraction
+
+---
+
+# **XX - Failure to Comply With Spectator Dismissal**
+
+* If the host dismisses a user from spectating their session the user is expected to comply.
+
+**Proper Enforcement for Violation**
+> **[1]:** Staff Warning
+> **[2]:** 1-3 Day Suspension
+
+---
+
+# **XXI - Failure to Comply With Spectator Regulations**
+
+* If the host dismisses a user from spectating their session the user is expected to comply.
+
+**Proper Enforcement for Violation**
+> **[1]:** Staff Warning
+> **[2]:** 1-3 Day Suspension
 
 ---
 

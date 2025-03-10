@@ -169,9 +169,10 @@ We will now begin the elimination round. If you do a face incorrectly or to slow
 `If the Host is doing this section, say the following:`
 * **Co-Host:** The Host will now take over for this section.
 
-**Speaker:** We are now moving on to questions. In this phase, I’ll be testing you on your grammar and knowledge skills. 
+**Speaker:** 
+We are now moving on to questions. In this phase, I’ll be testing you on your grammar and knowledge skills. 
 
-**Speaker:** You’ll each receive a private message containing a "-". I will then state the questions in radio channel 2. Then you will answer the questions in your private message.
+You’ll each receive a private message containing a "-". I will then state the questions in radio channel 2. Then you will answer the questions in your private message.
 
 > `[Private message each attendee a "-", they will respond to the questions in radio channel 2 in this PM]`
 > `[You can make your own questions with approval from the supervisor]`
@@ -195,11 +196,12 @@ We will now begin the elimination round. If you do a face incorrectly or to slow
 
 > `[Wait 3 Minutes]`
 
-**Speaker:** The time for questions is now up and I will now state the correct answers. If you have not yet answered you have failed this phase.
+**Speaker:** 
+The time for questions is now up and I will now state the correct answers. If you have not yet answered you have failed this phase.
 
-**Speaker:** `[State the correct answers]`
+`[State the correct answers]`
 
-**Speaker:** Any answers similar will count as correct. Everybody please stand up.
+Any answers similar will count as correct. Everybody please stand up.
 
 ---
 
@@ -209,9 +211,10 @@ We will now begin the elimination round. If you do a face incorrectly or to slow
 `If the Host is doing this section, say the following:`
 * **Co-Host:** The Host will now take over for this section.
 
-**Speaker:** We are now moving on to room clearing. In this phase, I’ll be testing you on your clearing skills and facility knowledge.
+**Speaker:** 
+We are now moving on to room clearing. In this phase, I’ll be testing you on your clearing skills and facility knowledge.
 
-**Speaker:** Please create a single file line behind me at the door. Once you are in the line do not move as I still have more instructions to give.
+Please create a single file line behind me at the door. Once you are in the line do not move as I still have more instructions to give.
 
 > `[Head over to the door and have attendees line up behind you]`
 
@@ -298,13 +301,14 @@ You may pair up with someone if you wish. If you want to pair with someone stand
 
 > `[The host should promote passers who are not on cooldown. Unlimited people can pass. The highest promotion that can occur is W-SI]`
 
-**Host:** Now, I will announce the passers. You all did well, but these attendees stood out for their exceptional performance!
+**Host:** 
+Now, I will announce the passers. You all did well, but these attendees stood out for their exceptional performance!
 
-**Host:** `[Announce Passers, Format: [Username] [CD/Rank or Old Rank-New Rank]`
+`[Announce Passers, Format: [Username] [CD/Rank or Old Rank-New Rank]`
 
-**Host:** If you have been promoted from this modified training, your cooldown will range from 3 days to 1 week. Please check with us if you’re unsure about your cooldown period!
+If you have been promoted from this modified training, your cooldown will range from 3 days to 1 week. Please check with us if you’re unsure about your cooldown period!
 
-**Host:** This concludes our modified training session! It has been an honor and a pleasure to be your host today.
+This concludes our modified training session! It has been an honor and a pleasure to be your host today.
 
 **Co-Host:** I also want to express how wonderful it was to be your co-host today! You all did an excellent job! All dismissed!
 

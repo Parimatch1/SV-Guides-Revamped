@@ -211,7 +211,7 @@ Any answers similar will count as correct. Everybody please stand up.
 `If the Host is doing this section, say the following:`
 * **Co-Host:** The Host will now take over for this section.
 
-**Speaker:** 
+**Speaker:**
 We are now moving on to room clearing. In this phase, I’ll be testing you on your clearing skills and facility knowledge.
 
 Please create a single file line behind me at the door. Once you are in the line do not move as I still have more instructions to give.
@@ -223,7 +223,9 @@ Please create a single file line behind me at the door. Once you are in the line
 > `[Equally split the attendees into 2 groups and place them on both sides of the door]`
 > `[Once the lines are made move to the center of the lines so everyone can see your messages]`
 
-**Speaker:** 
+**Speaker:**
+Please listen carefully as I explain how to conduct room clearing.
+
 We will be in 2 lines and we will clear the facility. We will start by going through the max cells.
 
 From there we will go downstairs, past the showers, then finish by going to the max yard.
@@ -267,7 +269,9 @@ Once complete you will go STS on concrete part just before the grass.
 
 Understood? Yes/No, [Rank].
 
-You may pair up with someone if you wish. If you want to pair with someone stand next to them in the line. Then we will begin the 1v1s once everyone is paired.
+You may pair up with someone if you wish. If you want to pair with someone stand next to them in the line. 
+
+If you do not wish to pair up then I will pair you myself. Then we will begin the 1v1s once everyone is paired.
 
 > `[Pair up those without a partner]`
 > `[If there is an uneven amount of attendees a session admin or spectator can step in to 1v1]`

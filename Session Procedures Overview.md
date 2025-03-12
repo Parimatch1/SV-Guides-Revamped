@@ -72,6 +72,8 @@ Stateview CHR Exams are designed to go over a wide catalogue of advanced skills 
 * Cooldowns are based on the user's rank they received from their last session promotion.
 * Users cannot be promoted if they were not in the session picture.  
 * The use of VC and emojis without PTS counts as speaking outside of PTS. The use of commands is not considered speaking outside of PTS unless it is abused.
+* If a user is trolling or being majorly disruptive, they can be dismissed without 3 strikes.
+* The host and supervisor are authorized to dismiss spectators for any reason.
 
 ---
 

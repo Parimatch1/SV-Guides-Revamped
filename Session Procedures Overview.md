@@ -66,17 +66,10 @@ Stateview CHR Exams are designed to go over a wide catalogue of advanced skills 
   * You can supervise unlimited times per day.
   * You can help unlimited times per day.
   * These limits reset at midnight in your local timezone.
-* Chief of Staff+ can grant users permission to host modified sessions. This ability must not be abused.
-* Branch Diversity Team+ ranked users and Community Management immune users are exempt from all session regulations and restrictions besides:
-  * You cannot host during an ongoing Inspection or Certified High Rank Examination.
-  * You can only host sessions between XX:20–XX:40 and XX:50–XX:10.  
 * Cooldowns are based on the user's rank they received from their last session promotion.
 * Users cannot be promoted if they were not in the session picture.  
 * The use of VC and emojis without PTS counts as speaking outside of PTS. The use of commands is not considered speaking outside of PTS unless it is abused.
 * If a user is trolling or being majorly disruptive, they can be dismissed without 3 strikes.
-* The host and supervisor are authorized to dismiss spectators for any reason.
-* The supervisor is permitted to interject at any point with corrections or advice.
-* The supervisor holds authority over the entire session.
 
 ---
 

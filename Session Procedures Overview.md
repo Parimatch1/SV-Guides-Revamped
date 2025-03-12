@@ -74,7 +74,7 @@ Stateview CHR Exams are designed to go over a wide catalogue of advanced skills 
 * The use of VC and emojis without PTS counts as speaking outside of PTS. The use of commands is not considered speaking outside of PTS unless it is abused.
 * If a user is trolling or being majorly disruptive, they can be dismissed without 3 strikes.
 * The host and supervisor are authorized to dismiss spectators for any reason.
-* The supervisor is allowed to interject at any point with corrections or advice.
+* The supervisor is permitted to interject at any point with corrections or advice.
 * The supervisor holds authority over the host and the decisions they make.
 
 ---

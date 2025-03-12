@@ -19,63 +19,65 @@ Below elaborates on crucial information that should be known upon receiving admi
 
 ---
 
-### **HAX Administrator Regulations**
-* HAX Admin must not be used to interrupt, disrupt, or otherwise hinder active sessions.
-* HAX Admin must not be employed to distract, troll, prank, or annoy session administrators or attendees.
-* HAX Admin must not be used to block or obstruct the session room or any of its functions for any duration.
-* Modifications to other players' overheads (roles) are limited to a duration of 30 minutes and require a cooldown period of 30 minutes before further changes.
-* Users are prohibited from altering their own and others overheads to impersonate ranks or positions of higher authority.
-* HAX Admin must never be used to deliberately
-  * Cause players to leave the game.
-  * Force crashes or disruptions to others gameplay experience. 
-  * Incite frustration, anger, or dissatisfaction with the game environment.
+### **Gamepass Regulation Exemptions**
+Users who have purchased admin privileges through the Roblox Gamepass are granted immunity from all administrative regulations. However, this exemption does not extend to individuals holding higher administrative levels, even if they own the Gamepass.
 
 ---
 
-### **Gamepass Regulation Exemptions**
-Users who have acquired administrative privileges through the Gamepass level are granted immunity from all administrative regulations. However, this exemption does not extend to individuals holding higher administrative levels, even if they possess the Gamepass admin.
+### **HAX Administrator Regulations**
+* HAX Admin must not be used to interrupt, disrupt, or otherwise hinder active sessions.
+* HAX Admin must not be used to distract, troll, prank, or annoy session administrators and/or attendees.
+* HAX Admin must not be used to block or obstruct the facility or any of its functions for any duration.
+* Modifications to other players' overheads (roles) are limited to a duration of 30 minutes.
+* There is a 30-minute overall cooldown for changing other players' overheads.
+* Users are prohibited from altering their own or others' overheads to ranks above theirs.
+* HAX Admin must never be used to deliberately:
+  * Cause players to leave the game.
+  * Force crashes or disruptions to others' gameplay experience.
+  * Incite frustration, anger, or dissatisfaction with the game environment.
+  * Cause significant disruption to the roleplay experience across the server.
 
 ---
 
 ### **Chief of Staff+ Regulation Exemptions**
-Individuals holding the rank of Chief of Staff or higher are exempt from all administrative regulations. This exemption is valid as long as their actions:
-* Do not cause significant disruption to the Roleplay experience across the server.
+Individuals holding the rank of Chief of Staff or higher are exempt from all administrative regulations. This exemption applies as long as their actions:
+* Do not cause significant disruption to the roleplay experience across the server.
 * Are backed by adequate reasoning and justification.
 
 ---
 
 ### **Board of Governors with EHR Regulation Exemptions**
-Members ranked Board of Governors who have been assigned the Elevated HR Permission role are not required to provide a reason with their use of administrative commands.
+Members ranked Board of Governors who have been assigned the Elevated High Rank role are not required to provide a reason for their use of administrative commands. However, their actions must be backed by adequate reasoning and justification.
 
 ---
 
 ### **Game Administration Members**
-Game Administrators adhere to a distinct set of policies regarding the use and potential abuse of administrative commands. If you suspect an instance of administrative abuse by a Game Administrator:
-* Do not act independently to address the issue.
-* Report the matter to a member of the game administration management team for appropriate resolution.
+Game Administrators (SV Admin) adhere to a separate set of policies regarding the use of administrative commands. If you suspect an instance of admin abuse by a Game Administrator:
+* Do not act independently to address the issue, regardless of the suspect's rank.
+* Report the matter to a member of the Game Administration management team for appropriate resolution.
 
 ---
 
 ### **Session Regulation Exemptions**
 During active sessions, participants may use administrative commands on the inmate team under the following conditions:
-* Commands are executed within the sessions room.
+* Commands are executed within the session room.
 * Commands are used to warp individuals back to the sessions room as necessary.
 
 ---
 
 ### **VIP Server Regulation Exemptions**
-Users operating within VIP servers are exempt from all administrative regulations, provided the following conditions are met:
+Users playing within VIP servers are exempt from all administrative regulations under the following conditions:
 * Commands do not interfere with public servers in any way.
 * Commands requiring justification must include an appropriate reason, such as “VIP” or “Private Server.”
 
 ---
 
 ### **Standard Command Format**
-The standard form for commands is as follows:
+The standard format for commands is as follows:
 `[Command] [User] [Reason]`
 `bring Legoking12501 Training`
 
-If you forget to provide reasoning for a command do as below:
+In the event you forget to provide a reason for a command, do the following:
 `logs reason for bring command was training`
 
 ---

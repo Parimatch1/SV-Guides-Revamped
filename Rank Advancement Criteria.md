@@ -24,9 +24,9 @@ Below elaborates on crucial information that should be known prior to promoting 
 ### **Expectations**
 |Promotion Requirements|Raised Opportunity|Factors of Determination|
 | --- | --- | --- |
-|Game Activity|Departmental Status|Departmental Status|
-|Discord Activity|Community Engagement|Infraction Status|
-|Levels of Maturity|No Previous Infractions|Reformation Status|
+|Session Activity|Departmental Status|Departmental Status|
+|Game Activity|Community Engagement|Infraction Status|
+|Levels of Maturity & Professionalism|No/Low Previous Infractions|Reformation Status|
 ||High Game Activity| |
 
 ---

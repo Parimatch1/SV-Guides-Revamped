@@ -46,8 +46,8 @@ The Stateview Riot Protocol Guide outlines the steps necessary for setting up, c
 * Users can be dismissed without 3 strikes if they are trolling or being majorly disruptive.
 * The host and supervisor can dismiss the co-host(s)/helper(s) with a valid reason.
 * The host and supervisor can dismiss spectators for any reason.
+* The supervisor holds authority over the entire session.
 * The supervisor is allowed to interject at any point with corrections or advice.
-* The supervisor holds authority over the host and the decisions they make.
 * The supervisor or any Board of Governors+ can cancel the session with a valid reason.
 
 ### **Session Administration Requirements**

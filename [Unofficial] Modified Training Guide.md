@@ -106,7 +106,7 @@ I - It is crucial you listen to all directions and information I am providing to
 
 II - Do not say PTS (Permission To Speak) while I am speaking. PTS is active unless stated otherwise. Talking/Using VC without permission will result in a strike.
 
-III - Remain STS (Shoulder to Shoulder) at all times. Additionally, ask for permission before going AFK (Away From Keyboard). Performing either of these actions without permission will result in a strike.
+III - Remain STS (Shoulder to Shoulder) at all times. Additionally, ask for permission before going AFK (Away From Keyboard). Incompliance will result in a strike.
 
 IV - Follow all orders given to you by a Co-Host or Helper unless they ask you to break the rules.
 
@@ -274,7 +274,7 @@ Once complete you will go STS facing the grass on concrete area just before the 
 
 Any questions? Yes/No, [Rank].
 
-If you wish to pair up with someone step forward and stand next to eachother. Make it clear you are a pair.
+If you wish to pair up with someone stand one infront of the other. Remain in a STS.
 
 If you do not wish to pair up then I will pair you myself. Then we will begin the 1v1s once everyone is paired.
 

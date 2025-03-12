@@ -48,8 +48,8 @@ The Stateview Inspection Guide outlines the steps necessary for setting up, cond
 * Users can be dismissed without 3 strikes if they are trolling or being majorly disruptive.
 * The host and supervisor can dismiss the co-host(s)/helper(s) with a valid reason.
 * The host and supervisor can dismiss spectators for any reason.
+* The supervisor holds authority over the entire session.
 * The supervisor is allowed to interject at any point with corrections or advice.
-* The supervisor holds authority over the host and the decisions they make.
 * The supervisor or any Chief of Staff+ can cancel the session with a valid reason.
 * The host, co-host(s), helper(s), and supervisor have permission to server ban any users raiding the inspection for the reason "inspection raider" and are not to log it on BC.
 

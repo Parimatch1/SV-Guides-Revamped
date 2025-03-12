@@ -58,21 +58,26 @@ Stateview CHR Exams are designed to go over a wide catalogue of advanced skills 
 # **General Session Information**
 
 * If you are exempt from the supervisor requirement when hosting, you are not permitted to have a supervisor.  
-* You cannot host during an ongoing inspection or Certified High Rank examination.  
-* You can host up to 2 times a day. You can co-host up to 2 times a day. These limits reset at midnight in your local timezone. You can supervise and help an unlimited number of times a day.  
-* Chief of Staff+ can allow users to host modified sessions. This must not be abused.  
-* Users ranked Branch Diversity Team+ and Community Management Immune Users are exempt from all session regulations and restrictions besides:  
-  * You cannot host during an ongoing inspection or Certified High Rank examination.  
-  * You can only host between XX:20–XX:40 and XX:50–XX:10.  
-* Cooldowns are based on the user's rank they received from their last session promotion.  
+* You cannot host during an ongoing Inspection or Certified High Rank Examination.
+* Daily Session Limits:
+  * You can host 0-2 times per day.
+  * You can co-host 0-2 times per day.
+  * You can supervise unlimited times per day.
+  * You can help unlimited times per day.
+  * These limits reset at midnight in your local timezone.
+* Chief of Staff+ can grant users permission to host modified sessions. This ability must not be abused.
+* Branch Diversity Team+ ranked users and Community Management immune users are exempt from all session regulations and restrictions besides:
+  * You cannot host during an ongoing Inspection or Certified High Rank Examination.
+  * You can only host sessions between XX:20–XX:40 and XX:50–XX:10.  
+* Cooldowns are based on the user's rank they received from their last session promotion.
 * Users cannot be promoted if they were not in the session picture.  
-* The use of VC and emojis without PTS counts as speaking outside of PTS. The use of commands is not considered speaking outside of PTS unless abused.
+* The use of VC and emojis without PTS counts as speaking outside of PTS. The use of commands is not considered speaking outside of PTS unless it is abused.
 
 ---
 
 # **Spectator Information**
 
-* Community Advisory Council with EHR can spectate without permission.
+* Community Advisory Council with Elevated High Rank can spectate without permission.
 * Prison Commissioner+ can spectate without permission. 
 * Respected Inmate can spectate without permission.
 * Certified High Rank can spectate without permission.
@@ -83,10 +88,10 @@ Stateview CHR Exams are designed to go over a wide catalogue of advanced skills 
 * Prison Commissioner with EHR and Board of Governors+ can grant one other person spectator permissions.
 * Branch Diversity Team+ can bypass the spectator limit for one other person.
 
-* Up to 3 people can spectate. Chief of Staff+ and bypassed users do not count towards this limit.
+* Up to 3 people can spectate a session. Chief of Staff+ and bypassed users do not count towards this limit.
 * You cannot interfere with/disturb the session in any way.
-* You can grant spectator permissions only if you are in the same server as the session.
-* You are expected to help deal with disturbers.
+* You can grant spectator permissions as long as you are in the same server as the session.
+* You are expected to assist with disturbers and raiders.
 * You must leave if ordered by the host, regardless of rank/role.
 
 ---

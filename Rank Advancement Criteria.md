@@ -142,7 +142,7 @@ Below elaborates on crucial information that should be known prior to promoting 
 ---
 
 # **Board of Governors-Chief of Staff+ Promotion Information**
-* At this point, promotions are much more than just statistics. Although these are still a factor, things like community engagement, departments, departmental activity, consistency, high trust, maturity, and more become a much larger factor.
+* At this point, promotions are much more than just statistics. Although these are still a factor, things like community engagement, departments, departmental activity, consistency, trust, maturity, and more become a much larger factor.
 * Promotions to ranks this high should be discussed with users holding the same or higher rank.
 * Promotions to ranks this high should be approved by a user with a higher rank.
 
@@ -157,7 +157,7 @@ Old Rank - New Rank: Old Rank --> New Rank
 Reason: Activity Recognized
 Factors of Determination: Explain Reason For Promotion
 * The factors of determination must include the following elements:
-  * Dept Status/Depts/Dept Rank [or Rank Group, Ex: Management]: A user's departments and, optionally, their rank or rank group in each department. 
+  * Department Status/Departments/Department Rank(s) [or Rank Group, Ex: Management]: A user's departments and, optionally, their rank or rank group in each department. 
   * Infraction History/Infraction Status: A brief history of the user's infractions. This does not need to be overly detailed and can be listed under the users stats. 
   * Reformation Status: How the user has improved since any negative history. It also highlights their potential for future growth and improvement.
 --------------

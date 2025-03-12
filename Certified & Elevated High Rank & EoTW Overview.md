@@ -9,13 +9,13 @@ Below outlines the rewards and requirements of the Certified High Rank, Elevated
 
 # **Certified High Rank**
 ### **Information**
-Certified High Rank is earned by passing an inspection as a Superintendent+. This role lasts for 30 days.
+Certified High Rank is earned by passing a Certified High Rank Examination as a Superintendent+. This role lasts until the following CHR Exam.
 
 ### **Benifits**
 * Permission to spectate all sessions without approval from the host.  
-* Higher chance of promotion—users with Certified High Rank only need 4/5 of the originally required statistics to achieve the next rank.  
-* Exemption from all in-game and department quotas for one week.  
-* Special Discord role, Discord icon, and image permissions in the main chat.  
+* Higher chance of promotion—users with Certified High Rank only need 4/5 of the originally required statistics to achieve the next rank.
+* Exemption from all in-game and department quotas for one selected week. Directly Message a Chief of Staff+ to use this.
+* Special Discord role, Discord icon, and image permissions in the main chat.
 * Featured in the monthly newsletter.
 
 ---
@@ -27,36 +27,37 @@ Elevated High Rank can also be granted for 1 week by the Community Management Te
 
 ### **Benifits**
 **Facility Director**
-* Host (Advanced) Trainings without supervision.  
-* Supervise (Advanced) Training Sessions.  
+* Host (Advanced) Trainings without supervision.
+* Supervise (Advanced) Training Sessions.
 * Promote users from sessions on their own.
 
 **Community Advisory Council**
-* Reasonably modify sessions as the host.  
-* Spectate any session without the host's permission.  
-* Host Riot Protocols without supervision.  
+* Reasonably modify sessions as the host.
+* Spectate any session without the host's permission.
+* Host Riot Protocols without supervision.
 * Supervise Riot Protocol Sessions.
 
 **Prison Commissioner**
 * Reasonably modify sessions as the host.  
 * Grant one other user spectator permissions.
+* Bypass the daily hosting and co-hosting limits.
 
 **Board of Governors**
 * Reasonably modify sessions as the host.  
-* Exempt from using admin command reasons. This is not an exemption from having valid reasons but from including the reason within the command.
+* Exempt from the admin command reason requirement.
 
 ---
 
 # **Employee of the Week**
 ### **Employee of the Week Information**
 Every week, the Community Management Team will grant the hardest working user of that week the "Employee of the Week" role.  
-This role's color can be customized to the recipient's liking.
 
-### **EoTW Benifits**
+### **EoTW Benefits**
 * Fully excused from the following week's session and minute quota.  
 * Fully excused from the following week's department quota for all departments the user is in.
 * Allowed to bypass the hosting and co-hosting limit.
 * Allowed to spectate any session without prior approval.
+* Request to change the EoTW role color to any color of their choosing.
 
 ---
 

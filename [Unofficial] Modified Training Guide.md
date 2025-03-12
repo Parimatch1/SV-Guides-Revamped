@@ -100,21 +100,23 @@ The Stateview Modified Training Guide outlines the steps necessary for setting u
 **Co-Host:** Hey! I’m `[Nickname]`, your co-host, and I’ll be assisting in today’s modified training.
 
 **Host:** 
-Before we begin, let’s go over a few rules to help you succeed in this modified training!
+Before we begin, let’s go over a few rules to help you succeed in this session!
 
-I - Do not say PTS (Permission To Speak) while I am speaking. PTS is active unless stated otherwise. Talking/Using VC without permission will result in a strike.
+I - It is crucial you listen to all directions and information I am providing to you. If you still have a question after I explain something, you may use PTS.
 
-II - Remain STS (Shoulder to Shoulder) at all times. Ask for permission before going AFK (Away From Keyboard).
+II - Do not say PTS (Permission To Speak) while I am speaking. PTS is active unless stated otherwise. Talking/Using VC without permission will result in a strike.
 
-III - Follow all orders given to you by a Superintendent+ or Co-Host unless they ask you to break the rules. You must call me, my Co-Host, and Helpers by our ranks at all times.
+III - Remain STS (Shoulder to Shoulder) at all times. Additionally, ask for permission before going AFK (Away From Keyboard). Performing either of these actions without permission will result in a strike.
 
-IV - If there is any problem, come to me, my Co-Host, my Helpers, or any other Superintendent+ for assistance.
+IV - Follow all orders given to you by a Co-Host or Helper unless they ask you to break the rules.
 
-V - You must be respectful to everyone at all times. Not following this will result in removal from the modified training.
+V - If there is any problem, come to me, my Co-Host, or my Helpers for assistance. You must call me, my Co-Host, and Helpers by our ranks at all times.
 
-VI - Trolling in any form is unacceptable! Grammar must be used throughout this modified training. Trolling or not using grammar will result in a strike or instant removal of this modified training.
+VI - You must be respectful to everyone at all times. Failure to be respectful will result in a strike or instant removal from this session.
 
-This modified training will consist of four sections- the first 2 will be unmodified, and the last 2 will be modified.
+VII - Trolling in any form is unacceptable! Trolling will result in a strike or instant removal from this session.
+
+This modified training will consist of 4 sections- the first 2 will be unmodified, and the last 2 will be modified.
 
 ---
 
@@ -129,7 +131,7 @@ To start off the session, we’ll be doing faces.
 
 In this phase, we will be testing your reaction time and listening skills!
 
-Please listen carefully as I will only explain each face once. DO NOT actually do the faces at this point.
+Please listen carefully as I will only explain each face once. Do not actually do the faces at this point.
 
 Left Face - Turn left 90 degrees from the current position.
 
@@ -143,11 +145,11 @@ Control Face - Face the Host/Co-Host at all times. (Host/Co-Host should be in th
 
 Please note: Only the center face breaks control face, any other face will not.
 
-Everybody please switch to radio channel 2. This can be done by clicking the "1" in the top right of the radio. Do not switch off of this radio channel for the remainder of the session. 
+Please switch to radio channel 2. You can do this by clicking the "1" in the top right of the radio. Remain on this radio channel for the remainder of the session. 
 
 Is everybody on radio channel 2? Yes/No, [Rank].
 
-We will now begin the elimination round. If you do a face incorrectly or to slow you will be sat. Do not stand up.
+We will now begin the elimination round. If you do a face incorrectly or too slowly, you will be sat. Remain seated once you are sat.
 
 > `[You may not do troll faces.]`
 > - `[You cannot say "Turn" instead of "Face."]`
@@ -159,7 +161,7 @@ We will now begin the elimination round. If you do a face incorrectly or to slow
 > `[Say any amount of faces in any order on radio channel 2]`
 > `[Once done, mark whoever is still standing as "Passing" for faces]`
 
-**Speaker:** Faces Complete. Everybody stand up and center face [face front].
+**Speaker:** Faces complete. Everybody stand up and center face (face front).
 
 ---
 
@@ -172,7 +174,7 @@ We will now begin the elimination round. If you do a face incorrectly or to slow
 **Speaker:** 
 We are now moving on to questions. In this phase, I’ll be testing you on your grammar and knowledge skills. 
 
-You’ll each receive a private message containing a "-". I will then state the questions in radio channel 2. Then you will answer the questions in your private message.
+You will all receive an empty private message. I will then post 2 questions on the radio. After that, you will answer the posted questions inside your private message.
 
 > `[Private message each attendee a "-", they will respond to the questions in radio channel 2 in this PM]`
 > `[You can make your own questions with approval from the supervisor]`
@@ -192,16 +194,16 @@ You’ll each receive a private message containing a "-". I will then state the 
 * What would you do if you see an abuser ingame?
   * If you see an abuser you should either modcall, create a report ticket, or notify a high rank.
 
-**Speaker:** You will have 3 minutes to answer the questions. Crouch once you have answered the questions. If you did not get a private message say PTS.
+**Speaker:** You will have 3 minutes to answer these questions. Once you have answered, please crouch. If you did not get a private message, let me know with PTS.
 
 > `[Wait 3 Minutes]`
 
-**Speaker:** 
-The time for questions is now up and I will now state the correct answers. If you have not yet answered you have failed this phase.
+**Speaker:**
+The time for questions is up, and I will now state the correct answers. If you have not answered, then you have failed this phase.
 
 `[State the correct answers]`
 
-Any answers similar will count as correct. Everybody please stand up.
+Any similar answers will be counted as correct. Everybody please stand up.
 
 ---
 
@@ -214,25 +216,28 @@ Any answers similar will count as correct. Everybody please stand up.
 **Speaker:**
 We are now moving on to room clearing. In this phase, I’ll be testing you on your clearing skills and facility knowledge.
 
-Please create a single file line behind me at the door. Once you are in the line do not move as I still have more instructions to give.
+Please create a single-file line behind me at the session room door. Once you are in the line, remain in place until given further instruction.
 
 > `[Head over to the door and have attendees line up behind you]`
+> `[Put 1 "Captain" on each side of the door]`
 
-**Speaker:** I will now split you into 2 lines. One one the left side of the session room door and one on the right.
+**Speaker:** I will now split you into 2 lines, on the left and right sides of the door.
 
-> `[Equally split the attendees into 2 groups and place them on both sides of the door]`
+> `[Equally split the attendees into 2 lines and place them on both sides of the door]`
 > `[Once the lines are made move to the center of the lines so everyone can see your messages]`
 
 **Speaker:**
-Please listen carefully as I explain how to conduct room clearing.
+Please listen carefully as I explain how to properly conduct room clearing.
 
-We will be in 2 lines and we will clear the facility. We will start by going through the max cells.
+We will be breaching rooms inside the facility. Starting at the max cells, then passing the showers, and ending at the max security yard.
 
-From there we will go downstairs, past the showers, then finish by going to the max yard.
+These 2 lines represent the side of door you will stand on before breaching. You are expected to stay within your line while clearing.
 
-The person at the back of the line is expected to watch the back for any inmates or criminals. All inmates and criminals are kill on site.
+We will stop at every door. Regardless of if it is opened or closed. We will not move onto the next door until everyone is properly in line.
 
-At each door, whether open or closed, we will stop and go beside it while staying in our two lines. Do not close doors unless you are the last person going through.
+I will lead you all and direct when to breach. Do not move past a door without my direction. Only the last person through should close the door.
+
+The person at the back of the line is expected to cover everyone from any inmates or criminals. All inmates and criminals are kill on sight.
 
 In the event you die please rejoin us at the maximum security yard.
 
@@ -259,27 +264,27 @@ h There is a session currently ongoing outside of the session room. Raiding it w
 
 We are now moving onto the 1v1s phase! In this phase you and a fellow attendee will be using glock-17s to 1v1 eachother.
 
-Your task here is simple, you will be called up pair by pair to 1v1 eachother.
+Your task here is simple, you will be called up to the yard pair by pair to 1v1 each other.
 
-On radio channel 2 I will say "READY!", "SET!", then "GO!". Once I say "GO!" the 1v1 can begin.
+On the radio I will say "READY!", "AIM!", "FIRE!". Once I say "FIRE!" the 1v1 can begin.
 
-I will place you in a specific spot before your 1v1 begins. Do not move from this spot until you are told to begin.
+I will place you in specific starting positions. Do not move from these positions until you see me say "FIRE!".
 
-Once complete you will go STS on concrete part just before the grass.
+Once complete you will go STS facing the grass on concrete area just before the grass.
 
-Understood? Yes/No, [Rank].
+Any questions? Yes/No, [Rank].
 
-You may pair up with someone if you wish. If you want to pair with someone stand next to them in the line. 
+If you wish to pair up with someone step forward and stand next to eachother. Make it clear you are a pair.
 
 If you do not wish to pair up then I will pair you myself. Then we will begin the 1v1s once everyone is paired.
 
 > `[Pair up those without a partner]`
-> `[If there is an uneven amount of attendees a session admin or spectator can step in to 1v1]`
+> `[If there is an uneven amount of attendees a session admin or spectator can step in to 1v1. You can also make an attendee who won go again with them]`
 
 > `[Place pairs diagonally from eachother in the grass part of the max yard]`
 
 **Instructor:** READY!
-**Instructor:** AIM!!
+**Instructor:** AIM!
 **Instructor:** FIRE!
 
 > `[After saying "FIRE!", team an attendee in the pair to inmate so they can damage eachother. They do not need to be refreshed but should be teamed back after their turn is complete.]`
@@ -310,7 +315,7 @@ Now, I will announce the passers. You all did well, but these attendees stood ou
 
 `[Announce Passers, Format: [Username] [CD/Rank or Old Rank-New Rank]`
 
-If you have been promoted from this modified training, your cooldown will range from 3 days to 1 week. Please check with us if you’re unsure about your cooldown period!
+If you have been promoted from this session, your cooldown will range from 3 days to 1 week. Please check with us if you’re unsure about your cooldown period!
 
 This concludes our modified training session! It has been an honor and a pleasure to be your host today.
 

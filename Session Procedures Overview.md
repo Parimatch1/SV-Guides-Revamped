@@ -90,6 +90,7 @@ Stateview CHR Exams are designed to go over a wide catalogue of advanced skills 
 * Prison Commissioner with EHR and Board of Governors+ can grant one other person spectator permissions.
 * Branch Diversity Team+ can bypass the spectator limit for one other person.
 
+
 * Up to 3 people can spectate a session. Chief of Staff+ and bypassed users do not count towards this limit.
 * You cannot interfere with/disturb the session in any way.
 * You can grant spectator permissions as long as you are in the same server as the session.

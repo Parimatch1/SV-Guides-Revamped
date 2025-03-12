@@ -142,21 +142,9 @@ Below elaborates on crucial information that should be known prior to promoting 
 ---
 
 # **Board of Governors-Chief of Staff+ Promotion Information**
-* At this point promotions are much more then just statistics. Although these are still a factor things like community engagement, departments, departmental activity, consistency, high trust, maturity, and more become a much larger factor.
-* **Board of Governors-Chief of Staff - Requirements**
-  * Chairman of the Board+ approval is required.
-  * 5+ agreements (including the CMoTB+ approval) by Branch Diversity Team+ are required.
-* **Chief of Staff-Branch Diversity Team - Requirements**
-  * Chairman of the Board+ approval is required.
-  * 5+ agreements (including the CMoTB+ approval) by Branch Diversity Team+ are required.
-* **Branch Diversity Team-Chairman of the Board - Requirements**
-  * Stateview Leadership approval is required.
-  * A majority vote by Chairman of the Board+ is required.
-* **Chairman of the Board-Chief Executive Officer - Requirements**
-  * A majority vote by Stateview Leadership is required.
-* **Chief Executive Officer-Stateview Leadership - Requirements**
-  * SIRJIMM_Y and Watercoolings approval is required.
-  * A majority vote by Stateview Leadership is required.
+* At this point, promotions are much more than just statistics. Although these are still a factor, things like community engagement, departments, departmental activity, consistency, high trust, maturity, and more become a much larger factor.
+* Promotions to ranks this high should be discussed with users holding the same or higher rank.
+* Promotions to ranks this high should be approved by a user with a higher rank.
 
 ---
 

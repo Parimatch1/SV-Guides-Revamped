@@ -8,19 +8,18 @@ Below elaborates on crucial information that should be known prior to promoting 
 ---
 # **Information**
 ### **Information**
-* When making a group chat to discuss promotions, a Chief of Staff+ must be present.
-* Statistics must be present within the promotion log.
-* Factors of Determination can slightly make up for a lack in stats.
-* Everyone who agreed to the promotion must be listed in proper order, starting with whoever had the idea to promote the user, followed by the users who did the most → least work/agreed most → least.
-* When promoting someone to Chairperson+, only use the stats from the rank they previously had and no other rank.
-* Check statistics through the intel server and through Bloxcord. The intel server stats are the most accurate.
-* When promoting on Bloxcord, use the reason "Activity Noticed."
-* When promoting someone let them get their own roles in both servers.
-* Your statistics reset when getting demoted/terminated/blacklisted, but unreset if the punishment is reverted.
-* False punishments do not count towards the "History" part of promotions. All other punishments (including reverted ones) do count.
-* Your statistics are not affected if you get promoted and it gets reverted.
-* Your statistics reset upon your resignation.
-* Users can choose to decline their promotion.
+* Any group chats that involve promotion discussions must have a Chief of Staff+ present.
+* Once invited to provide your feedback on a promotion you can not steal that promotion for yourself or for others.
+* Factors of Determination can slighty make up for a lack of statistics.
+* Everyone who agreed to the promotion must be listed on the promotion log. They must be listed in order of most work to least work done for the promotion.
+* Only the statistics from the users current rank should be considered in a promotion.
+* Be sure to check a users statistics through the administration server.
+* When someone is promoted you should allow them to get their own roles in both servers.
+* Invalid punishments should not be considered in the "History" section of a promotion. All other punishments (even reverted ones) do count.
+* Statistics reset upon a demotion, termination, or blacklist. Statistics will unreset if the punishment is reverted.
+* Your statistics are not affected if your promotion gets reverted. However any statistics you earnt with your new rank before losing it will not be counted.
+* Statistics permanently reset upon your resignation.
+* Users have the choice to decline their promotion.
 
 ### **Expectations**
 |Promotion Requirements|Raised Opportunity|Factors of Determination|

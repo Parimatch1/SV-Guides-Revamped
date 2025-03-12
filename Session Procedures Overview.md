@@ -58,7 +58,7 @@ Stateview CHR Exams are designed to go over a wide catalogue of advanced skills 
 # **General Session Information**
 
 * If you are exempt from the supervisor requirement when hosting, you are not permitted to have a supervisor.  
-* You cannot host during an ongoing Inspection or Certified High Rank Examination.
+* You cannot host during or within 30 minutes before a ongoing Inspection or Certified High Rank Examination.
 * Daily Session Limits:
   * You can host 0-2 times per day.
   * You can co-host 0-2 times per day.

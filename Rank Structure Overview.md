@@ -8,16 +8,19 @@ The Stateview Rank Structure Overview outline important information and regulati
 ---
 
 # **Rank Limits**
-* Rank Limits is the numerical restriction on ranks. For example, if Facility Director has a rank limit of 50, only up to 50 users can have the Facility Director rank. Rank Limits do not consider users who have purchased their rank or authorities.
+* Rank Limits are the numerical restriction on ranks. For example, if Facility Director has a rank limit of 90, only up to 90 users can have the Facility Director rank. Rank Limits do not consider authorities or users who have purchased their rank.
 
 # **Rank Cooldowns**
-* Cooldowns are the time a user must wait between session promotions. For example, if a user got Deputy Warden-Warden from a session 6 days ago, but the Warden cooldown is 7 days, that user has one day left of cooldown.
+* CAO-W: Cooldowns are the time a user must wait between session promotions. For example, if a user got Deputy Warden to Warden from a session 6 days ago, that user has one day left of cooldown as the Warden cooldown is 7 days.
+* SI+: Cooldowns are the time a user must wait before being eligible for a promotion to Chairperson+. For example, if a user got Warden to Superintendent 6 days ago, that user has one day left of cooldown as the Superintendent cooldown is 7 days.
 
 # **Rank Quota**
-* Each rank above Chairperson has 2 forms of quota. The first form is session and supervision points. Session points are the total time a user has hosted and co-hosted a session each week. The second form of quota is minutes. Minutes are the total amount of time a user has played Stateview that week, and is determined by the "Total Week Playtime" statistic (minus afk time). Failure to fully complete quota will result in a Staff Warning unless you have quota excusal for that week. Quota goes from Monday 12:00AM to Sunday 12:00PM in your local timezone.
+* Session Quota: Session quota comes in the form of session and supervision points. Session points are the total times a user has hosted and co-hosted a session each week.
+* Minute Quota: Minutes are the total amount of time a user has played Stateview that week, determined by the "Total Week Playtime" statistics (not including AFK time). Each rank has a certain amount of minutes required to be played each week.
+* Failure to fully complete quota will result in receiving a Staff Warning. Users who are excused from quota for that week will not receive punishment. Quota goes from Monday 12:00 AM to Sunday 12:00 PM in your local timezone.
 
 ### **Table With Each Ranks Information**
-|Rank|Limit|Cooldown|Quota|Minute Requirements|
+|Rank|Limit|Cooldown|Session Quota|Minute Quota|
 | --- | --- | --- | --- | --- |
 |(LR) Cadet Officer|N/A|2 Days|N/A|N/A|
 |(LR) Corrections Officer|N/A|2 Days|N/A|N/A|

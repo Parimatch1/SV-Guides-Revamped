@@ -26,7 +26,7 @@ Below elaborates on crucial information that should be known prior to promoting 
 | --- | --- | --- |
 |Session Activity|Departmental Status|Departmental Status|
 |Game Activity|Community Engagement|Infraction Status|
-|Levels of Maturity & Professionalism|No/Low Previous Infractions|Reformation Status|
+|Levels of Maturity & Professionalism|None/Low Previous Infractions|Reformation Status|
 ||High Game Activity| |
 
 ---

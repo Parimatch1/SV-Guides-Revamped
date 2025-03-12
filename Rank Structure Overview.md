@@ -46,15 +46,15 @@ The Stateview Rank Structure Overview outline important information and regulati
 
 # **Rank Permissions**
 
-Each rank has certain permissions and abilities that outline what they can do, what they can't do, what requires approval, and more. These permissions are outlined in any guidelines that may be related. For example what rank can host a training would be outlined in the training guide.
+Each rank has certain permissions and abilities that outline what they can do, what they can't do, what requires approval, and more. These permissions are outlined in any guidelines that may be related. For example, what rank can host a training would be outlined in the training guide.
 
 ---
 
 # **Authority Information**
 
-Users can be granted the "authority" of a rank. Which means you would not get the rank in the group, but would still obtain some of it's qualities.
+Users can be granted the "authority" of a rank. Authorities give users some qualities of a rank; however, they do not possess the rank in the Stateview group itself.
 
-### **Some qualities include:**
+### **Qualities of Authorities Include:**
 * Associated Discord Role
 * Hosting Permissions
 * Co-Hosting Permissions
@@ -64,23 +64,22 @@ Users can be granted the "authority" of a rank. Which means you would not get th
 * Punishments (Modifying/Types/Approval/Approving/Etc)
 * Granting Approval
 
-### **And Does Not Include:**
+### **Qualities of Authorities Do Not Include:**
 * Quota
 * Promotions
-  * Example: If a FD with CMoTB authority got promoted, they would get promoted FD-CAC and not CMoTB-CEO.
+  * Example: If a Facility Director with Chairman of the Board authority got promoted, they would get promoted from Facility Director to Community Advisory Council and not from Chairman of the Board to Chief Executive Officer.
 * Statistics 
-  * Example: FD+ can host trainings, so if a CP has FD authority any training hosts could not be considered in promotions, along with other statistics their actual rank could not obtain.
+  * Example: Facility Director+ is authorized to host trainings. If a Chairperson has the authority of a Facility Director, any trainings they hosted could not be considered in promotion statistics, along with any other statistics their actual rank could not obtain.
 * Resigning
-  * Example: PC+ is required to get RI. So if a FD has PC authority they would not be eligble to resign to RI.
-  * You may ask whoever granted your authority (or someone similar to who granted it) to revoke your authority. Similar to a resignation but with no restrictions and for authorities instead.
+  * Example: Prison Commissioner+ is required to resign to Respected Inmate. So if a Facility Director has Prison Commissioner authority, they would be ineligible to resign to Respected Inmate.
+  * You may ask whoever granted your authority (or someone similar to who granted it) to revoke your authority. This is similar to a resignation but with no restrictions and for authorities instead.
 * Anything Not Listed In The Including Section
 
 ### **Extra Information:**
 * You cannot punish users with a higher authority than your authority.
 * You cannot punish users with a higher rank than your authority.
-* You can punish users with a rank lower than your authority.
 * Governor Administration is considered an authority. However, users with this authority are fully excused from quota.
 
 ---
 
-**Created by MrAttire9. Reviewed/Revised by Legoking12501 Governor Administration (Legoking12501 & MrAttire9).**
+**Created by MrAttire9 & Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration (Legoking12501 & MrAttire9).**

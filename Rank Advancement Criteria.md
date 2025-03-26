@@ -79,6 +79,8 @@ Below elaborates on crucial information that should be known prior to promoting 
 * **Supervisions:** 20-35
 * **Monthly In-Game Minutes:** 3500+
 * **Level:** 250+
+* **EoTW Awarded:** 1+
+* **EHR Awarded:** 1-2+
 * **Average Grade:** 9.0+
 * **Average Professionalism:** 88%+
 * **Average Presence:** 88%+
@@ -94,21 +96,23 @@ Below elaborates on crucial information that should be known prior to promoting 
 
 # **Community Advisory Council-Prison Commissioner Promotion Information**
 **Minimum Recommend Statistics**
-* **Hosts:** 65-85
-* **Co-Hosts:** 35-50
-* **Supervisions:** 70-100
+* **Hosts:** 65-85+
+* **Co-Hosts:** 35-50+
+* **Supervisions:** 70-100+
 * **Inspection Helpers:** 1-3+
 * **Monthly In-Game Minutes:** 5000+
 * **Level:** 400+
+* **EoTW Awarded:** 1+
+* **EHR Awarded:** 2-4+
 * **Average Grade:** 9.2+
 * **Average Professionalism:** 90%+
 * **Average Presence:** 90%+
 * **Grammar:** 90%+
 * **Messages in Main:** 3000+
-* **Departments:** 1-4
+* **Departments:** 1-4+
 * **Intel Logs:** 400+
-* **HR Promotions (By You):** 1
-* **HR Promotions (Participated In, Not By You):** 2-4
+* **HR Promotions (By You):** 1+
+* **HR Promotions (Participated In, Not By You):** 1-3+
 
 **Requirements**
 * Chief of Staff+ approval is required.
@@ -118,22 +122,24 @@ Below elaborates on crucial information that should be known prior to promoting 
 
 # **Prison Commissioner-Board of Governors Promotion Information**
 **Minimum Recommend Statistics**
-* **Hosts:** 90-110
-* **Co-Hosts:** 80-100
-* **Supervisions:** 70-100
+* **Hosts:** 90-110+
+* **Co-Hosts:** 80-100+
+* **Supervisions:** 70-100+
 * **Inspection Co-Hosts:** 1-2+
 * **Inspection Helpers:** 1-3+
 * **Monthly In-Game Minutes:** 6000+
 * **Level:** 500+
+* **EoTW Awarded:** 2+
+* **EHR Awarded:** 3-5+
 * **Average Grade:** 9.5+
 * **Average Professionalism:** 95%+
 * **Average Presence:** 95%+
 * **Grammar:** 95%+
 * **Messages in Main:** 5000+
-* **Departments:** 2-5
+* **Departments:** 2-5+
 * **Intel Logs:** 700+
-* **HR Promotions (By You):** 2-4
-* **HR Promotions (Participated In, Not By You):** 4-7
+* **HR Promotions (By You):** 1-3+
+* **HR Promotions (Participated In, Not By You):** 2-4+
 
 **Requirements**
 * Branch Diversity Team+ approval is required.
@@ -196,7 +202,10 @@ Overseer Command
 Discord Moderation
 Events Team
 CHR - Increased Chance of Promotion
-X EoTW
+X EoTW Weekly Reward
+X EHR Weekly Reward
+X HR Promotions Conducted
+X HR Promotions Participated
 --------------
 **History:**
 X VW [X+ Months Ago]

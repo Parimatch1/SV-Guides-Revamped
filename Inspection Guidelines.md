@@ -155,44 +155,46 @@ Server ID:
 
 **Co-Host:** Hey! I’m `[Nickname]`, your co-host, and I’ll be assisting in today’s inspection.
 
-**Host:** Before we begin, let’s go over a few rules to help you succeed in this inspection!
+**Host:** 
+Before we begin, let’s go over a few rules to help you succeed in this inspection!
 
-**Host:** I - Do not say PTS (Permission To Speak) while I am speaking. PTS is active unless stated otherwise. Talking/Using VC without permission will result in a strike.
+I - Do not say PTS (Permission To Speak) while I am speaking. PTS is active unless stated otherwise. Talking/Using VC without permission will result in a strike.
 
-**Host:** II - Remain STS (Shoulder to Shoulder) at all times. Ask for permission before going AFK (Away From Keyboard).
+II - Remain STS (Shoulder to Shoulder) at all times. Ask for permission before going AFK (Away From Keyboard).
 
-**Host:** III - Follow all orders given to you by a Community Advisory Council+ or Co-Host unless they ask you to break the rules. You must call me, my Co-Host, and Helpers by our ranks at all times.
+III - Follow all orders given to you by a Community Advisory Council+ or Co-Host unless they ask you to break the rules. You must call me, my Co-Host, and Helpers by our ranks at all times.
 
-**Host:** IV - If there is any problem, come to me, my Co-Host, my Helpers, or any other Community Advisory Council+ for assistance.
+IV - If there is any problem, come to me, my Co-Host, my Helpers, or any other Community Advisory Council+ for assistance.
 
-**Host:** V - You must be respectful to everyone at all times. Not following this will result in removal from the inspection.
+V - You must be respectful to everyone at all times. Not following this will result in removal from the inspection.
 
-**Host:** VI - Trolling in any form is unacceptable! Grammar must be used throughout this inspection. Trolling or not using grammar will result in a strike or instant removal of this inspection.
+VI - Trolling in any form is unacceptable! Grammar must be used throughout this inspection. Trolling or not using grammar will result in a strike or instant removal of this inspection.
 
-**Host:** We ask that all SI+ move to the green lines on my left, while everyone else stays on the blue lines.
+We ask that all SI+ move to the green lines on my left, while everyone else stays on the blue lines.
 
 > `[A co-host and helper should go with the MRs. A co-host and helper should stay with the LRs.]`
 
 ---
 
 # **Faces**
-**Speaker:** To start off the session, we’ll be doing faces.
+**Speaker:** 
+To start off the session, we’ll be doing faces.
 
-**Speaker:** In this phase, we will be testing your reaction time and listening skills!
+In this phase, we will be testing your reaction time and listening skills!
 
-**Speaker:** Please listen carefully as I will only explain each face once. DO NOT actually do the faces at this point.
+Please listen carefully as I will only explain each face once. DO NOT actually do the faces at this point.
 
-**Speaker:** Left Face - Turn left 90 degrees from the current position.
+Left Face - Turn left 90 degrees from the current position.
 
-**Speaker:** Right Face - Turn right 90 degrees from the current position.
+Right Face - Turn right 90 degrees from the current position.
 
-**Speaker:** Center Face - Turn to normal position. (Position from the beginning or face the Host/Co-Host)
+Center Face - Turn to normal position. (Position from the beginning or face the Host/Co-Host)
 
-**Speaker:** About Face - Turn 180 degrees from the current position.
+About Face - Turn 180 degrees from the current position.
 
-**Speaker:** Control Face - Face the Host/Co-Host at all times. (Host/Co-Host should be in the middle of your screen at all times)
+Control Face - Face the Host/Co-Host at all times. (Host/Co-Host should be in the middle of your screen at all times)
 
-**Speaker:** Please note: Only the center face breaks control face, any other face will not.
+Please note: Only the center face breaks control face, any other face will not.
 
 `Low-Rank Only:`
 * **Speaker:** Everybody please switch to radio channel 2. This can be done by clicking the "1" in the top right of the radio. Do not switch off of this radio channel for the remainder of the session. 
@@ -239,52 +241,53 @@ Server ID:
 `If the Host is doing this section, say the following:`
 * **Co-Host:** The Host will now take over for this section.
 
-**Speaker:** We ask that everybody switch to radio channel 2 for the remainder of the inspection. This can be done by clicking the "1" in the top right of the radio.
+**Speaker:** 
+We ask that everybody switch to radio channel 2 for the remainder of the inspection. This can be done by clicking the "1" in the top right of the radio.
 
-**Speaker:** We are now moving on to procedures & comprehension correctness. In this phase, I’ll be testing you on your grammar and knowledge skills.
+We are now moving on to procedures & comprehension correctness. In this phase, I’ll be testing you on your grammar and knowledge skills.
 
-**Speaker:** While I talk, my co-host will private message you all a '-' as this phase consists of questions. Do not open this private message until you are ready to answer the current question.
+While I talk, my co-host will private message you all a '-' as this phase consists of questions. Do not open this private message until you are ready to answer the current question.
 
 > `[The user who is doing questions should go around and PM each attendee a '-' while the host is talking]`
 
-**Speaker:** Next, we will be going over key procedures/correctness skills you must demonstrate as you would on a regular basis during a Stateview shift.
+Next, we will be going over key procedures/correctness skills you must demonstrate as you would on a regular basis during a Stateview shift.
 
-**Speaker:** You will all be given one of the following posts: Scout, Patrol, or Captain.
+You will all be given one of the following posts: Scout, Patrol, or Captain.
 
-**Speaker:** If you are given the role of scout, you will be in charge of patrolling the outer walls of the prison, and communicating with staff inside the prison in regards to raiders/escapees.
+If you are given the role of scout, you will be in charge of patrolling the outer walls of the prison, and communicating with staff inside the prison in regards to raiders/escapees.
 
-**Speaker:** If you are given the role of patrol, you will be in charge of patrolling the prison and maintaining control of the current status of the prison.
+If you are given the role of patrol, you will be in charge of patrolling the prison and maintaining control of the current status of the prison.
 
-**Speaker:** If you are given the role of captain, you are in charge of your assigned team, making sure both teams are working together properly and leading both teams during the drills.
+If you are given the role of captain, you are in charge of your assigned team, making sure both teams are working together properly and leading both teams during the drills.
 
-**Speaker:** This phase will last for 15 minutes, during which you must maintain the responsibilities of your role. My co-host will now assign the roles.
+This phase will last for 15 minutes, during which you must maintain the responsibilities of your role. My co-host will now assign the roles.
 ﻿
 > `[Max 1 Captain per team ranked Chairperson+]`
 > `[Co-Host assigns roles]`
 
-**Speaker:** Does everybody have a role? Yes/No, [Rank].
+Does everybody have a role? Yes/No, [Rank].
 
-**Speaker:** During this section, you will undergo a Lockdown drill and Blackout drill which you must engage with in order to pass this section.
+During this section, you will undergo a Lockdown drill and Blackout drill which you must engage with in order to pass this section.
 
-**Speaker:** Before we dismiss you, we’d like to go over a few expectations that we expect, in addition to information that will assist you.
+Before we dismiss you, we’d like to go over a few expectations that we expect, in addition to information that will assist you.
 
-**Speaker:** Lockdown Drill: When the Lockdown drill begins, attendees must move all inmates into their cells. Ensure that everyone is within the cell-block during the Lockdown.
+Lockdown Drill: When the Lockdown drill begins, attendees must move all inmates into their cells. Ensure that everyone is within the cell-block during the Lockdown.
 
-**Speaker:** Blackout Drill: During the Blackout, the power will be turned off. Guards and inmates are required to remain in the cellblock until the procedure concludes. Do not restore the power during this time.
+Blackout Drill: During the Blackout, the power will be turned off. Guards and inmates are required to remain in the cellblock until the procedure concludes. Do not restore the power during this time.
 
-**Speaker:** Throughout this phase, you will receive private messages for questions; the questions can be found on radio channel 3 and should be answered in the private message.
+Throughout this phase, you will receive private messages for questions; the questions can be found on radio channel 3 and should be answered in the private message.
 
-**Speaker:** Before we dismiss you, we’d like to go over a few expectations that we expect, in addition to information that will assist you.
+Before we dismiss you, we’d like to go over a few expectations that we expect, in addition to information that will assist you.
 
-**Speaker:** I - You are required to communicate.
+I - You are required to communicate.
 
-**Speaker:** II - When communicating on the radio, use the format: [Role] (Text). Example: [Scout] Cell Block is clear!
+II - When communicating on the radio, use the format: [Role] (Text). Example: [Scout] Cell Block is clear!
 
-**Speaker:** III - Please, remember NOT to keep doors open and NOT to use lethal force unnecessarily.
+III - Please, remember NOT to keep doors open and NOT to use lethal force unnecessarily.
 
-**Speaker:** IV - You will be asked questions about the drill or your role in a private-message. You must answer these questions with grammar to the best of your ability.
+IV - You will be asked questions about the drill or your role in a private-message. You must answer these questions with grammar to the best of your ability.
 
-**Speaker:** Without further ado, you are dismissed to your roles.
+Without further ado, you are dismissed to your roles.
 
 > `[Start the "Procedures" phase on Bloxcord]`
 
@@ -349,47 +352,48 @@ Server ID:
 
 > `[Start the "Simulation Tactics" phase on Bloxcord]`
 
-**Speaker:** We are now moving on to simulation tactics. In this section, we are testing you over your ability to not only listen to instructions, but to carry out two successful tactics to secure the prison.
+**Speaker:** 
+We are now moving on to simulation tactics. In this section, we are testing you over your ability to not only listen to instructions, but to carry out two successful tactics to secure the prison.
 
-**Speaker:** The following phase will be detailed and described to you next.
+The following phase will be detailed and described to you next.
 
-**Speaker:** We’ll now begin with a wedge formation where all of you will be placed somewhere in the session room in a wedge with your shields out.
+We’ll now begin with a wedge formation where all of you will be placed somewhere in the session room in a wedge with your shields out.
 
-**Speaker:** Then you’ll be focused on the Sessions Room door, this is being done in case there’s Criminals planning to breach the Sessions Room.
+Then you’ll be focused on the Sessions Room door, this is being done in case there’s Criminals planning to breach the Sessions Room.
 
-**Speaker:** I’ll now explain wedge formation for those that do not know.
+I’ll now explain wedge formation for those that do not know.
 
-**Speaker:** Wedge Formation - The Host will be the head, all the attendees should form an arrow or a V formation like birds flying in the sky.
+Wedge Formation - The Host will be the head, all the attendees should form an arrow or a V formation like birds flying in the sky.
 
-**Speaker:** Does everyone understand what to do? Yes/No, [Rank].
+Does everyone understand what to do? Yes/No, [Rank].
 
-**Speaker:** Everyone, form a wedge formation on me with your shields out.
+Everyone, form a wedge formation on me with your shields out.
 
-**Speaker:** Spam a #!
+Spam a #!
 
 `[Take a screenshot containing the host, co-host(s), helper(s), supervisor, and all attendees with usernames visible]`
 
-**Speaker:** Alright! Go back to STS.
+Alright! Go back to STS.
 
-**Speaker:** Moving onto the next formation, we’ll be practicing to keep criminals away from the yard.
+Moving onto the next formation, we’ll be practicing to keep criminals away from the yard.
 
-**Speaker:** We’ll be in a SFL [Single File Line] and once we arrive at the yard gate we’ll move into a STS (Shoulder To Shoulder) line on the farthest white-line.
+We’ll be in a SFL [Single File Line] and once we arrive at the yard gate we’ll move into a STS (Shoulder To Shoulder) line on the farthest white-line.
 
-**Speaker:** The aim of doing this is to make sure that the yard can be secured as it is a place where a lot of raiders are able to easily take over, and help other prisoners escape.
+The aim of doing this is to make sure that the yard can be secured as it is a place where a lot of raiders are able to easily take over, and help other prisoners escape.
 
-**Speaker:** If you do not understand this section please give us a shout using the PTS system so we can ensure everyone is on the same page and that everyone knows what to do.
+If you do not understand this section please give us a shout using the PTS system so we can ensure everyone is on the same page and that everyone knows what to do.
 
-**Speaker:** Does everyone understand what to do? Yes/No, [Rank].
+Does everyone understand what to do? Yes/No, [Rank].
 
-**Speaker:** Please make a single-file line behind me. Once we arrive at the yard, enter the Yard Formation.
+Please make a single-file line behind me. Once we arrive at the yard, enter the Yard Formation.
 
 `[Go to the yard and enter yard formation upon arriving]`
 
-**Speaker:** Spam a #!
+Spam a #!
 
 `[Take a screenshot containing the host, co-host(s), helper(s), supervisor, and all attendees with usernames visible]`
 
-**Speaker:** Alright! Everyone stay where you are.
+Alright! Everyone stay where you are.
 
 > `[Once complete, mark whoever followed the directions best as passing this section]`
 > `[End the "Simulation Tactics" phase on Bloxcord]`
@@ -402,15 +406,16 @@ Server ID:
 `If the Host is doing this section, say the following:`
 * **Co-Host:** The Host will now take over for this section.
 
-**Speaker:** We are now moving onto the accuracy phase! In this phase, we will be testing you on your precision, aiming skills, listening skills and your accuracy!
+**Speaker:** 
+We are now moving onto the accuracy phase! In this phase, we will be testing you on your precision, aiming skills, listening skills and your accuracy!
 
-**Speaker:** Your task here is simple, you will be called up one by one and your aim is to taze the moving target! You have 3 tries to hit the target. Please remain in a straight line until you are called up.
+Your task here is simple, you will be called up one by one and your aim is to taze the moving target! You have 3 tries to hit the target. Please remain in a straight line until you are called up.
 
-**Speaker:** If it is not your turn, your tools must stay away. If you equip any tools, we may assume you are trying to cheat, and you may be dismissed.
+If it is not your turn, your tools must stay away. If you equip any tools, we may assume you are trying to cheat, and you may be dismissed.
 
-**Speaker:** Once complete you will go STS on the other white line by the yard gate.
+Once complete you will go STS on the other white line by the yard gate.
 
-**Speaker:** Understood? Yes/No, [Rank].
+Understood? Yes/No, [Rank].
 
 `[Split the line of attendees in half down the middle]`
 
@@ -486,4 +491,4 @@ Server ID:
 
 ---
 
-**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration (MrAttire9 & Legoking12501).**
+**Created by Legoking12501.**

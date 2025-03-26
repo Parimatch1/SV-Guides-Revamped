@@ -493,4 +493,4 @@ Understood? Yes/No, [Rank].
 
 ---
 
-**Created by Legoking12501.**
+**Created by Legoking12501**

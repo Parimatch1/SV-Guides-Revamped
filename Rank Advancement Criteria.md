@@ -32,7 +32,7 @@ Below elaborates on crucial information that should be known prior to promoting 
 ---
 
 # **Superintendent-Chairperson Promotion Information**
-**Minimum Recommend Statistics**
+**Recommended Minimum Statistics**
 * **Co-Hosts:** 15-20
 * **Helpers:** 18-20
 * **Hardest Workers:** 17-20
@@ -53,7 +53,7 @@ Below elaborates on crucial information that should be known prior to promoting 
 ---
 
 # **Chairperson-Facility Director Promotion Information**
-**Minimum Recommend Statistics**
+**Recommended Minimum Statistics**
 * **Hosts:** 30-40
 * **Co-Hosts:** 25-30
 * **Helpers:** 20-25
@@ -73,7 +73,7 @@ Below elaborates on crucial information that should be known prior to promoting 
 ---
 
 # **Facility Director-Community Advisory Council Promotion Information**
-**Minimum Recommend Statistics**
+**Recommended Minimum Statistics**
 * **Hosts:** 55-75
 * **Co-Hosts:** 25-35
 * **Supervisions:** 20-35
@@ -95,7 +95,7 @@ Below elaborates on crucial information that should be known prior to promoting 
 ---
 
 # **Community Advisory Council-Prison Commissioner Promotion Information**
-**Minimum Recommend Statistics**
+**Recommended Minimum Statistics**
 * **Hosts:** 65-85+
 * **Co-Hosts:** 35-50+
 * **Supervisions:** 70-100+
@@ -111,8 +111,8 @@ Below elaborates on crucial information that should be known prior to promoting 
 * **Messages in Main:** 3000+
 * **Departments:** 1-4+
 * **Intel Logs:** 400+
-* **HR Promotions (By You):** 1+
-* **HR Promotions (Participated In, Not By You):** 1-3+
+* **HR Promotions (By Them):** 1+
+* **HR Promotions (Participated In, Not By Them):** 1-3+
 
 **Requirements**
 * Chief of Staff+ approval is required.
@@ -121,10 +121,10 @@ Below elaborates on crucial information that should be known prior to promoting 
 ---
 
 # **Prison Commissioner-Board of Governors Promotion Information**
-**Minimum Recommend Statistics**
+**Recommended Minimum Statistics**
 * **Hosts:** 90-110+
 * **Co-Hosts:** 80-100+
-* **Supervisions:** 70-100+
+* **Supervisions:** 80-100+
 * **Inspection Co-Hosts:** 1-2+
 * **Inspection Helpers:** 1-3+
 * **Monthly In-Game Minutes:** 6000+
@@ -138,8 +138,8 @@ Below elaborates on crucial information that should be known prior to promoting 
 * **Messages in Main:** 5000+
 * **Departments:** 2-5+
 * **Intel Logs:** 700+
-* **HR Promotions (By You):** 1-3+
-* **HR Promotions (Participated In, Not By You):** 2-4+
+* **HR Promotions (By Them):** 1-3+
+* **HR Promotions (Participated In, Not By Them):** 2-4+
 
 **Requirements**
 * Branch Diversity Team+ approval is required.

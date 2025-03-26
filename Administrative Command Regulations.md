@@ -193,4 +193,4 @@ In the event you forget to provide a reason for a command, do the following:
 
 ---
 
-**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration (Legoking12501 & MrAttire9).**
+**Created by Legoking12501.**

@@ -105,6 +105,7 @@ Stateview CHR Exams are designed to go over a wide catalogue of advanced skills 
 * Modified sessions cannot mostly/fully replicate other sessions.
 * Modified sessions must be appropriate. It cannot contain phases like red light green light (for example).
 * Modification permissions do not allow you to change session restrictions.
+* The session must be made non-competitive in order to preserve the session leaderboards.
 
 ---
 

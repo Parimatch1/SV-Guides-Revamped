@@ -246,10 +246,11 @@ We ask that everybody switch to radio channel 2 for the remainder of the inspect
 
 We are now moving on to procedures & comprehension correctness. In this phase, I’ll be testing you on your grammar and knowledge skills.
 
-While I talk, my co-host will private message you all a '-' as this phase consists of questions. Do not open this private message until you are ready to answer the current question.
+While I explain, my co-host will private message you all a '-' as this phase consists of questions. Do not open this private message until you are ready to answer the current question.
 
 > `[The user who is doing questions should go around and PM each attendee a '-' while the host is talking]`
 
+**Host:**
 Next, we will be going over key procedures/correctness skills you must demonstrate as you would on a regular basis during a Stateview shift.
 
 You will all be given one of the following posts: Scout, Patrol, or Captain.
@@ -265,6 +266,7 @@ This phase will last for 15 minutes, during which you must maintain the responsi
 > `[Max 1 Captain per team ranked Chairperson+]`
 > `[Co-Host assigns roles]`
 
+**Host:**
 Does everybody have a role? Yes/No, [Rank].
 
 During this section, you will undergo a Lockdown drill and Blackout drill which you must engage with in order to pass this section.

@@ -82,4 +82,4 @@ Users can be granted the "authority" of a rank. Authorities give users some qual
 
 ---
 
-**Created by MrAttire9 & Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration (Legoking12501 & MrAttire9).**
+**Created by Legoking12501**

@@ -102,21 +102,22 @@ The Stateview Advanced Training Guide outlines the steps necessary for setting u
 
 **Co-Host:** Hey! I’m `[Nickname]`, your co-host, and I’ll be assisting in today’s training.
 
-**Host:** Before we begin, let’s go over a few rules to help you succeed in this training!
+**Host:** 
+Before we begin, let’s go over a few rules to help you succeed in this training!
 
-**Host:** I - Do not say PTS (Permission To Speak) while I am speaking. PTS is active unless stated otherwise. Talking/Using VC without permission will result in a strike.
+I - Do not say PTS (Permission To Speak) while I am speaking. PTS is active unless stated otherwise. Talking/Using VC without permission will result in a strike.
 
-**Host:** II - Remain STS (Shoulder to Shoulder) at all times. Ask for permission before going AFK (Away From Keyboard).
+II - Remain STS (Shoulder to Shoulder) at all times. Ask for permission before going AFK (Away From Keyboard).
 
-**Host:** III - Follow all orders given to you by a Chairperson+ or Co-Host unless they ask you to break the rules. You must call me, my Co-Host, and Helpers by our ranks at all times.
+III - Follow all orders given to you by a Chairperson+ or Co-Host unless they ask you to break the rules. You must call me, my Co-Host, and Helpers by our ranks at all times.
 
-**Host:** IV - If there is any problem, come to me, my Co-Host, my Helpers, or any other Chairperson+ for assistance.
+IV - If there is any problem, come to me, my Co-Host, my Helpers, or any other Chairperson+ for assistance.
 
-**Host:** V - You must be respectful to everyone at all times. Not following this will result in removal from the training.
+V - You must be respectful to everyone at all times. Not following this will result in removal from the training.
 
-**Host:** VI - Trolling in any form is unacceptable! Grammar must be used throughout this training. Trolling or not using grammar will result in a strike or instant removal of this training.
+VI - Trolling in any form is unacceptable! Grammar must be used throughout this training. Trolling or not using grammar will result in a strike or instant removal of this training.
 
-**Host:** This advanced training will consist of three sections- Questions, Room Clearing, and 1v1s.
+This advanced training will consist of three sections- Questions, Room Clearing, and 1v1s.
 
 ---
 
@@ -126,9 +127,10 @@ The Stateview Advanced Training Guide outlines the steps necessary for setting u
 `If the Host is doing this section, say the following:`
 * **Co-Host:** The Host will now take over for this section.
 
-**Speaker:** We are now moving on to questions. In this phase, I’ll be testing you on your grammar and knowledge skills. 
+**Speaker:** 
+We are now moving on to questions. In this phase, I’ll be testing you on your grammar and knowledge skills. 
 
-**Speaker:** You’ll each receive a private message containing a "-". I will then state the questions in radio channel 2. Then you will answer the questions in your private message.
+You’ll each receive a private message containing a "-". I will then state the questions in radio channel 2. Then you will answer the questions in your private message.
 
 > `[Private message each attendee a "-", they will respond to the questions in radio channel 2 in this PM]`
 > `[You can make your own questions with approval from the supervisor]`
@@ -155,11 +157,12 @@ What would you do if you see an abuser ingame?
 > `[Wait 3 Minutes]`
 > `[End the "Questions" phase on Bloxcord]`
 
-**Speaker:** The time for questions is now up and I will now state the correct answers. If you have not yet answered you have failed this phase.
+**Speaker:** 
+The time for questions is now up and I will now state the correct answers. If you have not yet answered you have failed this phase.
 
-**Speaker:** `[State the correct answers]`
+`[State the correct answers]`
 
-**Speaker:** Any answers similar will count as correct. Everybody please stand up.
+Any answers similar will count as correct. Everybody please stand up.
 
 ---
 
@@ -169,34 +172,40 @@ What would you do if you see an abuser ingame?
 `If the Host is doing this section, say the following:`
 * **Co-Host:** The Host will now take over for this section.
 
-**Speaker:** We are now moving on to room clearing. In this phase, I’ll be testing you on your clearing skills and facility knowledge.
+**Speaker:** 
+We are now moving on to room clearing. In this phase, I’ll be testing you on your clearing skills and facility knowledge.
 
-**Speaker:** Please create a single file line behind me at the door. Once you are in the line do not move as I still have more instructions to give.
+Please create a single-file line behind me at the session room door. Once you are in the line, remain in place until given further instruction.
 
-> `[Head over to the door and have attendees line up behind you]`
+> `[Head over to the door and have attendees line up behind you] `
+> `[Put 1 "Captain" on each side of the door]`
 
-**Speaker:** I will now split you into 2 lines. One one the left side of the session room door and one on the right.
+Please split into two even lines on each side of the door. Go behind the "Captains".
 
-> `[Equally split the attendees into 2 groups and place them on both sides of the door]`
+> `[Equally split the attendees into 2 lines and place them on both sides of the door]`
 > `[Once the lines are made move to the center of the lines so everyone can see your messages]`
 
-**Speaker:** We will be in 2 lines and we will clear the facility. We will start by going through the max cells.
+Please listen carefully as I explain how to properly conduct room clearing.
 
-**Speaker:** From there we will go downstairs, past the showers, then finish by going to the max yard.
+We will be breaching rooms inside the facility. Starting at the max cells, then passing the showers, and ending at the max security yard.
 
-**Speaker:** The person at the back of the line is expected to watch the back for any inmates or criminals. All inmates and criminals are kill on site.
+These 2 lines represent the side of door you will stand on before breaching. You are expected to stay within your line while clearing.
 
-**Speaker:** At each door, whether open or closed, we will stop and go beside it while staying in our two lines. Do not close doors unless you are the last person going through.
+We will stop at every door. Regardless of if it is opened or closed. We will not move onto the next door until everyone is properly in line.
 
-**Speaker:** In the event you die please rejoin us at the maximum security yard.
+I will lead you all and direct when to breach. Do not move past a door without my direction. Only the last person through should close the door.
 
-**Speaker:** Any questions? Yes/No, [Rank].
+The person at the back of the line is expected to cover everyone from any inmates or criminals. All inmates and criminals are kill on sight.
 
-**Speaker:** srlock room clearing.
+In the event you die please rejoin us at the maximum security yard.
 
-**Speaker:** Guns out!
+Any questions? Yes/No, [Rank].
 
-**Speaker:** BREACH!
+srlock room clearing.
+
+Guns out!
+
+BREACH!
 
 > `[Start the "Room Clearing" phase on Bloxcord]`
 > `[Wait for max yard to be cleared]`
@@ -210,21 +219,22 @@ What would you do if you see an abuser ingame?
 `If the Host is doing this section, say the following:`
 * **Co-Host:** The Host will now take over for this section.
 
-**Speaker:** h There is a session ongoing outside of the session room. Raiding it will result in punishment.
+**Speaker:** 
+h There is a session ongoing outside of the session room. Raiding it will result in punishment.
 
-**Speaker:** We are now moving onto the 1v1s phase! In this phase you and a fellow attendee will be using glock-17s to 1v1 eachother.
+We are now moving onto the 1v1s phase! In this phase you and a fellow attendee will be using glock-17s to 1v1 eachother.
 
-**Speaker:** Your task here is simple, you will be called up pair by pair to 1v1 eachother.
+Your task here is simple, you will be called up pair by pair to 1v1 eachother.
 
-**Speaker:** On radio channel 2 I will say "READY!", "SET!", then "GO!". Once I say "GO!" the 1v1 can begin.
+On radio channel 2 I will say "READY!", "SET!", then "GO!". Once I say "GO!" the 1v1 can begin.
 
-**Speaker:** I will place you in a specific spot before your 1v1 begins. Do not move from this spot until you are told to begin.
+I will place you in a specific spot before your 1v1 begins. Do not move from this spot until you are told to begin.
 
-**Speaker:** Once complete you will go STS on the fence beside the SFL.
+Once complete you will go STS on the fence beside the SFL.
 
-**Speaker:** Understood? Yes/No, [Rank].
+Understood? Yes/No, [Rank].
 
-**Speaker:** You may pair up with someone if you wish. If you want to pair with someone stand next to them in the line. Then we will begin the 1v1s once everyone is paired.
+You may pair up with someone if you wish. If you want to pair with someone stand next to them in the line. Then we will begin the 1v1s once everyone is paired.
 
 > `[Pair up those without a partner]`
 > `[If there is an uneven amount of attendees a session admin or spectator can step in to 1v1]`

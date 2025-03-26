@@ -72,10 +72,10 @@ The Stateview Fugitive Recovery Protocol Guide outlines the steps necessary for 
 
 **Host:** srlock starting.
 
-> - `[STS on the Host/Co-Host/Helper/Supervisor line]`
-> - `[You can use custom greetings, but they must comply with session administration requirements.]`
-> - `[Reload the attendee list. Press "Lock & Start" on Bloxcord.]`
-> - `[Select your Co-Host(s)/Helper(s) on Bloxcord if you have any. Remove any spectators from the attendee list.]`
+> `[STS on the Host/Co-Host/Helper/Supervisor line]`
+> `[You can use custom greetings, but they must comply with session administration requirements.]`
+> `[Reload the attendee list. Press "Lock & Start" on Bloxcord.]`
+> `[Select your Co-Host(s)/Helper(s) on Bloxcord if you have any. Remove any spectators from the attendee list.]`
 
 **Host:** PTS is now active.
 
@@ -156,9 +156,9 @@ m The first fugitive has been captured. One remains.
 **Host:** Welcome back! I will announce the passers shortly. During this time, you may chat among yourselves. PTS is now inactive.
 
 
-> - `[The host should DM the supervisor the passers' usernames]`
-> - `[The supervisor should check who is on cooldown and relay this information to the host before moving on]`
-> - `[The session administration should all grade on the "Grading" tab of Bloxcord and notify the host once done]`
+> `[The host should DM the supervisor the passers' usernames]`
+> `[The supervisor should check who is on cooldown and relay this information to the host before moving on]`
+> `[The session administration should all grade on the "Grading" tab of Bloxcord and notify the host once done]`
 
 **Host:** Before we announce the passers, we’ll take a picture. Please remain STS during this time.
 

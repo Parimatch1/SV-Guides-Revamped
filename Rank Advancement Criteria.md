@@ -147,10 +147,11 @@ Below elaborates on crucial information that should be known prior to promoting 
 
 ---
 
-# **Board of Governors-Chief of Staff+ Promotion Information**
+# **Board of Governors-Chief of Staff+ Promotion General Information**
 * At this point, promotions are much more than just statistics. Although these are still a factor, things like community engagement, departments, departmental activity, consistency, trust, maturity, and more become a much larger factor.
 * Promotions to ranks this high should be discussed with users holding the same or higher rank.
 * Promotions to ranks this high should be approved by a user with a higher rank.
+* It is at the full discretion of these higher ranks of if a user is deserving of a promotion.
 
 ---
 

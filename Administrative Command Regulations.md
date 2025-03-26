@@ -193,4 +193,4 @@ In the event you forget to provide a reason for a command, do the following:
 
 ---
 
-**Created by Legoking12501.**
+**Created by Legoking12501**

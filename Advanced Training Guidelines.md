@@ -301,4 +301,4 @@ You may pair up with someone if you wish. If you want to pair with someone stand
 
 ---
 
-**Created by Legoking12501.**
+**Created by Legoking12501**

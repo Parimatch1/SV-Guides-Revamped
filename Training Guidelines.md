@@ -103,21 +103,22 @@ The Stateview Training Guide outlines the steps necessary for setting up, conduc
 
 **Co-Host:** Hey! I’m `[Nickname]`, your co-host, and I’ll be assisting in today’s training.
 
-**Host:** Before we begin, let’s go over a few rules to help you succeed in this training!
+**Host:** 
+Before we begin, let’s go over a few rules to help you succeed in this training!
 
-**Host:** I - Do not say PTS (Permission To Speak) while I am speaking. PTS is active unless stated otherwise. Talking/Using VC without permission will result in a strike.
+I - Do not say PTS (Permission To Speak) while I am speaking. PTS is active unless stated otherwise. Talking/Using VC without permission will result in a strike.
 
-**Host:** II - Remain STS (Shoulder to Shoulder) at all times. Ask for permission before going AFK (Away From Keyboard).
+II - Remain STS (Shoulder to Shoulder) at all times. Ask for permission before going AFK (Away From Keyboard).
 
-**Host:** III - Follow all orders given to you by a Chairperson+ or Co-Host unless they ask you to break the rules. You must call me, my Co-Host, and Helpers by our ranks at all times.
+III - Follow all orders given to you by a Chairperson+ or Co-Host unless they ask you to break the rules. You must call me, my Co-Host, and Helpers by our ranks at all times.
 
-**Host:** IV - If there is any problem, come to me, my Co-Host, my Helpers, or any other Chairperson+ for assistance.
+IV - If there is any problem, come to me, my Co-Host, my Helpers, or any other Chairperson+ for assistance.
 
-**Host:** V - You must be respectful to everyone at all times. Not following this will result in removal from the training.
+V - You must be respectful to everyone at all times. Not following this will result in removal from the training.
 
-**Host:** VI - Trolling in any form is unacceptable! Grammar must be used throughout this training. Trolling or not using grammar will result in a strike or instant removal of this training.
+VI - Trolling in any form is unacceptable! Grammar must be used throughout this training. Trolling or not using grammar will result in a strike or instant removal of this training.
 
-**Host:** This training will consist of four sections- Faces, Questions, Scenarios, and Accuracy.
+This training will consist of four sections- Faces, Questions, Scenarios, and Accuracy.
 
 ---
 
@@ -127,29 +128,30 @@ The Stateview Training Guide outlines the steps necessary for setting up, conduc
 `If the Host is doing this section, say the following:`
 * **Co-Host:** The Host will now take over for this section.
 
-**Speaker:** To start off the session, we’ll be doing faces.
+**Speaker:** 
+To start off the session, we’ll be doing faces.
 
-**Speaker:** In this phase, we will be testing your reaction time and listening skills!
+In this phase, we will be testing your reaction time and listening skills!
 
-**Speaker:** Please listen carefully as I will only explain each face once. DO NOT actually do the faces at this point.
+Please listen carefully as I will only explain each face once. DO NOT actually do the faces at this point.
 
-**Speaker:** Left Face - Turn left 90 degrees from the current position.
+Left Face - Turn left 90 degrees from the current position.
 
-**Speaker:** Right Face - Turn right 90 degrees from the current position.
+Right Face - Turn right 90 degrees from the current position.
 
-**Speaker:** Center Face - Turn to normal position. (Position from the beginning or face the Host/Co-Host)
+Center Face - Turn to normal position. (Position from the beginning or face the Host/Co-Host)
 
-**Speaker:** About Face - Turn 180 degrees from the current position.
+About Face - Turn 180 degrees from the current position.
 
-**Speaker:** Control Face - Face the Host/Co-Host at all times. (Host/Co-Host should be in the middle of your screen at all times)
+Control Face - Face the Host/Co-Host at all times. (Host/Co-Host should be in the middle of your screen at all times)
 
-**Speaker:** Please note: Only the center face breaks control face, any other face will not.
+Please note: Only the center face breaks control face, any other face will not.
 
-**Speaker:** Everybody please switch to radio channel 2. This can be done by clicking the "1" in the top right of the radio. Do not switch off of this radio channel for the remainder of the session. 
+Everybody please switch to radio channel 2. This can be done by clicking the "1" in the top right of the radio. Do not switch off of this radio channel for the remainder of the session. 
 
-**Speaker:** Is everybody on radio channel 2? Yes/No, [Rank].
+Is everybody on radio channel 2? Yes/No, [Rank].
 
-**Speaker:** We will now begin the elimination round. If you do a face incorrectly or to slow you will be sat. Do not stand up.
+We will now begin the elimination round. If you do a face incorrectly or to slow you will be sat. Do not stand up.
 
 > `[Start the "Faces" phase on Bloxcord]`
 
@@ -175,9 +177,10 @@ The Stateview Training Guide outlines the steps necessary for setting up, conduc
 `If the Host is doing this section, say the following:`
 * **Co-Host:** The Host will now take over for this section.
 
-**Speaker:** We are now moving on to questions. In this phase, I’ll be testing you on your grammar and knowledge skills. 
+**Speaker:** 
+We are now moving on to questions. In this phase, I’ll be testing you on your grammar and knowledge skills. 
 
-**Speaker:** You’ll each receive a private message containing a "-". I will then state the questions in radio channel 2. Then you will answer the questions in your private message.
+You’ll each receive a private message containing a "-". I will then state the questions in radio channel 2. Then you will answer the questions in your private message.
 
 > `[Private message each attendee a "-", they will respond to the questions in radio channel 2 in this PM]`
 > `[You can make your own questions with approval from the supervisor]`
@@ -218,19 +221,20 @@ The Stateview Training Guide outlines the steps necessary for setting up, conduc
 `If the Host is doing this section, say the following:`
 * **Co-Host:** The Host will now take over for this section.
 
-**Speaker:** We are now moving onto Scenarios! In this phase, we are testing you on your knowledge of the rules, comprehension, grammar, and question correctness—along with your proficiency with equipment!
+**Speaker:** 
+We are now moving onto Scenarios! In this phase, we are testing you on your knowledge of the rules, comprehension, grammar, and question correctness—along with your proficiency with equipment!
 
-**Speaker:** Before we proceed, I’d like to address three important rules to pass this section.
+Before we proceed, I’d like to address three important rules to pass this section.
 
-**Speaker:** 1. Do not actually frisk or kill the inmates. (Use verbal commands like -frisks- instead.)
+1. Do not actually frisk or kill the inmates. (Use verbal commands like -frisks- instead.)
 
-**Speaker:** 2. Do not step outside the yellow box.
+2. Do not step outside the yellow box.
 
-**Speaker:** 3. The tools permitted for this section are handcuffs, tasers, Glocks, and shields. The use of any other tools will result in failure.
+3. The tools permitted for this section are handcuffs, tasers, Glocks, and shields. The use of any other tools will result in failure.
 
-**Speaker:** Each of you will be tasked with responding appropriately to interactions demonstrated by the helper. Your responses should follow the facility’s procedures and guidelines.
+Each of you will be tasked with responding appropriately to interactions demonstrated by the helper. Your responses should follow the facility’s procedures and guidelines.
 
-**Speaker:** Now please split up into 2 equal groups on the green instructional lines along the room.
+Now please split up into 2 equal groups on the green instructional lines along the room.
 
 > `[Start the "Scenarios" phase on Bloxcord]`
 > `[The supervisor should team the helpers to inmates]`
@@ -291,19 +295,20 @@ AFK Farming: The helper will demonstrate AFK farming.
 `If the Host is doing this section, say the following:`
 * **Co-Host:** The Host will now take over for this section.
 
-**Speaker:** We are now moving onto the accuracy phase! In this section, we will evaluate your precision, aiming skills, listening abilities, and overall accuracy.
+**Speaker:** 
+We are now moving onto the accuracy phase! In this section, we will evaluate your precision, aiming skills, listening abilities, and overall accuracy.
 
-**Speaker:** Your task here is simple, you will be brought one by one into our accuracy testing room.
+Your task here is simple, you will be brought one by one into our accuracy testing room.
 
-**Speaker:** From there, you will stand on the red-instructional line and wait for instruction to shoot the targets.
+From there, you will stand on the red-instructional line and wait for instruction to shoot the targets.
 
-**Speaker:** You are only allowed to use a Glock 17 for this section. If you do not have a Glock 17 please let us know with PTS.
+You are only allowed to use a Glock 17 for this section. If you do not have a Glock 17 please let us know with PTS.
 
-**Speaker:** Once your turn is complete go STS by the window. PTS will be inactive after your turn.
+Once your turn is complete go STS by the window. PTS will be inactive after your turn.
 
-**Speaker:** Understood? Yes/No, [Rank].
+Understood? Yes/No, [Rank].
 
-**Speaker:** Let's begin!
+Let's begin!
 
 > `[Call up attendees into the accuracy room one by one. Give cadets a glock from pickpocketing if needed or use the "give" command.]`
 > `[15+ targets must be hit in order to pass the accuracy phase]`

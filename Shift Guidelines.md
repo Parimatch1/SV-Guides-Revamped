@@ -92,8 +92,6 @@ You should have a notepad in-game to keep track of information while hosting. Us
 
 ---
 
-### **Calls**
-
 **Supervisor:** h There's a Shift being hosted in the session room, come and attend to show activity and possibly receive a promotion! [1/3]
 
 **Supervisor:** h There's a Shift being hosted in the session room, come and attend to show activity and possibly receive a promotion! [2/3]
@@ -337,4 +335,4 @@ You should have a notepad in-game to keep track of information while hosting. Us
 
 ---
 
-**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration (Legoking12501 & MrAttire9).**
+**Created by Legoking12501.**

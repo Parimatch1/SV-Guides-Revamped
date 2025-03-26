@@ -103,53 +103,55 @@ The Stateview Riot Protocol Guide outlines the steps necessary for setting up, c
 
 **Co-Host:** Hey! I’m `[Nickname]`, your co-host, and I’ll be assisting in today’s riot protocol.
 
-**Host:** Before we begin, let’s go over a few rules to help you succeed in this riot protocol!
+**Host:** 
+Before we begin, let’s go over a few rules to help you succeed in this riot protocol!
 
-**Host:** I - Do not say PTS (Permission To Speak) while I am speaking. PTS is active unless stated otherwise. Talking/Using VC without permission will result in a strike.
+I - Do not say PTS (Permission To Speak) while I am speaking. PTS is active unless stated otherwise. Talking/Using VC without permission will result in a strike.
 
-**Host:** II - Remain STS (Shoulder to Shoulder) at all times. Ask for permission before going AFK (Away From Keyboard).
+II - Remain STS (Shoulder to Shoulder) at all times. Ask for permission before going AFK (Away From Keyboard).
 
-**Host:** III - Follow all orders given to you by a Facility Director+ or Co-Host unless they ask you to break the rules. You must call me, my Co-Host, and Helpers by our ranks at all times.
+III - Follow all orders given to you by a Facility Director+ or Co-Host unless they ask you to break the rules. You must call me, my Co-Host, and Helpers by our ranks at all times.
 
-**Host:** IV - If there is any problem, come to me, my Co-Host, my Helpers, or any other Facility Director+ for assistance.
+IV - If there is any problem, come to me, my Co-Host, my Helpers, or any other Facility Director+ for assistance.
 
-**Host:** V - You must be respectful to everyone at all times. Not following this will result in removal from the riot protocol.
+V - You must be respectful to everyone at all times. Not following this will result in removal from the riot protocol.
 
-**Host:** VI - Trolling in any form is unacceptable! Grammar must be used throughout this riot protocol. Trolling or not using grammar will result in a strike or instant removal of this riot protocol.
+VI - Trolling in any form is unacceptable! Grammar must be used throughout this riot protocol. Trolling or not using grammar will result in a strike or instant removal of this riot protocol.
 
 ---
 
 # **Information & Roles**
-**Host:** Please listen carefully, as I briefly explain this session in detail.
+**Host:** 
+Please listen carefully, as I briefly explain this session in detail.
 
-**Host:** Riot Protocols are sessions where criminals are to breach a checkpoint, and officers are to stop them while staying within the grounds of the facility.
+Riot Protocols are sessions where criminals are to breach a checkpoint, and officers are to stop them while staying within the grounds of the facility.
 
-**Host:** The teams will be split up equally, and the two helpers will be the captain of one of the listed teams. You are to refer to the captain for instruction/questions.
+The teams will be split up equally, and the two helpers will be the captain of one of the listed teams. You are to refer to the captain for instruction/questions.
 
-**Host:** You will have 6 minutes each round. If the criminals breach one of the listed checkpoints, they will win. However, if none of the criminals get to a checkpoint, the officers will win.
+You will have 6 minutes each round. If the criminals breach one of the listed checkpoints, they will win. However, if none of the criminals get to a checkpoint, the officers will win.
 
-**Host:** There are three checkpoints: Maximum Security Yard, High-Command Offices, and Solitary/Maximum Security Cellblock. Teams will either defend or breach that area to win.
+There are three checkpoints: Maximum Security Yard, High-Command Offices, and Solitary/Maximum Security Cellblock. Teams will either defend or breach that area to win.
 
-**Host:** Please listen carefully as I will now be going over the description of each role. You will be assigned roles shortly.
+Please listen carefully as I will now be going over the description of each role. You will be assigned roles shortly.
 
-**Host:** Response Team - Guards the facility, answers to any panic calls, watches over checkpoints, and ensures there are no breaches.
+Response Team - Guards the facility, answers to any panic calls, watches over checkpoints, and ensures there are no breaches.
 
-**Host:** Criminal Team - Will breach the facility, and enter into a checkpoint zone.
+Criminal Team - Will breach the facility, and enter into a checkpoint zone.
 
-**Host:** Before we proceed, you are required to listen to your captain. No exceptions. Both teams are to coordinate with each other on their own team, planning ahead before the riot.
+Before we proceed, you are required to listen to your captain. No exceptions. Both teams are to coordinate with each other on their own team, planning ahead before the riot.
 
-**Host:** We ask that everyone listens for in-game announcements. Failure to comply will result in disciplinary action.
+We ask that everyone listens for in-game announcements. Failure to comply will result in disciplinary action.
 
-**Host:** Before we begin, my co-host will now assign you roles. Please listen carefully, as your role will depend upon what you will be doing for the duration of the session.
+Before we begin, my co-host will now assign you roles. Please listen carefully, as your role will depend upon what you will be doing for the duration of the session.
 
 > `[The co-host should split the session equally, either right down the middle or by front and back rows.]`
 > `[Once the teams are created move the 2 teams to the opposite green lines on either side of the session room]`
 > `[After splitting the teams move people around to make the teams even]`
 > `[Each helper will be assigned a team as the captain. If there are not enough helpers, pick a co-host to be the captain.]`
 
-**Host:** Does everyone understand what their roles are?
+Does everyone understand what their roles are?
 
-**Host:** The members selected to be criminals, will be teamed momentarily. We ask that you stay at the criminal spawn when you are respawned. Then wait for further instructions.
+The members selected to be criminals, will be teamed momentarily. We ask that you stay at the criminal spawn when you are respawned. Then wait for further instructions.
 
 > `[The session supervisor and any CAC+ can team and respawn or kill the criminals. The criminal captain should be respawned/killed first]`
 > `[During this time the response team should begin planning]`

@@ -61,4 +61,4 @@ Every week, the Community Management Team will grant the hardest working user of
 
 ---
 
-**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration (Legoking12501 & MrAttire9).**
+**Created by Legoking12501.**

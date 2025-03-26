@@ -117,21 +117,22 @@ You should have a notepad in-game to keep track of information while hosting. Us
 
 **Co-Host:** Hey! I’m `[Nickname]`, your co-host, and I’ll be assisting in today’s shift.
 
-**Host:** Before we begin, let’s go over a few rules to help you succeed in this shift!
+**Host:** 
+Before we begin, let’s go over a few rules to help you succeed in this shift!
 
-**Host:** I - Do not say PTS (Permission To Speak) while I am speaking. PTS is active unless stated otherwise. Talking/Using VC without permission will result in a strike.
+I - Do not say PTS (Permission To Speak) while I am speaking. PTS is active unless stated otherwise. Talking/Using VC without permission will result in a strike.
 
-**Host:** II - Remain STS (Shoulder to Shoulder) at all times. Ask for permission before going AFK (Away From Keyboard).
+II - Remain STS (Shoulder to Shoulder) at all times. Ask for permission before going AFK (Away From Keyboard).
 
-**Host:** III - Follow all orders given to you by a Chairperson+ or Co-Host unless they ask you to break the rules. You must call me and my Co-Host by our ranks at all times.
+III - Follow all orders given to you by a Chairperson+ or Co-Host unless they ask you to break the rules. You must call me and my Co-Host by our ranks at all times.
 
-**Host:** IV - If there is any problem, come to me, my Co-Host, or any other Chairperson+ for assistance.
+IV - If there is any problem, come to me, my Co-Host, or any other Chairperson+ for assistance.
 
-**Host:** V - You must be respectful to everyone at all times. Not following this will result in removal from the shift.
+V - You must be respectful to everyone at all times. Not following this will result in removal from the shift.
 
-**Host:** VI - Trolling in any form is unacceptable! Grammar must be used throughout this shift. Trolling or not using grammar will result in a strike or instant removal of this shift.
+VI - Trolling in any form is unacceptable! Grammar must be used throughout this shift. Trolling or not using grammar will result in a strike or instant removal of this shift.
 
-**Host:** Before we start, my co-host will assign your roles. Please pay close attention, as your role will dictate your duties for the duration of this shift.
+Before we start, my co-host will assign your roles. Please pay close attention, as your role will dictate your duties for the duration of this shift.
 
 > `[Host informs the Co-Host: "[No/1/2] DIs]`
 > - `[Drill Instructors Needed: 0 for Lockdown, 1 for Blackout, 2 for Evacuation]"`
@@ -140,28 +141,30 @@ You should have a notepad in-game to keep track of information while hosting. Us
 > `[Max 1 Cam-Op]`
 > `[Co-Host assigns roles]`
 
-**Host:** Does everybody have a role? Yes/No, [Rank].
+**Host:** 
+Does everybody have a role? Yes/No, [Rank].
 
-**Host:** Now that everyone has their roles, let’s review what each role entails:
+Now that everyone has their roles, let’s review what each role entails:
 
-**Host:** Patrol Team: Responsible for patrolling the prison and monitoring its status. They ensure that all areas are secure and operational.
+Patrol Team: Responsible for patrolling the prison and monitoring its status. They ensure that all areas are secure and operational.
 
-**Host:** Scout Team: Patrols outside the prison and monitors the premises from watch towers, providing an external security layer.
+Scout Team: Patrols outside the prison and monitors the premises from watch towers, providing an external security layer.
 
-**Host:** Response Team: Handles situations around the set status, responds to any panic calls, and oversees checkpoints and the control room.
+Response Team: Handles situations around the set status, responds to any panic calls, and oversees checkpoints and the control room.
 
-**Host:** Camera Operator: Manages the cameras, providing real-time updates and reporting on prison activities via radio.
+Camera Operator: Manages the cameras, providing real-time updates and reporting on prison activities via radio.
 
-**Host:** Captain: Leads a group, maintains control within their team, and ensures order and discipline are upheld.
+Captain: Leads a group, maintains control within their team, and ensures order and discipline are upheld.
 
-**Host:** Drill Instructor: Ensures proper drill procedures are followed and that all staff and inmates react appropriately during drills.
+Drill Instructor: Ensures proper drill procedures are followed and that all staff and inmates react appropriately during drills.
 
 ---
 
 # **Dismissal**
-**Host:** At a random point in the shift, we will conduct a drill. It is crucial that you follow the procedures specific to the drill being conducted.
+**Host:** 
+At a random point in the shift, we will conduct a drill. It is crucial that you follow the procedures specific to the drill being conducted.
 
-**Host:** Please listen carefully as I explain the drill procedure.
+Please listen carefully as I explain the drill procedure.
 
 > `[Explain Only The Drill You Are Doing]`
 
@@ -172,19 +175,19 @@ You should have a notepad in-game to keep track of information while hosting. Us
 
 * Evacuation Drill: When the Evacuation Drill starts, all attendees and inmates must proceed to the Yard-Exit Wall and stand there. Guards are responsible for transferring inmates out of the facility.
 
-**Host:** Before I dismiss you, here’s a few expectations that we expect throughout the shift.
+Before I dismiss you, here’s a few expectations that we expect throughout the shift.
 
-**Host:** I - Communication: Use radio channel two to communicate.
+I - Communication: Use radio channel two to communicate.
 
-**Host:** II - Radio Format: When communicating on the radio, follow this format: [Role] (Text). For example: [Patrol] Cell Block is clear!
+II - Radio Format: When communicating on the radio, follow this format: [Role] (Text). For example: [Patrol] Cell Block is clear!
 
-**Host:** III - Door Management: Please remember NOT to leave doors open and NOT to use lethal force unnecessarily.
+III - Door Management: Please remember NOT to leave doors open and NOT to use lethal force unnecessarily.
 
-**Host:** IV - Adherence: Maintain clear communication and follow the instructions of the host and co-host at all times.
+IV - Adherence: Maintain clear communication and follow the instructions of the host and co-host at all times.
 
-**Host:** Everyone, switch to radio channel 2. This can be done by clicking the "1" in the top right corner of the radio.
+Everyone, switch to radio channel 2. This can be done by clicking the "1" in the top right corner of the radio.
 
-**Host:** You are all dismissed to your roles. Please stay back if you have any questions.
+You are all dismissed to your roles. Please stay back if you have any questions.
 
 **Supervisor:** srlock dismissed.
 

@@ -74,7 +74,6 @@ The Stateview Advanced Training Guide outlines the steps necessary for setting u
 ---
 
 # **Start**
-### **Calls**
 
 **Supervisor:** h There's a ADVANCED Training being hosted in the session room, come and attend to show activity and possibly receive a promotion! [1/3]
 

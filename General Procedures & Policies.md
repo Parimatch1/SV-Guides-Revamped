@@ -416,4 +416,4 @@ Definition: Committing any acts that are illegal under the United States Federal
 
 ---
 
-**Created by Legoking12501. Reviewed/Revised by Legoking12501 Governor Administration (Legoking12501 & MrAttire9).**
+**Created by Legoking12501**

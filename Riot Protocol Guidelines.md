@@ -149,6 +149,7 @@ Before we begin, my co-host will now assign you roles. Please listen carefully, 
 > `[After splitting the teams move people around to make the teams even]`
 > `[Each helper will be assigned a team as the captain. If there are not enough helpers, pick a co-host to be the captain.]`
 
+**Host:**
 Does everyone understand what their roles are?
 
 The members selected to be criminals, will be teamed momentarily. We ask that you stay at the criminal spawn when you are respawned. Then wait for further instructions.

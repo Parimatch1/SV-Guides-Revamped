@@ -50,7 +50,7 @@ The Stateview Inspection Guide outlines the steps necessary for setting up, cond
 * The host and supervisor can dismiss spectators for any reason.
 * The supervisor holds authority over the entire session.
 * The supervisor is allowed to interject at any point with corrections or advice.
-* The supervisor or any Chief of Staff+ can cancel the session with a valid reason.
+* The supervisor, any Chief of Staff+, or certain Community Management members can cancel the session with a valid reason.
 * The host, co-host(s), helper(s), and supervisor have permission to server ban any users raiding the inspection for the reason "inspection raider" and are not to log it on BC.
 
 ### **Session Administration Requirements**

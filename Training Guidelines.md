@@ -49,7 +49,7 @@ The Stateview Training Guide outlines the steps necessary for setting up, conduc
 * The host and supervisor can dismiss spectators for any reason.
 * The supervisor is allowed to interject at any point with corrections or advice.
 * The supervisor holds authority over the entire session.
-* The supervisor or any Prison Commissioner+ can cancel the session with a valid reason.
+* The supervisor, any Prison Commissioner+, or certain Community Management members can cancel the session with a valid reason.
 * The host is responsible for ensuring the helper(s) is/are verified in the main + intel servers.
 
 ### **Session Administration Requirements**

@@ -30,21 +30,27 @@ Elevated High Rank can also be granted for 1 week by the Community Management Te
 * Host (Advanced) Trainings without supervision.
 * Supervise (Advanced) Training Sessions.
 * Promote users from sessions on their own.
+* Host infinite sessions/day.
+* Co-Host infinite sessions/day.
 
 **Community Advisory Council**
+* All the benifits of Facility Director.
 * Reasonably modify sessions as the host.
 * Spectate any session without the host's permission.
 * Host Riot Protocols without supervision.
 * Supervise Riot Protocol Sessions.
 
 **Prison Commissioner**
+* All the benifits of Facility Director-Community Advisory Council.
 * Reasonably modify sessions as the host.  
 * Grant one other user spectator permissions.
 * Bypass the daily hosting and co-hosting limits.
 
 **Board of Governors**
+* All the benifits of Facility Director-Prison Commissioner.
 * Reasonably modify sessions as the host.  
 * Exempt from the admin command reason requirement.
+* Exempt from the session spectator limit.
 
 ---
 

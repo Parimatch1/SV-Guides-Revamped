@@ -25,17 +25,27 @@ Users who have purchased admin privileges through the Roblox Gamepass are grante
 ---
 
 ### **HAX Administrator Regulations**
-* HAX Admin must not be used to interrupt, disrupt, or otherwise hinder active sessions.
-* HAX Admin must not be used to distract, troll, prank, or annoy session administrators and/or attendees.
-* HAX Admin must not be used to block or obstruct the facility or any of its functions for any duration.
 * Modifications to other players' overheads (roles) are limited to a duration of 30 minutes.
 * There is a 30-minute overall cooldown for changing other players' overheads.
 * Users are prohibited from altering their own or others' overheads to ranks above theirs.
+* All HAX related violations are under the authority of the Executive Committee and should only be handled by such users.
+* Certain factors will be considered when determing if an action is HAX abuse:
+  * The users relation to the "abused" users. Friends, enemys, etc.
+  * The actions the user was doing. Abusive, compliant with roleplay, trolling, etc.
+  * How disruptive to the "victim" and other users the actions were.
+  * How disruptive to the roleplay experience the actions were.
+  * Justification behind the actions.
 * HAX Admin must never be used to deliberately:
   * Cause players to leave the game.
   * Force crashes or disruptions to others' gameplay experience.
   * Incite frustration, anger, or dissatisfaction with the game environment.
-  * Cause significant disruption to the roleplay experience across the server.
+  * Interrupt, disrupt, or otherwise hinder active sessions.
+  * Distract, troll, prank, or annoy session administrators and/or attendees.
+  * Block or obstruct the facility or any of its functions for any duration.
+  * To 'mod', 'admin', or 'superadmin' users.
+  * Cause significant disruption to the roleplay experience across the server. Examples:
+    * Giving an inmate handcuffs and allowing them to handcuff guards. Specifically guards who are following the rules.
+    * Jailing users who are trying to play the game.
 
 ---
 

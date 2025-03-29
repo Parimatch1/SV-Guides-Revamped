@@ -37,6 +37,19 @@ The Stateview Fugitive Recovery Protocol Guide outlines the steps necessary for 
 * The host is expected to assume any responsibilities labeled "Supervisor" if they do not have one.
 * Fugitive Recovery Protocols have a 48-hour cooldown. Only 4 can be hosted per week.
 
+### **Extra Session Authority Information**
+* The host, co-host(s), and supervisor have strike permissions.
+* The host, co-host(s), and supervisor have dismissal permissions.
+* The host and co-host(s) have sit permissions for faces.
+* The host can give helpers strike/dismissal/sit permissions.
+* Users can be dismissed without 3 strikes if they are trolling or being majorly disruptive.
+* The host and supervisor can dismiss the co-host(s)/helper(s) with a valid reason.
+* The host and supervisor can dismiss spectators for any reason.
+* The supervisor is allowed to interject at any point with corrections or advice.
+* The supervisor holds authority over the host and the decisions they make.
+* The supervisor, any Prison Commissioner+, or certain Community Management members can cancel the session with a valid reason.
+* The host is responsible for ensuring the helper(s) is/are verified in the main + intel servers.
+
 ### **Session Administration Requirements**
 * **Professionalism:** You must remain completely professional throughout the entire fugitive recovery protocol. This will set a positive example for the attendees.
 * **Grammar:** You must use proper grammar at all times. This ensures clear communication with session administration and attendees.

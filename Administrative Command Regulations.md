@@ -47,6 +47,7 @@ Users who have purchased admin privileges through the Roblox Gamepass are grante
     * Giving an inmate handcuffs and allowing them to handcuff guards. Specifically guards who are following the rules.
     * Jailing users who are trying to play the game.
     * Giving numerous users AKMs.
+    * Godding yourself then participating in roleplay.
 
 ---
 

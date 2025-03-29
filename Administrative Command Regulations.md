@@ -14,7 +14,7 @@ Below elaborates on crucial information that should be known upon receiving admi
 |[2] High Rank|Facility Director|
 |[3] High Rank+|Community Advisory Council - Prison Commissioner|
 |[4] Super High Rank|Board of Governors - Branch Diversity Team, Game Administration|
-|[5] HAX|Special Grant|
+|[5] HAX|Special Appointment|
 |[6] Creator|Chairman of the Board - Stateview Leadership|
 
 ---
@@ -27,13 +27,13 @@ Users who have purchased admin privileges through the Roblox Gamepass are grante
 ### **HAX Administrator Regulations**
 * Modifications to other players' overheads (roles) are limited to a duration of 30 minutes.
 * There is a 30-minute overall cooldown for changing other players' overheads.
-* Users are prohibited from altering their own or others' overheads to ranks above theirs.
+* Users are prohibited from altering their own or others' overheads to ranks above the target users.
 * All HAX related violations are under the authority of the Executive Committee and should only be handled by such users.
-* Certain factors will be considered when determing if an action is HAX abuse:
-  * The users relation to the "abused" users. Friends, enemys, etc.
-  * The actions the user was doing. Abusive, compliant with roleplay, trolling, etc.
-  * How disruptive to the "victim" and other users the actions were.
-  * How disruptive to the roleplay experience the actions were.
+* Certain factors will be considered when determing if an action is HAX abuse and how severe it is:
+  * The users relation to the "abused" user. Friends, enemys, etc.
+  * The actions the "abused" user was doing. Following rules, breaking rules etc.
+  * How disruptive to the "abused" user and other users the actions were.
+  * How disruptive to the overall roleplay experience the actions were.
   * Justification behind the actions.
 * HAX Admin must never be used to deliberately:
   * Cause players to leave the game.
@@ -46,13 +46,20 @@ Users who have purchased admin privileges through the Roblox Gamepass are grante
   * Cause significant disruption to the roleplay experience across the server. Examples:
     * Giving an inmate handcuffs and allowing them to handcuff guards. Specifically guards who are following the rules.
     * Jailing users who are trying to play the game.
+    * Giving numerous users AKMs.
 
 ---
 
 ### **Chief of Staff+ Regulation Exemptions**
-Individuals holding the rank of Chief of Staff or higher are exempt from all administrative regulations. This exemption applies as long as their actions:
-* Do not cause significant disruption to the roleplay experience across the server.
-* Are backed by adequate reasoning and justification.
+Individuals holding the rank of Chief of Staff or higher are exempt from all administrative regulations. This exemption applies as long as their actions do not:
+* Cause players to leave the game.
+* Force crashes or disruptions to others' gameplay experience.
+* Incite frustration, anger, or dissatisfaction with the game environment.
+* Interrupt, disrupt, or otherwise hinder active sessions.
+* Distract, troll, prank, or annoy session administrators and/or attendees.
+* Block or obstruct the facility or any of its functions for any duration.
+* Consist of 'mod'ing, 'admin'ing, or 'superadmin'ing users.
+* Cause significant disruption to the roleplay experience across the server.
 
 ---
 
@@ -69,7 +76,7 @@ Game Administrators (SV Admin) adhere to a separate set of policies regarding th
 ---
 
 ### **Session Regulation Exemptions**
-During active sessions, participants may use administrative commands on the inmate team under the following conditions:
+During active sessions, session administration may use administrative commands on the inmate team under the following conditions:
 * Commands are executed within the session room.
 * Commands are used to warp individuals back to the sessions room as necessary.
 

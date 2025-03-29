@@ -48,7 +48,7 @@ The Stateview Riot Protocol Guide outlines the steps necessary for setting up, c
 * The host and supervisor can dismiss spectators for any reason.
 * The supervisor holds authority over the entire session.
 * The supervisor is allowed to interject at any point with corrections or advice.
-* The supervisor or any Board of Governors+ can cancel the session with a valid reason.
+* The supervisor, any Board of Governors+, or certain Community Management members can cancel the session with a valid reason.
 
 ### **Session Administration Requirements**
 * **Professionalism:** You must remain completely professional throughout the entire riot protocol. This will set a positive example for the attendees.

@@ -61,6 +61,10 @@ Individuals holding the rank of Chief of Staff or higher are exempt from all adm
 * Block or obstruct the facility or any of its functions for any duration.
 * Consist of 'mod'ing, 'admin'ing, or 'superadmin'ing users.
 * Cause significant disruption to the roleplay experience across the server.
+  * Giving an inmate handcuffs and allowing them to handcuff guards. Specifically guards who are following the rules.
+  * Jailing users who are trying to play the game.
+  * Giving numerous users AKMs.
+  * Godding yourself then participating in roleplay.
 
 ---
 

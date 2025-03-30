@@ -57,8 +57,8 @@ Stateview upholds a commitment to the utmost professionalism for our staff, depa
 * Reforms are designed to uphold the activity, maturity, and professionalism standards of our high ranking users. In order to uphold these values we have decided to introduce a reform initiative policy. This policy aims to ensure these expectations are met and to reform members who do not meet our standards.
 
 The following reforms outline the new ranks that reformed members will receive:
-> Chief of Staff-Chairman of the Board --> Chief of Staff or Board of Governors
-> Community Advisory Council-Board of Governors --> Community Advisory Council or Facility Director
+> Chief of Staff-Chairman of the Board --> Board of Governors
+> Community Advisory Council-Board of Governors --> Facility Director
 > Chairperson-Facility Director --> Superintendent
 > 
 > Members can be issued a staff warning instead of being fully reformed.
@@ -73,6 +73,7 @@ The following factors listed below are what will be considered during the reform
 ### **Additional Information**
 * Members who have purchased ranks or any form of quota excusal will still be subject to reforms when they occur. Forms of quota excusal will be taken into account during the reform process.
 * You have the chance to appeal your reform within 72 hours of notice. Appeals must be well-thought-out and provide supporting evidence to show that you meet enough factors to not be reformed.
+  * Even upon appeal you may receive a rank lower then what you previously had.
 
 ---
 
@@ -91,17 +92,18 @@ The following factors listed below are what will be considered during the reform
 > *Branch Diversity Team+ can bypass these resignation limits.*
 
 **Respected Inmate Limits** *[If any of the following requirements are met, respected inmate should be denied]*
-> 1. The player did not earn any PC+ rank without purchase or board choice.
+> 1. The player did not earn any Prison Commissioner+ rank without purchase or board choice.
 > 2. The player is not ranked at or above Prison Commissioner.
 > 3. The player is not respected by the community.
-> 4. The player has an outlying punishment.
-> 5. A Chief of Staff+ has deemed the player ineffective in carrying out their duties.
+> 4. The player has an outlying non-reverted punishment.
+> 5. The Chief of Staff+ contacted for resignation has deemed the player ineffective in carrying out their duties.
+>   * Other Chief of Staff+ have the authority to make their own choice on this. 
 > *Only Chief of Staff+ Can Grant respected inmate*
 > *Chairman of the Board+ can bypass these respected inmate limits.*
 
 **Respected Inmate Removal Limits** *[If any of the following requirements are met, respected inmate should be removed from that user]*
 > 1. The player was demoted, suspended, or otherwise punished which resulted in the loss of rank.
-> 2. The player has intentionally participated in break rules, corruption, abuse of power, alternative account trolling, racism, exploiting, or any further Roblox ToS or Major Rule Violation.
+> 2. The player has intentionally participated in major rule breaking, corruption, abuse of power, alternative account trolling, racism, exploiting, or any further Roblox ToS or Major Rule Violation.
 > 3. The player has demonstrated consistent disrespect, harassment, bullying, or similar against Stateview's members.
 > 4. A Chief of Staff+ has acknowledged a fundamental lack of the player's knowledge on Stateview's rules and regulations.
 > 5. A Chief of Staff+ has deemed the player ineffective in carrying out their duties when they were a Chairperson+.
@@ -109,14 +111,14 @@ The following factors listed below are what will be considered during the reform
 
 **Reinstatement Limits** *[If any of the following requirements are met, the reinstatement should be denied]*
 > 1. The player failed to complete 50+ active in-game hours in the last 7 days (50/168 Hours)
-> 2. The player currently holds (or has held since their last resignation) a staff rank higher than or equal to Chairperson.
+> 2. The player currently holds (or has held since their last resignation) a rank that is Chairperson+. Does not include promotions that they turned down.
 > 3. The player resigned less than 60 days ago.
-> 4. The player was demoted, suspended, or otherwise punished which resulted in the loss of rank.
-> 5. The player is attempting to reinstate to a rank that they had never obtained through valid promotions (valid promotion does not include rank purchases or board choices).
-> 6. The player has intentionally participated in break rules, corruption, abuse of power, alternative account trolling, racism, exploiting, or any further Roblox ToS or Major Rule Violation.
-> 7. A Chief of Staff+ has acknowledged a fundamental lack of the player's knowledge on Stateview's rules and regulations.
-> 8. A Chief of Staff+ has deemed the player ineffective in carrying out their duties.
-> 9. The user reinstated less than 3 months ago.
+> 4. The user reinstated less than 3 months ago.
+> 5. The player was demoted, suspended, or otherwise punished which resulted in the loss of rank.
+> 6. The player is attempting to reinstate to a rank that they had never obtained through valid promotions (valid promotion does not include rank purchases or board choices).
+> 7. The player has intentionally participated in major rule breaking, corruption, abuse of power, alternative account trolling, racism, exploiting, or any further Roblox ToS or Major Rule Violation.
+> 8. A Chief of Staff+ has acknowledged a fundamental lack of the player's knowledge on Stateview's rules and regulations.
+> 9. A Chief of Staff+ has deemed the player ineffective in carrying out their duties.
 > *Branch Diversity Team+ can bypass these reinstatement limits.*
 
 ---
@@ -126,8 +128,8 @@ The following factors listed below are what will be considered during the reform
 * Users ranked Chairperson+ may submit a Leave of Absence (LOA) request [here](https://discord.com/channels/696544612810096681/914632815503630346) if they wish to take a break from their duties.
 * LOA must last at least 7 days and no more then 21 days.
 * The length of your last LOA will be your cooldown. For example if you take a 7 day LOA, you can not take another LOA for 7 days.
-* Users who submit a LOA request on or before Thursday will be fully exempt from quota.
-* If your LOA concludes after Thursday you will be excused from quota for that week.
+* Users who submit a LOA request on or before Thursday (in their timezone) will be fully exempt from quota.
+* If your LOA concludes after Thursday (in your timezone) you will be excused from quota for that week.
 
 **Leave of Absence Rules and Information**
 * Users are expected to provide full honesty as to why they are taking LOA.
@@ -239,7 +241,8 @@ Definition: Participating in Stateview in any form while under the influence of 
 
 # **III - High Rank Disrespect Policy**
 
-Definition: Disrespecting other users while being a high rank. High ranks are a reflection of Stateview and are expected to show respect.
+Definition: Disrespecting other users while being a Chairperson+. High ranks are a reflection of Stateview and are expected to show respect at all times to users.
+Note: Community Advisory Council+, Support Agency, and Game Administration are authorized to punish users under this rule.
 
 **Proper Enforcement for Violation**
 > **[1]:** Staff Warning
@@ -350,7 +353,7 @@ Definition: Committing any acts that are illegal under the United States Federal
 
 ---
 
-# **XIV - Underage Chairperson+**
+# **XIV - Underage High Rank**
 
 * All users ranked Chairperson+ are required to be at least 13 years of age.
 

@@ -69,8 +69,8 @@ Stateview CHR Exams are designed to go over a wide catalogue of advanced skills 
 * You cannot host during or within 30 minutes before a Inspection or Certified High Rank Examination.
 * Only 1 session can be hosted per server.
 * Daily Session Limits:
-  * You can host 0-2 times per day.
-  * You can co-host 0-2 times per day.
+  * You can host 0-2 times per day. (CoS+ exempt)
+  * You can co-host 0-2 times per day. (CoS+ exempt)
   * You can supervise unlimited times per day.
   * You can help unlimited times per day.
   * These limits reset at midnight in your local timezone.

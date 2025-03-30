@@ -64,7 +64,6 @@ Stateview CHR Exams are designed to go over a wide catalogue of advanced skills 
 ---
 
 # **General Session Information**
-
 * If you are exempt from the supervisor requirement when hosting, you are not permitted to have a supervisor.  
 * You cannot host during or within 30 minutes before a Inspection or Certified High Rank Examination.
 * Only 1 session can be hosted per server.

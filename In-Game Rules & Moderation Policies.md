@@ -57,7 +57,7 @@ The Stateview In-Game Rules & Moderation Policies outline the steps necessary fo
 * How many times has the user recieved this type of punishment? (Chat Mute, Tool Ban, Game Ban, Etc.)
 * Is the previous punishment for this infraction a valid punishment?
 * Is the previous punishment for this infraction type (Chat Mute, Tool Ban, Game Ban, Etc.) valid?
-* What is the punishment based on their history and current infractions?
+* What is the punishment based on their history and current infractions? Considering only valid history.
 * Am I punishing under a department?
 * Does this punishment require any permission?
 

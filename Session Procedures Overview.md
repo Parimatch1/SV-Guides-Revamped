@@ -103,6 +103,7 @@ Stateview CHR Exams are designed to go over a wide catalogue of advanced skills 
 * When granting spectator permissions you must be in the same server as the session.
 * You are expected to assist with disturbers and raiders.
 * You must leave if ordered by the host, regardless of rank/role.
+* You can spectate on any team.
 
 ---
 

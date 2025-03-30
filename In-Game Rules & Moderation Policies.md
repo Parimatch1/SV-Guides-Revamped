@@ -209,7 +209,7 @@ Definition: Disturbing a Session refers to actions like shooting outside the ses
 
 # **17. Entering Unauthorized Areas**
 
-Definition: Entering Unauthorized Areas refers to the unauthorized access of specific locations without meeting the required rank. The control room is locked for only those ranked Commander+. The session room is locked for only those ranked Prison Commissioner+. The accuracy room has no limitations.
+Definition: Entering Unauthorized Areas refers to the unauthorized access of specific locations without meeting the required rank. The control room is locked for only those ranked Commander+. The session room is locked for only those ranked Prison Commissioner+. The accuracy room has no limitations. Chief of Staff+ can give non Prison Commissioner+ permission to be in the session room without an ongoing session.
 
 > **Proper Enforcement**
 > **[1]:** Verbal Warning **and** Respawn

@@ -453,4 +453,14 @@ Note: Community Advisory Council+ are authorized to punish under this rule witho
 
 ---
 
+# **XXIV. Raiding SVCF**
+
+Definition: Massive, purposeful misuse of a users permissions within Stateview Correctional Facility. Used to inflict damage against the game and to violate many regulations. Such as randomly banning users, randomly demoting users, major admin abuse against users, and other similar violations.
+Note: In the event of a raid against Stateview, 3+ users ranked Prison Commissioner+ together have the authority to blacklist the raider without any further approval regardless of the raider's rank or departmental status. Community Advisory Council+ can revert all invalid punishments that were issued due to the raid and add a comment noting that the punishments were from a raid.
+
+> **Proper Enforcement**
+> **[1]:** Blacklist
+
+---
+
 **Created by Legoking12501**

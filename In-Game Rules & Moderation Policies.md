@@ -44,7 +44,7 @@ The Stateview In-Game Rules & Moderation Policies outline the steps necessary fo
 * In the event that you do not have the authority to issue a punishment on a user, contact a user who does or create a report.
 * Verbal Warnings, Kicks, Server Bans, and 5 Minute Game Bans can not be appealed.
 * Reverted punishments that are not invalid still count towards a users rule infraction count and the punishment infraction count.
-* Users who recieve punishments are allowed to know the reason and length of their punishment. They can also see the proof related to their punishment so long it does not contain classified material.
+* Users who recieve punishments are entitled to know the reason and length of their punishment. They can also see the proof related to their punishment so long it does not contain classified material.
 * Users are allowed to share the type, reason, and length of their punishment unless told otherwise.
 * Community Advisory Council+ can issue blacklists. However, Board of Governors+ permission is required to issue a blacklist.
 * Community Advisory Council+ can demote, suspend, and terminate users. However, Prison Commissioner+ permission is required to issue these punishments.

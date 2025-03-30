@@ -49,7 +49,7 @@ The Stateview In-Game Rules & Moderation Policies outline the steps necessary fo
 * Community Advisory Council+ can issue blacklists. However, Board of Governors+ permission is required to issue a blacklist.
 * Community Advisory Council+ can demote, suspend, and terminate users. However, Prison Commissioner+ permission is required to issue these punishments.
 * You have up to one hour to log a punishment. Users who are occupied with a session will have extended time so long they log it asap. It is highly recommended that (unless your busy with a session) you log asap.
-  * You are required to add BC comments for in-game punishments within 5 minutes of them being issued to ensure infractions are properly counted.
+  * You are required to add BC comments for in-game punishments within five minutes of them being issued to ensure infractions are properly counted.
 
 ---
 

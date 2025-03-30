@@ -352,7 +352,7 @@ Definition: Committing any acts that are illegal under the United States Federal
 * Claiming gamepasses or any other invalid form of getting your rank back to bypass a ranking punishment is not allowed.
 
 **Proper Enforcement for Violation**
-> **[1]:** Correction of Rank & Rank Lock
+> **[1]:** Correction of Rank & Rank Lock (The Rank Lock can be reverted if the user is otherwise eligble for their rank back, unless otherwise decided by a Chief of Staff+)
 
 ---
 
@@ -413,6 +413,17 @@ Definition: Committing any acts that are illegal under the United States Federal
 **Proper Enforcement for Violation**
 > **[1]:** Staff Warning
 > **[2]:** 1-3 Day Suspension
+
+---
+
+# **XXII. Admin Abuse**
+
+Definition: Misuse of in-game administrator commands. Examples being using 'to' or 'bring' without proper reason.
+
+> **Proper Enforcement**
+> **[1]:** Staff Warning
+> **[2]:** 1-3 Day Suspension
+> **[3]:** 3-7 Day Suspension **or** Demotion
 
 ---
 

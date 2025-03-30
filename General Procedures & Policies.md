@@ -444,11 +444,12 @@ Definition: Misuse of in-game administrator commands. Examples being using 'to' 
 
 # **XXIII. Compromised Account**
 
-Definition: Misuse of in-game administrator commands. Examples being using 'to' or 'bring' without proper reason.
+Definition: When a users discord and/or roblox account is hacked/taken over.
+Note: Community Advisory Council+ are authorized to punish under this rule without any further approval.
 
 > **Proper Enforcement**
-> **[1]:** Staff Warning **and** Suspension Until Account Is Secure
-> **[2]:** Termination
+> **[1]:** Staff Warning **and** Suspension + Game-Ban Until Account Is Secure
+> **[2]:** Termination **and** Game-Ban Until Account Is Secure
 
 ---
 

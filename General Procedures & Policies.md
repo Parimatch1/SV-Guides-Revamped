@@ -8,8 +8,6 @@ Stateview upholds a commitment to the utmost professionalism for our staff, depa
 ---
 
 # **Enforcement Information**
-* All ranks and departments are required to log punishments with valid proof.
-
 * Intelligence Agents, Community Management Associates, Executive Committee Associates, and Chief of Staff+ have the authority to punish users for the rules in this guide.
 * Invalid punishments issued by Community Management should be reported to Community Management Management.
 * Invalid punishments issued by Intelligence Agency should be reported to Intelligence Agency High Command.

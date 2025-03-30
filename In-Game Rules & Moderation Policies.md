@@ -48,7 +48,6 @@ The Stateview In-Game Rules & Moderation Policies outline the steps necessary fo
 * Users are allowed to share the type, reason, and length of their punishment unless told otherwise.
 * Community Advisory Council+ can issue blacklists. However, Board of Governors+ permission is required to issue a blacklist.
 * Community Advisory Council+ can demote, suspend, and terminate users. However, Prison Commissioner+ permission is required to issue these punishments.
-* In the event of a raid against Stateview, 3+ users ranked Prison Commissioner+ together have the authority to blacklist the raider without permission regardless of the raider's rank or departmental status. Community Advisory Council+ can revert all invalid punishments that were issued due to the raid and add a comment noting that the punishments were from a raid.
 
 ---
 

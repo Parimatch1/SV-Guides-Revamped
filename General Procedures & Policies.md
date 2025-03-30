@@ -206,7 +206,7 @@ Definition: Violation of any of the outlined forced leave policies while being s
 
 ---
 
-# **Organization Regulations & Policies**
+# **Organization Regulations, Policies, & Additional Rules**
 
 ---
 
@@ -439,6 +439,16 @@ Definition: Misuse of in-game administrator commands. Examples being using 'to' 
 > **[1]:** Staff Warning
 > **[2]:** 1-3 Day Suspension
 > **[3]:** 3-7 Day Suspension **or** Demotion
+
+---
+
+# **XXIII. Compromised Account**
+
+Definition: Misuse of in-game administrator commands. Examples being using 'to' or 'bring' without proper reason.
+
+> **Proper Enforcement**
+> **[1]:** Staff Warning **and** Suspension Until Account Is Secure
+> **[2]:** Termination
 
 ---
 

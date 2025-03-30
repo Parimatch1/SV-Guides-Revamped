@@ -84,6 +84,7 @@ Stateview CHR Exams are designed to go over a wide catalogue of advanced skills 
 * The host and supervisor are authorized to dismiss spectators for any reason.
 * The supervisor is permitted to interject at any point with corrections or advice.
 * The supervisor holds authority over the entire session.
+* You have up to one hour to log your session and any session related promotions.
 
 ---
 

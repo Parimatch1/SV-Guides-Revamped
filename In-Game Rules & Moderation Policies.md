@@ -250,13 +250,6 @@ Definition: Leaving to evade a verbal warning, kick, or server ban. You must pos
 > **Proper Enforcement**
 > **[1]:** 5 Minute Game Ban
 
-# **22. Raiding SVCF**
-
-Definition: Massive, purposeful misuse of a users permissions within Stateview Correctional Facility. Used to inflict damage against the game and to violate many regulations. Such as randomly banning users, randomly demoting users, major admin abuse against users, and other similar violations.
-
-> **Proper Enforcement**
-> **[1]:** Blacklist
-
 ---
 
 # **Punishment Type Infractions**

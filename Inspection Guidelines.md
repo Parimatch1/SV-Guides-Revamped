@@ -298,7 +298,7 @@ Without further ado, you are dismissed to your roles.
 ### **Questions**
 > `[You can do your own questions]`
 * Where should inmates be placed in a lockdown drill?
-* What should stafff do during a blackout drill?
+* What should staff do during a blackout drill?
 * What is the patrol team responsible for?
 
 ---

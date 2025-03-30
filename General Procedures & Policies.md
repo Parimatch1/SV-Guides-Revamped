@@ -8,6 +8,8 @@ Stateview upholds a commitment to the utmost professionalism for our staff, depa
 ---
 
 # **Enforcement Information**
+* All ranks and departments are required to log punishments with valid proof.
+
 * Intelligence Agents, Community Management Associates, Executive Committee Associates, and Chief of Staff+ have the authority to punish users for the rules in this guide.
 * Invalid punishments issued by Community Management should be reported to Community Management Management.
 * Invalid punishments issued by Intelligence Agency should be reported to Intelligence Agency High Command.
@@ -21,24 +23,28 @@ Stateview upholds a commitment to the utmost professionalism for our staff, depa
   * Instances of past or ongoing patterns of behavior.
   * The relationships between the parties involved.
   * The broader context in which the alleged incidents occurred.
+* Modified punishments do count towards that type of infraction (Chat Mute, Tool Ban, Game Ban, Etc.).  
+  * Example: If someone gets a modified ban of 7 days and it is their first ban, the second ban should still be 3 days (the standard length of a users second ban).
+* Modified punishments do count towards that rules infraction count. 
+  * Example: If someone gets a modified tool ban for first infraction tool abuse, the next tool abuse punishment would be their second infraction and would be punished with the second infraction punishment.
+* Improper/Invalid punishments do not count towards normal infractions or infraction types (Chat Mute, Tool Ban, Game Ban, Etc.).  
+  * If the previous punishment a user recieved for a certain rule is either reverted for being invalid or clearly invalid you are expected to treat it as invalid.
+  * Invalid punishments should be reported to the Intelligence Agency once noticed if they are not yet reverted.
+  * Example: This means if someone gets an unmodified punishment of a tool ban for a tool abuse first infraction (which is incorrect), you would ignore that punishment and issue the proper punishment for tool abuse first infraction.
+* Kicks, Server Bans, and Team Bans should be logged on Bloxcord as a comment.  
+  * Example: Team banned for Tool Abuse (Fourth Infraction)
+* You must log on Bloxcord and in Intel with your department unless you are punishing independently as an FD+.  
+  * Example: Bypassing LOA (First Infraction) || SVCM
+* If logged on Bloxcord under a department, the punishment is no longer under the authority of IA but instead that department's high command.
+* All ranks and departments are required to log punishments with valid proof.
 * Chief of Staff+ and all departements authorized to punish under this guide can make punishments unappealable if they have a valid reason.
 * Branch Diversity Team+ and all departements authorized to punish under this guide can classify the reason and/or proof for a punishment if they have a valid reason.
-* All ranks and departments are required to log punishments with valid proof.
-* Mutes, Staff Warnings, Tool Bans, Game Bans (Excluding 5 Minute Ones), Rank Locks, Modcall Bans, Suspensions, Demotions, and Terminations can be appealed.
-* Modified punishments do count towards that type of infraction (Chat Mute, Tool Ban, Game Ban, Etc.).
-  * Example: This means if someone gets a modified ban of 7 days and it is their first ban, the second ban should still be 3 days.
-* Improper/Invalid punishments do not count towards normal infractions or infraction types (Chat Mute, Tool Ban, Game Ban, Etc.).
-  * If the previous punishment a user recieved for a certain rule is either reverted for being invalid or clearly invalid you are expected to treat it as invalid.
-  * Invalid punishments should be reported to the Intelligence Agency once noticed if they are not reverted.
-  * Example: This means if someone gets an unmodified punishment of a server ban for a tool abuse first infraction, you would ignore that punishment and issue a verbal warning for a tool abuse first infraction.
-* LTAP punishments do not count towards a user's game ban infractions.
 * If a user is demoted, suspended, or terminated, a rank-lock for the same length must be issued.
 * For terminations, a permanent suspension must be issued instead of manually ranking to SSI.
-* Rank locks only prevent rank claiming but do not prevent session promotions.
-* You must log on Bloxcord and in Intel with your department unless you are punishing independently as an CoS+.
-  * Example: Bypassing LOA (First Infraction) || SVCM.
-* If logged on Bloxcord under a department, the punishment is no longer under the authority of IA but instead that department's high command.
-* Reverted punishments that are not invalid still count towards the infraction count and the punishment infraction count.
+* Rank Locks only prevent rank claiming but do not prevent session promotions.
+* LTAP punishments do not count towards a user's game ban infractions.
+* Verbal Warnings, Kicks, Server Bans, and 5 Minute Game Bans can not be appealed.
+* Reverted punishments that are not invalid still count towards a users rule infraction count and the punishment infraction count.
 * Users who break rules are allowed to know the reason and length of their punishment. They can also see the proof related to their punishment so long it does not contain classified material they do not have access to.
 * Users are allowed to share the type, reason, and length of their punishment unless told otherwise.
 

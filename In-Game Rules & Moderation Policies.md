@@ -121,7 +121,7 @@ Definition: Taking advantage of the roblox chat filter to say things normally no
 > **[1]:** Chat Mute
 > **[2]:** Game Ban
 
-# **7. Discrimination**
+# **7. Discrimination (Racism/Sexism)**
 
 Definition: Racism, sexism, and any other form of discrimination.
 
@@ -130,7 +130,7 @@ Definition: Racism, sexism, and any other form of discrimination.
 > **[2]:** Game Ban
 > **[3]:** Game Ban **or** Blacklist
 
-# **8. Sexual Roleplay**
+# **8. Sexual Roleplay (SRP)**
 
 Definition: The act of inappropriate and sexual roleplay. This includes messages and actions with your roblox character.
 
@@ -182,7 +182,7 @@ Definition: Trolling is the deliberate effort to disrupt roleplay by making fool
 > **[2]:** Chat Mute **or** Server Ban
 > **[3]:** Server Ban **or** Team-Ban
 
-# **14. Control Panel Abuse**
+# **14. Control Panel Abuse (CPA)**
 
 Definition: Control Panel Abuse involves the misuse of the control panel within the cell block. This includes actions such as manipulating lighting, initiating lockdowns, or unrealistically opening all doors, with the intention of disrupting or undermining the roleplay scenario.
 
@@ -191,7 +191,7 @@ Definition: Control Panel Abuse involves the misuse of the control panel within 
 > **[2]:** Game Kick
 > **[3]:** Game Kick **or** Server Ban
 
-# **15. Raiding a Session [Raiding]**
+# **15. Raiding a Session (Raiding)**
 
 Definition: Raiding a Session involves the destruction of a session through the abusive use of tools.
 
@@ -201,7 +201,7 @@ Definition: Raiding a Session involves the destruction of a session through the 
 > **[3]:** Server Ban
 > **[4]:** Server Ban **or** Game-Ban
 
-# **16. Disturbing a Session [Disturbing]**
+# **16. Disturbing a Session (Disturbing)**
 
 Definition: Disturbing a Session refers to actions like shooting outside the session door or engaging in disruptive behavior that hinders the normal flow of a session. These activities can prolong sessions and cause annoyance to those actively participating.
 
@@ -211,7 +211,7 @@ Definition: Disturbing a Session refers to actions like shooting outside the ses
 > **[3]:** Server Ban
 > **[4]:** Server Ban **or** Game Ban
 
-# **17. Entering Unauthorized Areas**
+# **17. Entering Unauthorized Areas (EUA)**
 
 Definition: Entering Unauthorized Areas refers to the unauthorized access of specific locations without meeting the required rank. The control room is locked for only those ranked Commander+. The session room is locked for only those ranked Prison Commissioner+. The accuracy room has no limitations. Chief of Staff+ can give non Prison Commissioner+ permission to be in the session room without an ongoing session.
 
@@ -246,7 +246,7 @@ Definition: AFK Farming refers to the practice of remaining idle in the game, no
 > **[2]:** Demotion **and** Game Kick
 > **[3]:** Termination **and** Game Kick
 
-# **21. Leaving to Avoid Punishment [LTAP]**
+# **21. Leaving to Avoid Punishment (LTAP)**
 
 Definition: Leaving to evade a verbal warning, kick, or server ban. You must possess evidence of their rule violation and of the leaving. It is also essential to furnish them with a clear explanation of the specific rule they have breached when banning. Example Reason: Tool Abuse (First Infraction) - Do not kill inmates without proper reason.
 

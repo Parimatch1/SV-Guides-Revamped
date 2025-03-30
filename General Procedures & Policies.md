@@ -9,18 +9,19 @@ Stateview upholds a commitment to the utmost professionalism for our staff, depa
 
 # **Enforcement Information**
 * Intelligence Agents, Community Management Associates, Executive Committee Associates, and Chief of Staff+ have the authority to punish users for the rules in this guide.
-* The Intelligence Agency High Command+ can revert punishments issued by the Intelligence Agency if they have a valid reason.
-* The Community Management High Command+ can revert punishments issued by Community Management if they have a valid reason.
-* Certain Executive Committee members can revert punishments issued by the Executive Committee if they have a valid reason.
+* Invalid punishments issued by Community Management should be reported to Community Management Management.
+* Invalid punishments issued by Intelligence Agency should be reported to Intelligence Agency High Command.
+* Invalid punishments issued by Executive Committee should be reported to Executive Committee High Command.
+* Invalid punishments issued by Chief of Staff+ should be reported to the Support Agency.
 * Chief of Staff+ can revert punishments not issued under a department if they have a valid reason.
 * Chief of Staff+ and all departements authorized to punish under this guide can modify punishments if they have a valid reason.
 * Chief of Staff+ and all departements authorized to punish under this guide can make punishments unappealable if they have a valid reason.
-* Chief of Staff+ and all departements authorized to punish under this guide can classify the reason and/or proof for a punishment if they have a valid reason.
+* Branch Diversity Team+ and all departements authorized to punish under this guide can classify the reason and/or proof for a punishment if they have a valid reason.
 * All ranks and departments are required to log punishments with valid proof.
-* Mutes, Staff Warnings, Tool Bans, Game Bans [Excluding 5 Minute Ones], Rank Locks, Modcall Bans, Suspensions, Demotions, and Terminations can be appealed.
-* Modified punishments do count towards that type of infraction [Chat Mute, Tool Ban, Game Ban, Etc.].
+* Mutes, Staff Warnings, Tool Bans, Game Bans (Excluding 5 Minute Ones), Rank Locks, Modcall Bans, Suspensions, Demotions, and Terminations can be appealed.
+* Modified punishments do count towards that type of infraction (Chat Mute, Tool Ban, Game Ban, Etc.).
   * Example: This means if someone gets a modified ban of 7 days and it is their first ban, the second ban should still be 3 days.
-* Improper/Invalid punishments do not count towards normal infractions or infraction types [Chat Mute, Tool Ban, Game Ban, Etc.].
+* Improper/Invalid punishments do not count towards normal infractions or infraction types (Chat Mute, Tool Ban, Game Ban, Etc.).
   * Even if the punishment is not yet reverted, this still applies. However, you are not required to ensure past punishments are correct, just as long as your punishment is correct based on the last correct punishment.
   * Invalid punishments should be reported to the Intelligence Agency once noticed if they are not reverted.
   * Example: This means if someone gets an unmodified punishment of a server ban for a tool abuse first infraction, you would ignore that punishment and issue a verbal warning for a tool abuse first infraction.

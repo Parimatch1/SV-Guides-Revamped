@@ -22,7 +22,7 @@ Stateview upholds a commitment to the utmost professionalism for our staff, depa
 * Modified punishments do count towards that type of infraction (Chat Mute, Tool Ban, Game Ban, Etc.).
   * Example: This means if someone gets a modified ban of 7 days and it is their first ban, the second ban should still be 3 days.
 * Improper/Invalid punishments do not count towards normal infractions or infraction types (Chat Mute, Tool Ban, Game Ban, Etc.).
-  * Even if the punishment is not yet reverted, this still applies. However, you are not required to ensure past punishments are correct, just as long as your punishment is correct based on the last correct punishment.
+  * If the previous punishment a user recieved for a certain rule is either reverted for being invalid or clearly invalid you are expected to treat it as invalid.
   * Invalid punishments should be reported to the Intelligence Agency once noticed if they are not reverted.
   * Example: This means if someone gets an unmodified punishment of a server ban for a tool abuse first infraction, you would ignore that punishment and issue a verbal warning for a tool abuse first infraction.
 * LTAP punishments do not count towards a user's game ban infractions.

@@ -43,7 +43,7 @@ Stateview upholds a commitment to the utmost professionalism for our staff, depa
 * LTAP punishments do not count towards a user's game ban infractions.
 * Verbal Warnings, Kicks, Server Bans, and 5 Minute Game Bans can not be appealed.
 * Reverted punishments that are not invalid still count towards a users rule infraction count and the punishment infraction count.
-* Users who break rules are allowed to know the reason and length of their punishment. They can also see the proof related to their punishment so long it does not contain classified material they do not have access to.
+* Users who break rules are entitled to know the reason and length of their punishment. They can also see the proof related to their punishment so long it does not contain classified material they do not have access to.
 * Users are allowed to share the type, reason, and length of their punishment unless told otherwise.
 * Chief of Staff+ have the authority to punish under "logical rules". Rules that don't officially exist but are logically rules. Things that are logically not allowed but aren't officially against the rules.
 

@@ -46,6 +46,7 @@ Stateview upholds a commitment to the utmost professionalism for our staff, depa
 * Users who break rules are entitled to know the reason and length of their punishment. They can also see the proof related to their punishment so long it does not contain classified material they do not have access to.
 * Users are allowed to share the type, reason, and length of their punishment unless told otherwise.
 * Chief of Staff+ have the authority to punish under "logical rules". Rules that don't officially exist but are logically rules. Things that are logically not allowed but aren't officially against the rules.
+* Precedents: If something has been clearly shown time and time again to be an unofficial official rule a "precedent" has been set. It becomes justifiable for more circumstances surrounding the infraction to open up. Like who can punish for it, what the specific definition is, etc.
 
 ---
 

@@ -136,6 +136,8 @@ You are required to walk when returning a fugitive. During your walk you may be 
 
 Periodically you will be given hints as to where the fugitive is. These hints will help you find them.
 
+Each fugitive will be assigned a number to help you know which one is which.
+
 Please use this format when communicating in the radio: [Car Members] Message. For example: [teddy/op] Fugitive in sight.
 
 Please switch to radio channel 2. You can do this by clicking the "1" in the top right of the radio. Remain on this radio channel for the remainder of the session.
@@ -153,9 +155,13 @@ m You may now begin hunting down the fugitives. Good luck!
 `[Give hints out as needed]`
 `[You do have flexability with announcements h/m/sm]`
 
+`[Wait for a fugitive to be captured]`
+
+m Fugitive number # has been captured! Help secure the capture.
+
 `[Wait for a fugitive to be captured and returned to the SR]`
 
-m The first fugitive has been captured. One remains.
+m Fugitive number # has been captured and secured! # fugitives remain.
 
 `[Wait for the remaining fugitive(s) to be captured and returned to the SR]`
 

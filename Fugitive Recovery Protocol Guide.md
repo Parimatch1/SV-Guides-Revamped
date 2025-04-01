@@ -130,7 +130,11 @@ To aid fugitive capture, you will be given hints periodically as to where they m
 
 You cannot use lethal force on the fugitives. You need to chase them down and detain them. Note that the fugitives might shoot at you.
 
-Once you have captured a fugitive bring them back to the Session Room and state that they have been captured in the radio.
+Once you have captured a fugitive bring them back to the Session Room and state that they have been captured in the radio. 
+
+You are required to walk when returning a fugitive. During your walk you may be attacked and shot at in an attempt to halt your recovery.
+
+Periodically you will be given hints as to where the fugitive is. These hints will help you find them.
 
 Please use this format when communicating in the radio: [Car Members] Message. For example: [teddy/op] Fugitive in sight.
 
@@ -138,7 +142,7 @@ Please switch to radio channel 2. You can do this by clicking the "1" in the top
 
 If you get split with the person who you were paired with, you may either spawn a new car and find them or ask them to pick you up.
 
-Before I dismiss you, I will give you 60 seconds to find a partner. You must remain with this partner for the duration of the session.
+Before I dismiss you, I will give you 60 seconds to find a partner and for the fugitives to finish hiding. You can change partners or go solo if you feel like it.
 
 `[Wait 60 Seconds]`
 
@@ -146,11 +150,13 @@ srlock dismissed.
 
 m You may now begin hunting down the fugitives. Good luck!
 
-`[Wait for a fugitive to be captured]`
+`[Give hints out as needed]`
+`[You do have flexability with announcements h/m/sm]`
+`[Wait for a fugitive to be captured and returned to the SR]`
 
 m The first fugitive has been captured. One remains.
 
-`[Wait for the remaining fugitive(s) to be captured]`
+`[Wait for the remaining fugitive(s) to be captured and returned to the SR]`
 
 ---
 

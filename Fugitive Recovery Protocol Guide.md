@@ -152,6 +152,7 @@ m You may now begin hunting down the fugitives. Good luck!
 
 `[Give hints out as needed]`
 `[You do have flexability with announcements h/m/sm]`
+
 `[Wait for a fugitive to be captured and returned to the SR]`
 
 m The first fugitive has been captured. One remains.

@@ -116,7 +116,7 @@ IV - If there is any problem, come to me, my Co-Host, my Helpers, or any other C
 
 V - You must be respectful to everyone at all times. Not following this will result in removal from this training.
 
-VI - Trolling in any form is unacceptable! Grammar must be used throughout this training. Trolling or not using grammar will result in a strike or instant removal of this training.
+VI - Trolling in any form is unacceptable! Grammar must be used throughout this training. Any violation will result in a strike or instant removal of this training.
 
 This training will consist of four sections- Faces, Questions, Scenarios, and Accuracy.
 

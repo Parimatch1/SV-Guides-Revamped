@@ -109,13 +109,13 @@ I - Do not say PTS (Permission To Speak) while I am speaking. PTS is active unle
 
 II - Remain STS (Shoulder to Shoulder) at all times. Ask for permission before going AFK (Away From Keyboard).
 
-III - Follow all orders given to you by a Chairperson+ or Co-Host unless they ask you to break the rules. You must call me, my Co-Host, and Helpers by our ranks at all times.
+III - Follow all orders given to you by a Co-Host or Helper unless they ask you to break the rules. You must call me, my Co-Host, and Helpers by our ranks at all times.
 
 IV - If there is any problem, come to me, my Co-Host, my Helpers, or any other Chairperson+ for assistance.
 
-V - You must be respectful to everyone at all times. Not following this will result in removal from the training.
+V - You must be respectful to everyone at all times. Not following this will result in removal from this training.
 
-VI - Trolling in any form is unacceptable! Grammar must be used throughout this training. Trolling or not using grammar will result in a strike or instant removal of this training.
+VI - Trolling in any form is unacceptable! Grammar must be used throughout this training. Any violation will result in a strike or instant removal from this training.
 
 This advanced training will consist of three sections- Questions, Room Clearing, and 1v1s.
 

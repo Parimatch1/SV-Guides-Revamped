@@ -294,7 +294,7 @@ Definition: Committing any acts that are illegal under the United States Federal
 * All users ranked Chairperson+ are required to be within both our main and administration discord servers. When a user first recieves a Chairperson+ rank, they have 14 days from when they are demoted per this rule to join both servers. If a user is banned from either server they have 14 days to get unbanned and join back. If a user leaves either server on their own once they are demoted they are not eligble for their rank back.
 
 **Proper Enforcement for Violation**
-> **[1]:** Demotion to Superintendent
+> **[1]:** Demotion to Superintendent (No Rank-Lock)
 
 ---
 

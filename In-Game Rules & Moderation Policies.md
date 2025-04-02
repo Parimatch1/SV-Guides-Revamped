@@ -40,6 +40,7 @@ The Stateview In-Game Rules & Moderation Policies outline the steps necessary fo
 * If a user is demoted, suspended, or terminated, a rank-lock for the same length must be issued.
 * For terminations, a permanent suspension must be issued instead of manually ranking to SSI.
 * Rank Locks only prevent rank claiming but do not prevent session promotions.
+* When reverting a promotion it does not have to be logged as a demotion and vice-versa.
 * LTAP punishments do not count towards a user's game ban infractions.
 * In the event that you do not have the authority to issue a punishment on a user, contact a user who does or create a report.
 * Verbal Warnings, Kicks, Server Bans, and 5 Minute Game Bans can not be appealed.

@@ -13,6 +13,7 @@ The Stateview In-Game Rules & Moderation Policies outline the steps necessary fo
 * Invalid punishments issued by Support Agency should be reported to Support Agency High Command.
 * Invalid punishments issued by Facility Director+ should be reported to the Intelligence Agency.
 * Chief of Staff+ can revert punishments not issued under a department if they have a valid reason. A report to the Intelligence Agency is also mandatory if the punishment is invalid.
+* Chief of Staff+ can revert punishments to issue a different punishment instead. Additionally Chief of Staff+ can revert anything they deem unworthy of punishment, even if the punishment has a valid reason.
 * Chief of Staff+ can modify punishments if they have a valid reason. Modification factors include:
   * The impact on Stateview's daily operation.
   * The surrounding circumstances of the incident.

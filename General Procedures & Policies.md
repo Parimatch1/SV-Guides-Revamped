@@ -14,6 +14,8 @@ Stateview upholds a commitment to the utmost professionalism for our staff, depa
 * Invalid punishments issued by Executive Committee should be reported to Executive Committee High Command.
 * Invalid punishments issued by Chief of Staff+ should be reported to the Support Agency.
 * Chief of Staff+ can revert punishments not issued under a department if they have a valid reason.
+* Chief of Staff+ can revert punishments not issued under a department to issue a different punishment instead.
+* Chief of Staff+ can revert punishments not issued under a department that they deem unworthy of punishment, even if the punishment has valid reasoning.
 * Chief of Staff+ and all departements authorized to punish under this guide can modify punishments if they have a valid reason. Modification factors include:
   * The impact on Stateview's daily operation.
   * The surrounding circumstances of the incident.

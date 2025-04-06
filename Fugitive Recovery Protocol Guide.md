@@ -120,51 +120,63 @@ VII - Usage of any commands to get an advantage or find out where the fugitives 
 
 # **Session Information**
 
+> `[At this time the fugitives (helpers) should begin heading to their hiding spots]`
+
 **Host:**
-Please listen carefully, as I briefly explain this session in detail.
+This Fugitive Recovery Protocol will work almost opposite to a standard riot-protocol.
 
-`[At this time the fugitives should begin heading to their hiding spots]`
+Your goal is to recover the Fugitives, they are somewhere around the map and are actively trying to evade capture!
 
-Your goal is to recover the Fugitives, they are somewhere in or around the city or village, and are hiding!
+You cannot use lethal force on the fugitives. You must chase them down and detain them. However, the fugitives are armed and are likely to shoot at you.
 
-To aid fugitive capture, you will be given hints periodically as to where they might be.
+Once the Fugitives are successfully detained, you should bring them back to the Session Room. The fugitives may try to escape until they are brought to the Session Room.
 
-You cannot use lethal force on the fugitives. You need to chase them down and detain them. Note that the fugitives might shoot at you.
+You will periodically be given hints in order to aid fugitive capture. Use these hints wisely and act on them quickly.
 
-Once you have captured a fugitive bring them back to the Session Room and state that they have been captured in the radio. 
+Upon dismissal, please make use of a car. It is recommended to team up with another officer to aid the capture of the fugitives.
 
-You are required to walk when returning a fugitive. During your walk you may be attacked and shot at in an attempt to halt your recovery.
+Communication is expected during this session. Please use radio channel two to update fellow officers on your status.
 
-Periodically you will be given hints as to where the fugitive is. These hints will help you find them.
+While communicating, please use the following format: [Rank] Message. For example: [CP] Patrolling village.
 
-Each fugitive will be assigned a number to help you know which one is which.
+Ensure to keep track of the radio signal during the session as you may loose it while traveling across the map.
 
-Please use this format when communicating in the radio: [Car Members] Message. For example: [teddy/op] Fugitive in sight.
+`[You may hold the attendees for a little to give the fugitives more hiding time]:`
+* Please wait for the fugitives to finish hiding. At this time please ask any questions you may have.
 
-Please switch to radio channel 2. You can do this by clicking the "1" in the top right of the radio. Remain on this radio channel for the remainder of the session.
-
-If you get split with the person who you were paired with, you may either spawn a new car and find them or ask them to pick you up.
-
-Before I dismiss you, I will give you 60 seconds to find a partner and for the fugitives to finish hiding. You can change partners or go solo if you feel like it.
-
-`[Wait 60 Seconds]`
+`[Wait for the fugitives to finish hiding]`
 
 srlock dismissed.
 
-m You may now begin hunting down the fugitives. Good luck!
+m The Fugitive Recovery Protocol has now begun, find the fugitive(s) and return them safely!
 
-`[Give hints out as needed]`
-`[You do have flexability with announcements h/m/sm]`
+---
 
-`[Wait for a fugitive to be captured]`
+# **Hunt Information**
+**Session Administration Information**
+> `[The fugitives will now roam around the map, attempting to stay out of sight and avoid capture]`
+> `[The host is permitted to give the attendees hints. You may use the ones below or make your own]:`
+> * h [Hint] A fugitive has been spotted near the [location].
+> * h [Hint] A foot patrol might help you out.
+> `[Fugitives are permitted to have/use a M4A1, Glock-17, or MP5. If needed they can be given these tools (with the 'give' command) by the host, co-host(s), or supervisor, even after being frisked.]`
+> `[Avoid teleporting to the fugitives, as that may give away their location. Instead, make use of private messages to communicate.]`
+> `[Ensure to check admin logs (with the 'logs' command) to ensure attendees are not cheating with the use of administrative commands]`
 
-m Fugitive number # has been captured! Help secure the capture.
+---
 
-`[Wait for a fugitive to be captured and returned to the SR]`
+# **Capture Information**
+`[Wait for a fugitive to be detained]`
+* h The [first/second] fugitive has been detained. Aid the capturers in returning them to the session room.
+`[Wait for the first fugitive to be returned to the session room]`
+* h The first fugitive has been returned to the session room safely. One fugitive remains.
 
-m Fugitive number # has been captured and secured! # fugitives remain.
-
-`[Wait for the remaining fugitive(s) to be captured and returned to the SR]`
+**Capture Intervention**
+> `[Session administration that are not fugitives are permitted to intervene with the recovery of fugitives. This requires host/supervisor approval.]`
+> `[You can provide the fugitive with a criminal car and announce the start of a chase]:`
+> * h A chase has begun with one of the fugitives at [location].
+> `[You can be a criminal yourself and ambush the recovery of the fugitive with guns or cars]`
+> `[You can use any other reasonable form of intervention in order to assist the fugitives]`
+> `[It is recommeded you only intervene in order to comply with the 20-30 minute hunt restriction]`
 
 ---
 
@@ -182,9 +194,7 @@ m Fugitive number # has been captured and secured! # fugitives remain.
 
 **Host:** Welcome back! I will announce the passers shortly. During this time, you may chat among yourselves. PTS is now inactive.
 
-
-> `[The host should DM the supervisor the passers' usernames]`
-> `[The supervisor should check who is on cooldown and relay this information to the host before moving on]`
+> `[The host should check who is on cooldown before moving on]`
 > `[The session administration should all grade on the "Grading" tab of Bloxcord and notify the host once done]`
 
 **Host:** Before we announce the passers, we’ll take a picture. Please remain STS during this time.
@@ -195,7 +205,7 @@ m Fugitive number # has been captured and secured! # fugitives remain.
 
 **Host:** Taken!
 
-`[The host should promote passers who are not on cooldown. Only up to 8 people can pass. The highest promotion that can occur is W-SI]`
+`[The host should promote passers who are not on cooldown. Only up to 4 people can pass. The highest promotion that can occur is W-SI]`
 
 **Host:** Now, I will announce the hardest workers. You all did well, but these attendees stood out for their exceptional performance!
 
@@ -226,7 +236,7 @@ m Fugitive number # has been captured and secured! # fugitives remain.
 
 # **Post Session**
 * The host should end the session on Bloxcord.
-* The host should log the fugitive recovery protocol in [fugitive-recovery-protocol-logs]().
+* The host should log the fugitive recovery protocol in [fugitive-recovery-protocol-logs](https://discord.com/channels/752736840615854082/952275894775455744).
 * The supervisor should log any promotions in [promotion-logs](https://discord.com/channels/752736840615854082/752736841739796496).
 
 ---

@@ -131,6 +131,8 @@ You cannot use lethal force on the fugitives. You must chase them down and detai
 
 Once the Fugitives are successfully detained, you should bring them back to the Session Room. The fugitives may try to escape until they are brought to the Session Room.
 
+You are not allowed to make use of cars when returning fugitives. Additionally, you may be intercepted while returning the fugitives.
+
 You will periodically be given hints in order to aid fugitive capture. Use these hints wisely and act on them quickly.
 
 Upon dismissal, please make use of a car. It is recommended to team up with another officer to aid the capture of the fugitives.

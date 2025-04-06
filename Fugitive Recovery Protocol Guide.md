@@ -158,6 +158,7 @@ m The Fugitive Recovery Protocol has now begun, find the fugitive(s) and return 
 > `[The host is permitted to give the attendees hints. You may use the ones below or make your own]:`
 > * h [Hint] A fugitive has been spotted near the [location].
 > * h [Hint] A foot patrol might help you out.
+
 > `[Fugitives are permitted to have/use a M4A1, Glock-17, or MP5. If needed they can be given these tools (with the 'give' command) by the host, co-host(s), or supervisor, even after being frisked.]`
 > `[Avoid teleporting to the fugitives, as that may give away their location. Instead, make use of private messages to communicate.]`
 > `[Ensure to check admin logs (with the 'logs' command) to ensure attendees are not cheating with the use of administrative commands]`
@@ -174,6 +175,7 @@ m The Fugitive Recovery Protocol has now begun, find the fugitive(s) and return 
 > `[Session administration that are not fugitives are permitted to intervene with the recovery of fugitives. This requires host/supervisor approval.]`
 > `[You can provide the fugitive with a criminal car and announce the start of a chase]:`
 > * h A chase has begun with one of the fugitives at [location].
+
 > `[You can be a criminal yourself and ambush the recovery of the fugitive with guns or cars]`
 > `[You can use any other reasonable form of intervention in order to assist the fugitives]`
 > `[It is recommeded you only intervene in order to comply with the 20-30 minute hunt restriction]`

@@ -36,7 +36,7 @@ The Stateview Fugitive Recovery Protocol Guide outlines the steps necessary for 
 * Non-Complete fugitive recovery protocols will not count towards quota/activity.
 * The host is expected to assume any responsibilities labeled "Supervisor" if they do not have one.
 * Fugitive Recovery Protocols have a 48-hour cooldown. Only 3 can be hosted per week.
-* Hosts are permitted to host the session in a private server.
+* Hosts are permitted to host the session in a private server. However a public server is strongly recommended to ensure attendance.
 
 ### **Extra Session Authority Information**
 * The host, co-host(s), and supervisor have strike permissions.

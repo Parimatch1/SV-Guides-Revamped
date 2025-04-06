@@ -16,7 +16,7 @@ The Stateview Fugitive Recovery Protocol Guide outlines the steps necessary for 
 
 **Co-Host Information**
 * Community Advisory Council+
-* 0-2 Co-Host(s)
+* 2 Co-Host(s)
 
 **Supervisor/Ranker Information**
 * Prison Commissioner+
@@ -24,7 +24,7 @@ The Stateview Fugitive Recovery Protocol Guide outlines the steps necessary for 
 
 **Helper Information**
 * Facility Director+
-* 0-2 Helper(s)
+* 2 Helper(s)
 
 ---
 

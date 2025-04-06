@@ -31,11 +31,12 @@ The Stateview Fugitive Recovery Protocol Guide outlines the steps necessary for 
 # **Extra Information**
 ### **Extra Session Information**
 * You must have at least 10 attendees to begin/lock your fugitive recovery protocol.
-* You can have between 0-8 Hardest Workers (Passers) per fugitive recovery protocol.
-* Fugitive Recovery Protocol should last between 20-40 minutes.
-* Non-Complete fugitive recovery protocol will not count towards quota/activity.
+* You can have between 0-4 Hardest Workers (Passers) per fugitive recovery protocol.
+* Fugitive Recovery Protocols should last between 30-50 minutes. The hunting (recovery) part should last between 20-30 minutes.
+* Non-Complete fugitive recovery protocols will not count towards quota/activity.
 * The host is expected to assume any responsibilities labeled "Supervisor" if they do not have one.
-* Fugitive Recovery Protocols have a 48-hour cooldown. Only 4 can be hosted per week.
+* Fugitive Recovery Protocols have a 48-hour cooldown. Only 3 can be hosted per week.
+* Hosts are permitted to host the session in a private server.
 
 ### **Extra Session Authority Information**
 * The host, co-host(s), and supervisor have strike permissions.
@@ -47,7 +48,7 @@ The Stateview Fugitive Recovery Protocol Guide outlines the steps necessary for 
 * The host and supervisor can dismiss spectators for any reason.
 * The supervisor is allowed to interject at any point with corrections or advice.
 * The supervisor holds authority over the host and the decisions they make.
-* The supervisor, any Prison Commissioner+, or certain Community Management members can cancel the session with a valid reason.
+* The supervisor, any Board of Governors+, or certain Community Management members can cancel the session with a valid reason.
 * The host is responsible for ensuring the helper(s) is/are verified in the main + intel servers.
 
 ### **Session Administration Requirements**

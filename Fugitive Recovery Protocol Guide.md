@@ -157,13 +157,19 @@ m The Fugitive Recovery Protocol has now begun, find the fugitive(s) and return 
 # **Hunt Information**
 **Session Administration Information**
 > `[The fugitives will now roam around the map, attempting to stay out of sight and avoid capture]`
-> `[The host is permitted to give the attendees hints. You may use the ones below or make your own]:`
+> `[The host is permitted to give the attendees hints. As time goes on and you approach 30 minutes hints should get more obvious. You may use the ones below or make your own]:`
 > * h [Hint] A fugitive has been spotted near the [location].
+> * h [Hint] A fugitive has been spotted near on a [hill/tree/etc].
+> * h [Hint] A fugitive has been spotted near in a [house/building/forest/etc].
 > * h [Hint] A foot patrol might help you out.
+> * h [Hint] A foot patrol in the [location] might help you out.
+> * h [Hint] A foot patrol near the [location] might help you out.
 
 > `[Fugitives are permitted to have/use a M4A1, Glock-17, or MP5. If needed they can be given these tools (with the 'give' command) by the host, co-host(s), or supervisor, even after being frisked.]`
+> `[You should aim to have 1 fugitive captured by around the 15 minute mark]`
 > `[Avoid teleporting to the fugitives, as that may give away their location. Instead, make use of private messages to communicate.]`
 > `[Ensure to check admin logs (with the 'logs' command) to ensure attendees are not cheating with the use of administrative commands]`
+> `[It is recommended you write down when the hunt phase started. This is to ensure compliance with the 20-30 minute hunt restriction]`
 
 ---
 

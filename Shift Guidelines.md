@@ -284,7 +284,7 @@ You are all dismissed to your roles. Please stay back if you have any questions.
 
 **Supervisor:** h Can everyone from the shift please report back to the session room. [2/2]
 
-> `[Mark those who pass all 3 phases as passing. Only up to 4 people can pass]`
+> `[Mark those who pass all 3 phases as passing. Only up to 4 people can pass (mark only up to 4 attendees as passing)]`
 > `[End the "Callback" phase on Bloxcord]`
 > `[Go to the "Ranking" tab and click "Proceed to Ranking"]`
 

@@ -10,7 +10,7 @@ Below elaborates on crucial information that should be known prior to promoting 
 ### **Information**
 * Any group chats that involve promotion discussions must have a Chief of Staff+ present.
 * Once invited to provide your feedback on a promotion, you cannot steal that promotion for yourself or for others.
-* Factors of Determination can slightly make up for a lack of statistics.
+* Factors of Determination can slightly make up for a lack of statistics. Having some statistics be better can also make up for a lack of other statistics.
 * Everyone who agreed to the promotion must be listed on the promotion log. They must be listed in order of most work to least work done for the promotion. The user who had the idea for the promotion always is listed first.
 * Only the statistics from the user's current rank should be considered in a promotion.
 * Be sure to check a user's statistics through the administration server.
@@ -33,10 +33,10 @@ Below elaborates on crucial information that should be known prior to promoting 
 
 # **Superintendent-Chairperson Promotion Information**
 **Recommended Minimum Statistics**
-* **Co-Hosts:** 15-20
-* **Helpers:** 18-20
-* **Hardest Workers:** 17-20
-* **Patrol Logs:** 15-17
+* **Co-Hosts:** 18-25
+* **Helpers:** 18-22
+* **Hardest Workers:** 15-18
+* **Patrol Logs:** 10-15
 * **Monthly In-Game Minutes:** 1500+
 * **Level:** 150+
 * **Average Grade:** 8.5+

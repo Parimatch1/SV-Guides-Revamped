@@ -33,17 +33,17 @@ Below elaborates on crucial information that should be known prior to promoting 
 
 # **Superintendent-Chairperson Promotion Information**
 **Recommended Minimum Statistics**
-* **Co-Hosts:** 18-25
-* **Helpers:** 18-22
-* **Hardest Workers:** 15-18
-* **Patrol Logs:** 10-15
+* **Co-Hosts:** 17-22+
+* **Helpers:** 17-22+
+* **Hardest Workers:** 15-18+
+* **Patrol Logs:** 12-16+
 * **Monthly In-Game Minutes:** 1500+
 * **Level:** 150+
 * **Average Grade:** 8.5+
 * **Average Professionalism:** 80%+
 * **Average Presence:** 80%+
 * **Grammar:** 85%+
-* **Messages in Main:** 1000+
+* **Messages in Main:** 500+
 * **Departments:** 0-1
 
 **Requirements**
@@ -54,16 +54,16 @@ Below elaborates on crucial information that should be known prior to promoting 
 
 # **Chairperson-Facility Director Promotion Information**
 **Recommended Minimum Statistics**
-* **Hosts:** 30-40
-* **Co-Hosts:** 25-30
-* **Helpers:** 20-25
-* **Monthly In-Game Minutes:** 2750+
+* **Hosts:** 30-40+
+* **Co-Hosts:** 20-30+
+* **Helpers:** 10-20+
+* **Monthly In-Game Minutes:** 2500+
 * **Level:** 200+
 * **Average Grade:** 8.7+
 * **Average Professionalism:** 83%+
 * **Average Presence:** 83%+
 * **Grammar:** 85%+
-* **Messages in Main:** 1500+
+* **Messages in Main:** 1000+
 * **Departments:** 0-2
 
 **Requirements**
@@ -74,9 +74,9 @@ Below elaborates on crucial information that should be known prior to promoting 
 
 # **Facility Director-Community Advisory Council Promotion Information**
 **Recommended Minimum Statistics**
-* **Hosts:** 55-75
-* **Co-Hosts:** 25-35
-* **Supervisions:** 20-35
+* **Hosts:** 55-75+
+* **Co-Hosts:** 25-35+
+* **Supervisions:** 40-60+
 * **Monthly In-Game Minutes:** 3500+
 * **Level:** 250+
 * **EoTW Awarded:** 1+
@@ -85,8 +85,8 @@ Below elaborates on crucial information that should be known prior to promoting 
 * **Average Professionalism:** 88%+
 * **Average Presence:** 88%+
 * **Grammar:** 90%+
-* **Messages in Main:** 2500+
-* **Departments:** 1-3
+* **Messages in Main:** 1500+
+* **Departments:** 1-3+
 
 **Requirements**
 * Chief of Staff+ approval is required.
@@ -97,8 +97,8 @@ Below elaborates on crucial information that should be known prior to promoting 
 # **Community Advisory Council-Prison Commissioner Promotion Information**
 **Recommended Minimum Statistics**
 * **Hosts:** 65-85+
-* **Co-Hosts:** 35-50+
-* **Supervisions:** 70-100+
+* **Co-Hosts:** 25-40+
+* **Supervisions:** 70-90+
 * **Inspection Helpers:** 1-3+
 * **Monthly In-Game Minutes:** 5000+
 * **Level:** 400+
@@ -108,7 +108,7 @@ Below elaborates on crucial information that should be known prior to promoting 
 * **Average Professionalism:** 90%+
 * **Average Presence:** 90%+
 * **Grammar:** 90%+
-* **Messages in Main:** 3000+
+* **Messages in Main:** 2000+
 * **Departments:** 1-4+
 * **Intel Logs:** 400+
 * **HR Promotions (By Them):** 1+
@@ -123,7 +123,7 @@ Below elaborates on crucial information that should be known prior to promoting 
 # **Prison Commissioner-Board of Governors Promotion Information**
 **Recommended Minimum Statistics**
 * **Hosts:** 75-90+
-* **Co-Hosts:** 65-80+
+* **Co-Hosts:** 40-55+
 * **Supervisions:** 80-100+
 * **Inspection Co-Hosts:** 1-2+
 * **Inspection Helpers:** 1-3+
@@ -135,7 +135,7 @@ Below elaborates on crucial information that should be known prior to promoting 
 * **Average Professionalism:** 95%+
 * **Average Presence:** 95%+
 * **Grammar:** 95%+
-* **Messages in Main:** 5000+
+* **Messages in Main:** 2500+
 * **Departments:** 2-5+
 * **Intel Logs:** 700+
 * **HR Promotions (By Them):** 1-3+

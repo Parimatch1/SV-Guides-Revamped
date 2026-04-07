@@ -380,4 +380,5 @@ Let's begin!
 ---
 
 **Created & Written by Legoking12501**
+
 **Revamped & ReWritten by _________**

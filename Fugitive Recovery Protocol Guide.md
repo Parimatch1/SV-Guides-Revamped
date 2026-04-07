@@ -251,5 +251,5 @@ m The Fugitive Recovery Protocol has now begun, find the fugitive(s) and return 
 
 ---
 
-**Created & Written by Legoking12501**
-**Revamped & ReWritten by _________**
+* **Created & Written by Legoking12501**
+* **Revamped & ReWritten by _________**

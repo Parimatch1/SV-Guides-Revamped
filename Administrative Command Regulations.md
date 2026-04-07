@@ -215,5 +215,5 @@ In the event you forget to provide a reason for a command, do the following:
 
 ---
 
-**Created & Written by Legoking12501**
-**Revamped & ReWritten by _________**
+* **Created & Written by Legoking12501**
+* **Revamped & ReWritten by _________**

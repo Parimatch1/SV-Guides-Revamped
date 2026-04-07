@@ -467,5 +467,5 @@ Note: In the event of a raid against Stateview, 3+ users ranked Prison Commissio
 
 ---
 
-**Created & Written by Legoking12501**
-**Revamped & ReWritten by _________**
+* **Created & Written by Legoking12501**
+* **Revamped & ReWritten by _________**

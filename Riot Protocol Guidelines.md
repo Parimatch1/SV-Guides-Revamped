@@ -339,4 +339,5 @@ The members selected to be criminals, will be teamed momentarily. We ask that yo
 
 ---
 
-**Created by Legoking12501**
+**Created & Written by Legoking12501**
+**Revamped & ReWritten by _________**

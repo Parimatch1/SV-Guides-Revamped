@@ -118,5 +118,5 @@ Stateview CHR Exams are designed to go over a wide catalogue of advanced skills 
 
 ---
 
-**Created & Written by Legoking12501**
-**Revamped & ReWritten by _________**
+* **Created & Written by Legoking12501**
+* **Revamped & ReWritten by _________**

@@ -300,4 +300,5 @@ Automatically determined by the in-game punishment panel. CAC+.
 
 ---
 
-**Created by Legoking12501**
+**Created & Written by Legoking12501**
+**Revamped & ReWritten by _________**

@@ -229,5 +229,5 @@ Approved By:
 
 ---
 
-**Created & Written by Legoking12501**
-**Revamped & ReWritten by _________**
+* **Created & Written by Legoking12501**
+* **Revamped & ReWritten by _________**

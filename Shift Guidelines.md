@@ -338,5 +338,5 @@ You are all dismissed to your roles. Please stay back if you have any questions.
 
 ---
 
-**Created & Written by Legoking12501**
-**Revamped & ReWritten by _________**
+* **Created & Written by Legoking12501**
+* **Revamped & ReWritten by _________**

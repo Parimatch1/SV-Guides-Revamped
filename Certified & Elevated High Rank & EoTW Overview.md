@@ -67,4 +67,5 @@ Every week, the Community Management Team will grant the hardest working user of
 
 ---
 
-**Created by Legoking12501**
+**Created & Written by Legoking12501**
+**Revamped & ReWritten by _________**
